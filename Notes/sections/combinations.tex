@@ -1,0 +1,66 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Combinations and permutations}
+Both of these refer to various ways in which objects from a set may be selected, generally without replacement, to form subsets.\\
+A Permutation refers to selecting a subset where the order of selection matters, while a Combination is when the order does not matter.\\
+In other words, Combinations are counting the how many selections we can make from \(n\) objects, while Permutations count the number of arrangements of \(n\) objects.\\
+The formulas for each are below, where \(n\) is the number of objects and \(r\) is the size of the subset:\\
+
+Permutations: \(^nP_r=\frac{n!}{(n-r)!}\)\\
+
+Combinations: \(^nC_r=(_r^n)=\frac{n!}{r!(n-r)!}\)\\
+
+\noindent E.g. If there are 20 people in a room and they all shake hands with each other, how many handshakes are there?\\
+In this case, we are asking how many different subsets of size 2 can we select from a group of 20?\\
+Since the order doesn't matter, as person A shaking hands with person B is the same as person B shaking hands with person A, we use the \textit{Combination} equation.\\
+
+\((_2^{20})=\frac{20!}{2!(20-2)!}=\frac{20!}{2\times 18!}=\frac{20\times19}{2}=190\)\\
+
+Notice that we can cancel out parts of the factorials since they have common factors, so that\\
+
+\(\frac{20!}{18!}=\frac{20\times 19\times ... \times 2 \times 1}{18 \times 17 \times ... \times 2 \times 1} = 20 \times 19\)\\
+
+E.g. If I want to select a Cantamaths team of 4 students from a class of 16, how many different teams are possible?\\
+
+Again, since the order in not important (team ABCD is the same as team BADC), we use a combination.\\
+
+\((_4^16)=\frac{16!}{4!(16-4)!}=\frac{16!}{4!\times 12!}=\frac{16\times 15\times 14\times 13}{4\times 3\times 2\times 1}=1820\)
+\pagebreak
+
+\subsection*{Questions}
+\label{Combinations and permuations}
+\begin{enumerate}
+    \item 
+    If there are 10 different people in a room and they all shake each other’s hands, how many handshakes are there?
+    \item 
+        \begin{enumerate}
+            \item 5 boys stand in a line, posing for a photo. How many possible orders are there?
+            \item 3 girls then join the group. How many possible photos are there if the girls must stand next to each other?
+        \end{enumerate}
+    \item 
+    We have 6 books to distribute to three students A, B and C.\\
+    How many different ways are there of distributing these books if:
+        \begin{enumerate}
+            \item A is given 1 book, B is given 2 books, and C is given 3 books?
+            \item Each student is given 2 books?
+        \end{enumerate}
+    \item 
+    A company has 20 male employees and 30 female employees. A grievance committee is to be established. If the committee will have 3 male employees and 2 female employees, how many ways can the committee be chosen?
+    \item 
+    Eight candidates are competing to get a job at a prestigious company. The company has the freedom to choose as many as two candidates. In how many ways can the company choose two or fewer candidates.
+    \item 
+    A committee of 5 members must be chosen from a track club. The club has 15 sprinters, 9 jumpers, and 7 long-distance runners. The committee must have exactly 1 jumper and 1 long-distance runner. How many ways can the committee be chosen?
+    \item 
+    There are 10 people forming a commission. Two of them are students from different colleges. The commission is composed of 6 members and if one of the students is in it the other must be as well. How many commissions like these can there be?
+    \item 
+    Using 3 sticks of 5 different colours, how many unique equilateral triangles can be made. Assume you have at least 3 sticks of each colour. Note: if a triangle can be rotated and/or flipped to create another, they are not different.
+    \item 
+    Given \(^pC_q=^pC_r, q\neq r\), express \(p\) in terms of \(q\) and \(r\).
+    \item 
+    There are many integer solutions to the equation \((^n_r)=(^{n+1}_{r-1}),\text{ including } n=r=1 \)//
+    Find an expression for \(n\) in terms of \(r\), and hence find another of the integer solutions.
+\end{enumerate}
+\end{document}

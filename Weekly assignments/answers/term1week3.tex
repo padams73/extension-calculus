@@ -1,0 +1,68 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\section*{Term 1 Week 3}
+\begin{enumerate}
+    \item 
+    Square both sides:\\
+    \(\frac{x+2}{x}-2\sqrt{\frac{x+2}{x}} \sqrt{\frac{x}{x+2}}+\frac{x}{x+2}=\frac{k^2}{16}\)\\
+
+    \(\frac{x+2}{x}-2\sqrt{\frac{x+2}{x}\times \frac{x}{x+2}}+\frac{x}{x+2}=\frac{k^2}{16}\)\\
+
+    \(\frac{x+2}{x}-2+\frac{x}{x+2}=\frac{k^2}{16}\)\\
+
+    Simplifying the left-hand side:\\
+    \(\frac{(x+2)^2-2x(x+2)+x^2}{x(x+2)}=\frac{k^2}{16}\)\\
+
+    \(\frac{x^2+4x+4-2x^2-4x+x^2}{x^2+2x}\)\\
+
+    \(\frac{4}{x^2+2x}=\frac{k^2}{16}\)\\
+
+    Rearrange into a quadratic:\\
+    \(k^2x^2+2k^2x-64=0\)\\
+
+    For real roots, the discriminant is greater than zero:\\
+    \((2k^2)^2-4\times k^2 \times -64>0\)\\
+
+    \(4k^4+256k^2>0\)\\
+
+    \(4k^2(k^2+64)>0\)\\
+
+    Therefore, since \(4k^2\) is greater than zero for all values of \textit{k} other than zero, and \(k^2+64\) is positive for all values of \textit{k}, the equation will have real roots whenever k\(\neq\)0.\\
+    
+    \item 
+    Start with the second equation:\\
+    \(\log_2(\frac{x-y}{x+y})=\log_2(\frac{1}{2})\)\\
+
+    \(\frac{x-y}{x+y}=\frac{1}{2}\)\\
+
+    \(2x-2y=x+y\)\\
+
+    \(x=3y\)\\
+    
+    Substitute into the first equation:\\
+    \(\log_2(9y^2+y^2)=\log_2(2)+\log_2(45)\)\\
+
+    \(\log_2(10y^2)=\log_2(90)\)\\
+
+    \(10y^2=90\)\\
+
+    \(y^2=9\)\\
+
+    \(y=\pm 3\)\\
+
+    We can't have negative solutions as it would give an invalid value in the second equation (can't have a negative value in log), therefore \(x=9, y=3\).\\
+
+    \item 
+    Multiplying the numerator and denominator of each fraction by the conjugate:\\
+    \(\frac{1}{5\sqrt{4}+4\sqrt{5}}\times \frac{5\sqrt{4}-4\sqrt{5}}{5\sqrt{4}-4\sqrt{5}}+\frac{1}{6\sqrt{5}+5\sqrt{6}}\times \frac{6\sqrt{5}-5\sqrt{6}}{6\sqrt{5}-5\sqrt{6}}+...+\frac{1}{11\sqrt{10}+10\sqrt{11}}\times \frac{11\sqrt{10}-10\sqrt{11}}{11\sqrt{10}-10\sqrt{11}}+... \)\\
+
+    \(\frac{5\sqrt{4}-4\sqrt{5}}{20}+\frac{6\sqrt{5}-5\sqrt{6}}{30}+...+\frac{11\sqrt{10}-10\sqrt{11}}{110}+...\)\\
+
+    Separating and simplifying each fraction into two terms:\\
+    \(\frac{\sqrt{4}}{4}-\frac{\sqrt{5}}{5}+\frac{\sqrt{5}}{5}-\frac{\sqrt{6}}{6}+...+\frac{\sqrt{10}}{10}-\frac{\sqrt{11}}{11}+...\)\\
+
+    We can see that every term after the first will cancel out, therefore the final sum is \(\frac{\sqrt{4}}{4}=\frac{1}{2}\)
+\end{enumerate}
+
+\end{document}

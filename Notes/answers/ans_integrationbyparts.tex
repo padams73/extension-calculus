@@ -1,0 +1,130 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\subsection*{Answers - Integration by parts (page \pageref{Integration by parts})}
+
+
+\begin{enumerate}
+    \item \(\int x\cos{x} \, dx\)\\
+    \(u=x\\
+    du=dx\\
+    dv=\cos{x}\\
+    v=\sin{x}\)\\
+    $
+    \!
+    \begin{aligned}
+        \int x\cos{x} \, dx 
+        &= x\sin{x}-\int \sin{x} dx\\
+        &=x\sin{x}+\cos{x}+c\\
+    \end{aligned}
+    $
+
+    \item \(\int 3xe^{3x}\, dx\)\\
+    \(u=3x\\
+    du=3\,dx\\
+    dv=e^{3x}\\
+    v=\frac{e^{3x}}{3}\)\\
+    $
+    \!
+    \begin{aligned}
+        \int 3xe^{3x}\, dx 
+        &=3x\frac{e^{3x}}{3}-\int \frac{e^{3x}}{3}\times 3 \,dx\\
+        &=xe^{3x}-\int e^{3x}\, dx\\
+        &=xe^{3x}-\frac{e^{3x}}{3}+c\\
+    \end{aligned}
+    $
+
+    \item \(\int \ln{x}\, dx\)\\
+    Rewrite as \(\int 1\times \ln{x}\, dx\)\\
+    \(u=\ln{x}\\
+    du=\frac{1}{x}\,dx\\
+    dv=1\\
+    v=x\)\\
+    $
+    \!
+    \begin{aligned}
+        \int \ln{x}\, dx
+        &=x\ln{x}-\int x\times \frac{1}{x}\, dx\\
+        &=x\ln{x}-\int 1\, dx\\
+        &=x\ln{x}-x+c\\
+    \end{aligned}
+    $
+
+    \item \(\int x^2 \sin{2x} \, dx\)\\
+    \(u=x^2\\
+    du=2x\,dx\\
+    dv=\sin{2x}\\
+    v=-\frac{\cos{2x}}{2}\)\\
+    $
+    \!
+    \begin{aligned}
+        \int x^2 \sin{2x} \, dx
+        &=\frac{-x^2\cos{2x}}{2}-\int -x\cos{2x}\, dx\\
+        &=\frac{-x^2\cos{2x}}{2}+\int x\cos{2x}\, dx\\
+    \end{aligned}
+    $
+    
+    Need to use integration by parts a second time:\\
+    \(\int x\cos{2x}\, dx\)\\
+    \(u=x\\
+    du=dx\\
+    dv=\cos{2x}\\
+    v=\frac{\sin{2x}}{2}\)\\
+    \(\int x\cos{2x}\, dx=\frac{x\sin{2x}}{2}-\int \frac{\sin{2x}}{2}\,dx=\frac{x\sin{2x}}{2}+\frac{\cos{2x}}{4}\)\\
+
+    So the full integral is:\\
+    \(\int x^2 \sin{2x} \, dx=\frac{-x^2\cos{2x}}{2}+\frac{x\sin{2x}}{2}+\frac{\cos{2x}}{4}+c\)\\
+    
+    \item \(\int e^x \sin{x}\, dx\)\\
+    \(u=\sin{x}\\
+    du=\cos{x}\,dx\\
+    dv=e^x\\
+    v=e^x\)\\
+    \(\int e^x \sin{x}\, dx=e^x\sin{x}-\int e^x\cos{x}\,dx\)\\
+
+    We need to use integration by parts for the second term:\\
+    \(u=\cos{x}\\
+    du=-\sin{x}\,dx\\
+    dv=e^x\\
+    v=e^x\)\\
+    \(\int e^x\cos{x}\,dx=e^x\cos{x}-\int -e^x\sin{x}\,dx=e^x\cos{x}+\int e^x\sin{x}\, dx\)\\
+
+    Substituting into the original integral:\\
+    $
+    \!
+    \begin{aligned}
+        \int e^x \sin{x}\, dx
+        &=e^x\sin{x}-(e^x\cos{x}+\int e^x\sin{x}\, dx)\\
+        &=e^x\sin{x}-e^x\cos{x}-\int e^x\sin{x}\, dx\\
+    \end{aligned}
+    $
+
+    Rearranging and solving:\\
+    \(2\int e^x \sin{x}\, dx=e^x\sin{x}-e^x\cos{x}\)\\
+    \(\int e^x \sin{x}\, dx=\frac{e^x\sin{x}-e^x\cos{x}}{2}+c\)\\
+    
+    \item \(\int x^5 \sqrt{x^3+1}\, dx\) 
+    This is a particularly difficult integral, and requires us to look at the square root carefully. Since there is an \(x^3\) term inside the root, having an \(x^2\) term multiplying it would make it easier to integrate.\\
+    
+    Therefore, we will choose the following:\\
+    \(u=x^3\\
+    du=3x^2\,dx\\
+    dv=x^2\sqrt{x^3+1}\)\\
+    Integrating by substitution:\\
+    \(\int x^2 \sqrt{x^3+1}\, dx\) \\
+    \(u=x^3+1\\
+    du=3x^2\,dx\)\\
+    \(\int \frac{1}{3}u^{\frac{1}{2}}\,du=\frac{2}{9}u^{\frac{3}{2}}=\frac{2}{9}(x^3+1)^{\frac{3}{2}}\)\\
+
+    So, the integration by parts of the original function looks like this:\\
+    $
+    \!
+    \begin{aligned}
+        \int x^5 \sqrt{x^3+1}\, dx
+        &=x^3\times \frac{2}{9}(x^3+1)^{\frac{3}{2}}-\int \frac{2}{3}x^2(x^3+1^{\frac{3}{2}})\,dx\\
+        &=\frac{2x^3}{9}(x^3+1)^{\frac{3}{2}}-\frac{4}{45}(x^3+1)^{\frac{5}{2}}+c
+    \end{aligned}$
+
+    
+\end{enumerate}
+\end{document}

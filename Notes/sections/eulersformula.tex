@@ -1,0 +1,60 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\section{Euler's Formula}
+One of the most famous equations in maths was discovered by Leonhard Euler. In it, he ties together \(i,\pi \text{ and } e\).\\
+
+He found that any complex number \(z=r(\cos{\theta}+i\sin{\theta})\) could be written in the form \(z=re^{i\theta}\).\\
+
+This means that \(e^{i\theta}=\cos{\theta}+i\sin{\theta}\), where \(\theta\) is the argument in radians of the complex number. Since the argument is the rotation about the origin, it leads to the most famous result, called Euler's Identity:
+
+\[e^{i\pi}=-1\]
+
+Euler's Formula is often referred to as polar form at university, and makes it similarly easy for us to solve problems involving complex numbers.\\
+
+For example:\\
+\(2e^{2i} \times 3e^{5i}=6e^{7i}\)\\
+
+\(e^{2i} \div e^{3i}=e^{-i}\)\\
+
+If you have to change from rectangular into polar form:\\
+If \(z=1-i\), find \(z^7\).\\
+
+\(|1-i|=\sqrt{1^2+(-1)^2}=\sqrt{2}\)\\
+\(arg(1-i)=-\frac{\pi}{4}\)\\
+Hence, \(z=\sqrt{2}e^{-\frac{i\pi }{4}}\)\\
+\(z^7=(\sqrt{2})^7 e^{-\frac{7i\pi}{4}}\)\\
+\(z^7=2^{\frac{7}{2}}e^{\frac{i\pi}{4}}\)\\
+
+A harder example:\\
+Find the value of \(i^i\)\\
+
+Since we know that \(i=e^{\frac{i\pi}{2}}\), as it is only a revolution of \(\frac{\pi}{2}\) radians to get to the imaginary axis, we can rewrite the expression as \(i^i=e^{(\frac{i\pi}{2})^{i}}\)\\
+Then, using power rules, we simply multiply the powers together:\\
+\(i^i=e^{\frac{i^2\pi}{2}}=e^{-\frac{\pi}{2}}=-i\)\\
+
+
+\pagebreak
+
+\subsection*{Questions}
+\label{eulersformula}
+\begin{enumerate}
+    \item 
+    Find the value of \((-i)^i\)\\
+
+    \item 
+    Find the value of \(\ln{(-1)}\)\\
+
+    \item 
+    Suppose you have forgotten the formulas for the sine and cosine of a sum and a difference, but do remember the formula \(e^{z+w}=e^z e^w\), with \(z, w \in \mathbb{C} \).\\
+    Use this latter formula to find formulas for \(\cos{(A-B)}\) and \(\sin{(A+B)}\) with A and B real.\\
+
+    \item 
+    Determine the exact \textbf{real} value of \(i^{i^{2}}\)\\
+
+    \item 
+    Write the complex number \(\ln{(-25e^{i^{i}})}\) in exact rectangular form.\\
+
+    
+\end{enumerate}
+\end{document}

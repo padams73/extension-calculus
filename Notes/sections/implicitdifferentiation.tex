@@ -1,0 +1,103 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\section{Implicit differentiation}
+Many curves cannot be expressed directly as functions. Remember, a function must only ever output \textbf{one} value per input, so curves like \(x^2+y^2=100\) are not functions.\\
+Despite this, it is obvious that we can still draw tangents and normals to such curves.\\
+In cases like these, when we differentiate we need to take a slightly different approach, applying the \textbf{Chain Rule} to differentiate implicitly.\\
+
+We could try rearranging to make \(y\) the subject, and then differentiate:\\
+\(x^2+y^2=100\)\\
+\(y^2=100-x^2\)\\
+\(y=\pm\sqrt{100-x^2}\)\\
+This is not ideal as we would need to evaluate two different derivatives, one for the plus and one for the minus.\\
+\subsection*{The theory behind it}
+Basically we are just applying the Chain Rule to differentiate any function containing \(y\) with respect to \(x\).\\
+We just make a substitution where \(u = f(y)\).\\
+
+From the Chain Rule, we know that \(\frac{du}{dx}=\frac{du}{dy}\times\frac{dy}{dx}\)\\
+
+Therefore, the derivative of a term containing \(y\) will be the derivative of that term with respect to \(y\) multiplied by \(\frac{dy}{dx}\).\\
+
+For example, how would we differentiate \(y^2\) with respect to \(x\)?\\
+If we make \(u=y^2\) we get:\\
+\(\frac{d}{dx}(y^2)=\frac{d}{dy}y^2\times\frac{dy}{dx}\)\\
+
+Which gives:\\
+\(\frac{d}{dx}(y^2)=2y\times\frac{dy}{dx}\)\\
+
+In practice, we are differentiating \(y^2\) with respect to \(y\) and then multiplying by \(\frac{dy}{dx}\)\\ \\
+Another example, consider \(x^2+y^2=100\)
+\begin{enumerate}
+    \item First, we differentiate term by term.\\
+    \( 2x + 2y\times\frac{dy}{dx}=0\)
+    \item Then we rearrange to make \(\frac{dy}{dx}\) the subject.\\
+    $
+    \!
+    \begin{aligned}[t]
+     2x + 2y\times\frac{dy}{dx}
+        &= 0 \\
+     2y\times\frac{dy}{dx}
+        &= -2x \\
+    \frac{dy}{dx}
+        &= \frac{-2x}{2y} \\
+    \frac{dy}{dx}
+        &= \frac{-x}{y}
+    \end{aligned}
+    $
+\end{enumerate}
+
+\subsection*{Applying the product rule}
+When a term has both \(x\) and \(y\) components, we need to split it into two factors and apply the product rule.\\
+Remember, the product rule is \( (fg)' = f'g +g'f\).\\ \\
+For example, differentiate \(2x^2y+3xy^2=16\)\\ \\
+Differentiating term by term gives us:\\
+\(4xy + 2x^2\times\frac{dy}{dx}+3y^2+6xy\times\frac{dy}{dx}=0\)\\ \\
+We then rearrange to make \(\frac{dy}{dx}\) the subject:\\
+    $
+    \!
+    \begin{aligned}[t]
+     4xy + 2x^2\times\frac{dy}{dx}+3y^2+6xy\times\frac{dy}{dx}
+        &= 0 \\
+     2x^2\times\frac{dy}{dx}+6xy\times\frac{dy}{dx}
+        &= -4xy-3y^2 \\
+    (2x^2+6xy)\frac{dy}{dx}
+        &= -4xy-3y^2 \\
+    \frac{dy}{dx}
+        &= \frac{-4xy-3y^2}{2x^2+6xy}
+    \end{aligned}
+    $
+
+\pagebreak
+
+\subsection*{Questions}
+\label{Implicit Differentiation}
+For each of the following, find \(\frac{dy}{dx}\):
+\begin{enumerate}
+    \item \(4x^2 +2y^2 = 7\) \\
+    \item \(6xy^2 - 3y=10\) \\
+    \item \(5x^2y^2 -3xy=4\) \\
+\end{enumerate}
+Scholarship questions will involve implicit differentiation as part of the solution.
+\begin{enumerate}
+    \setcounter{enumi}{3}
+    \item \(y=f(x)\) is defined implicitly by the following: \(xy+e^y=2x+1\)\\ \\
+    Evaluate \( \frac{d^2y}{dx^2}\) at \(x=0\)\\
+    \item The hyperbolic functions \(\sinh{x}\) and \(\cosh{x}\) are defined as follows:
+    \begin{align*}
+        &\hspace{0.5cm} \sinh{x}=\frac{1}{2}(e^x-e^{-x}) 
+        &\hspace{0.5cm} \cosh{x}=\frac{1}{2}(e^x+e^{-x}) 
+    \end{align*}    
+    The inverse function of \(\sinh{x}\) is denoted by \(\sinh^{-1}{x}\)\\ \\
+    By implicit differentiation, or otherwise, show that \( \frac{d(\sinh^-1x)}{dx}=\frac{1}{\sqrt{x^2+1}}\)\\
+    \textit{Note:} \(\sinh^2{x}-\cosh^2{x}=-1\)\\
+    \textit{Hint: consider the substitution \(y=\sinh^{-1}(x)\)}\\
+    \item A point P is moving around the circle \(x^2+y^2=25\)\\
+    When the coordinates of P are (3,4), the \textit{y}-coordinate is decreasing at a rate of 2 units per second.\\ \\
+    At what rate is the \textit{x}-coordinate changing at this time?
+\end{enumerate}
+
+\pagebreak
+
+
+\end{document}

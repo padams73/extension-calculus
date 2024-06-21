@@ -1,0 +1,85 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Integration by parts}
+There are some products that cannot be integrated by the reverse chain rule or by substitution. For these, we use a technique called 'integration by parts', which is just the product rule in reverse. It is used when integrating the product of a function and the derivative of another function.\\
+
+To see where this technique comes from, consider the product rule where we differentiate the product of two functions, \textit{u} and \textit{v}:\\
+
+\(\frac{d}{dx}uv=u'v + v'u\)\\
+
+If we integrate both sides with respect to \textit{x}:
+\(\int \frac{d}{dx}uv\,dx=\int (u'v + v'u)\,dx\)\\
+
+Since integration undoes differentiation and integrals can be split across sums, we can rewrite this as:\\
+\(uv=\int u'v\,dx + \int v'u\,dx\,dx\)\\
+
+Rearranging this, we get the formula for integration by parts:\\
+\[\int uv'\,dx\,dx = uv - \int u'v\,dx\]\\
+
+You may sometimes see this written as:\\
+\[\int u \,dv=uv-\int v \, du\]\\
+
+For example, evaluate the integral \(\int x \sin{x} \, dx\)\\
+We would choose \(u=x\) as this differentiates to a constant, so \(du = 1\).\\
+This also means that \(dv=\sin{x}\)\\
+Integrating \(dv\), we get \(v=-\cos{x}\)//
+
+Therefore, the integral is:\\
+$
+\!
+\begin{aligned}
+    \int x \sin{x} \, dx
+    &=-x\cos{x}- \int -\cos{x} \, dx\\
+    &=-x\cos{x} + \int \cos{x} \, dx\\
+    &=-x\cos{x}+\sin{x}+c\\
+\end{aligned}
+$
+
+Another example:\\
+\(\int x \ln{x} \,dx\)\\
+
+In this example, note that we don't know how to easily integrate \(\ln{x}\), so we are best to choose \(u=\ln{x}\) and \(dv=x\).\\
+
+Therefore:\\
+\(du=\frac{1}{x}\) and \(v=\frac{x^2}{2}\)\\
+
+Substituting into our equation for integration by parts:\\
+$
+\!
+\begin{aligned}
+    \int x\ln{x}\, dx
+    &= \frac{x^2}{2}\ln{x}-\int \frac{x^2}{2}\times \frac{1}{x}\, dx\\
+    &=\frac{x^2}{2}\ln{x}-\int \frac{x}{2}\, dx\\
+    &=\frac{x^2}{2}\ln{x}-\frac{x^2}{4}+c
+\end{aligned}
+$
+
+\pagebreak
+
+\subsection*{Questions}
+\label{Integration by parts}
+
+\begin{enumerate}
+    \item \(\int x\cos{x} \, dx\)\\
+
+    \item \(\int 3xe^{3x}\, dx\)\\
+
+    \item \(\int \ln{x}\, dx\)\\
+
+    \item \(\int x^2 \sin{2x} \, dx\)\\
+
+    \item \(\int e^x \sin{x}\, dx\)\\
+
+    \item \(\int x^5 \sqrt{x^3+1}\, dx\)
+    
+    
+\end{enumerate}
+
+
+\pagebreak
+
+
+\end{document}

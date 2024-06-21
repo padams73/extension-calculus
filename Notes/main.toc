@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Binomial expansion}{3}{}%
+\contentsline {section}{\numberline {2}Implicit differentiation}{5}{}%
+\contentsline {section}{\numberline {3}Sum of roots of polynomials}{8}{}%
+\contentsline {section}{\numberline {4}Combinations and permutations}{10}{}%
+\contentsline {section}{\numberline {5}Turning equations into quadratics}{12}{}%
+\contentsline {section}{\numberline {6}Euler's Formula}{14}{}%
+\contentsline {section}{\numberline {7}Integration by parts}{16}{}%
+\contentsline {section}{\numberline {8}Integration by parts - DI Method}{19}{}%
+\contentsline {section}{\numberline {9}Trig substitutions for integration}{23}{}%

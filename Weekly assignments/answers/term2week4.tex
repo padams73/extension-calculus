@@ -1,0 +1,56 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\section*{Term 2 Week 4}
+\begin{enumerate}
+    \item 
+    \(P(x)=ax^3+bx^2+cx+d\)\\
+    
+    \(P(\sqrt{5})=5\sqrt{5}a+5b+\sqrt{5}c+d=5\)\\
+    \(P(\sqrt{5})=(5a+c)\sqrt{5}+(5b+d-5)=0\)\\
+    Since we know that all coefficients are integer, \(5a+c=0\) and \(5b+d-5=0\).\\
+
+    \(P(\sqrt[3]{5}=5a+\sqrt[3]{25}b+\sqrt[3]{5}c+d-5\sqrt[3]{5}=0\)\\
+    \(P(\sqrt[3]{5})=(5a+d)+(c-5)\sqrt[3]{5}+\sqrt[3]{25}b=0\)\\
+    We know that \(5a+d=0\) and \(c-5=b\)\\
+
+    Solving these four equations, we get \(a=-1, b=0, c=5, d=5\)\\
+    \(P(x)=-x^3+5x+5\)\\
+    \(P(5)=-(5)^3+5(5)+5=-125+25+5=-95\)\\
+
+    \item 
+    Since we know the expression must be an integer, we know that \(\sqrt{n-1}\) must be an integer. Therefore we can make a substitution \(x^2=n-1\). This also means that \(n=x^2 +1\).\\
+
+    Then we can rewrite the expression in terms of \textit{x}:\\
+    \(\frac{x^2+1+7}{\sqrt{x^2}}=\frac{x^2+8}{x}\)\\
+
+    Simplifying into two terms:\\
+    \(\frac{x^2+8}{x}=x+\frac{8}{x}\)\\
+
+    This means that \textit{x} must be a factor of 8. Our possible solutions are \(x=1, 2, 4, 8\).\\
+
+    For each of these values of \textit{x}, we get corresponding values of \textit{n}.\\
+    \(n=2, 5, 17, 65\)\\
+    The sum of these is \(2+5+17+65=89\)\\
+
+    \item 
+    First, the definition of relatively prime numbers is that they have no common factors other than 1.\\
+    
+    There are 31 matches in total (16 in round 1, 8 in round 2, 4 in round 3, 2 in round 4 and 1 in round 5).\\
+
+    There are \((^{32}_2)=496\) possible pairs of players and each pair is equally likely to play each other at some point during the tournament. Therefore, the probability that Ava and Tiffany play each other is \(\frac{31}{496}=\frac{1}{16}\). (Note that 31 and 496 are not relatively prime therefore we needed to simplify the fraction.)\\
+
+    This gives \(100a+b=100(1)+16=116\)\\
+
+    \item 
+    Substitute in \(x=r\), giving \(P(r)=r^3+r^2-r^3-2024=0\).\\
+
+    This means that \(r^2=2024\)\\
+
+    Therefore \(P(x)=x^3+x^2-2024x-2024\)\\
+
+    \(P(1)=1+1-2024-2024=-4046\)
+   
+\end{enumerate}
+
+\end{document}

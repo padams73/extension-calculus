@@ -1,0 +1,73 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{subfiles}
+\usepackage{setspace}
+\usepackage[skip=0pt, indent=0pt]{parskip}
+\geometry{letterpaper, portrait, margin=1in}
+
+
+\title{Calculus Scholarship Notes}
+\author{Phil Adams}
+\date{June 2024}
+
+\begin{document}
+
+\maketitle
+
+\pagebreak
+
+\tableofcontents
+% Use this to change paragraph spacing throughout
+\setlength{\parskip}{0pt}
+\pagebreak
+\subfile{sections/binomialexpansion}
+\pagebreak
+\subfile{sections/implicitdifferentiation}
+\pagebreak
+\subfile{sections/sumofroots}
+\pagebreak
+\subfile{sections/combinations}
+\pagebreak
+\subfile{sections/quadratics}
+\pagebreak
+\subfile{sections/eulersformula}
+\pagebreak
+\subfile{sections/integrationbyparts}
+\pagebreak
+\subfile{sections/dimethod}
+\pagebreak
+\subfile{sections/trigsubstitution}
+% Answers sections
+\pagebreak
+\newgeometry{top=10cm}
+\begin{center}
+    \huge
+    Solutions
+    \normalsize
+\end{center}
+\restoregeometry
+
+\pagebreak
+\subfile{answers/ans_binomialexpansion}
+\pagebreak
+\subfile{answers/ans_implicitdifferentiation}
+\pagebreak
+\subfile{answers/ans_sumofroots}
+\pagebreak
+\subfile{answers/ans_combinations}
+\pagebreak
+\subfile{answers/ans_quadratics}
+\pagebreak
+\subfile{answers/ans_eulersformula}
+\pagebreak
+\subfile{answers/ans_integrationbyparts}
+\pagebreak
+\subfile{answers/ans_dimethod}
+\pagebreak
+\subfile{answers/ans_trigsubs}
+\end{document}

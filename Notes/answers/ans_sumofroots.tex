@@ -1,0 +1,50 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\subsection*{Answers - Sum of Roots (page \pageref{Sum of roots})}
+
+\begin{enumerate}
+\begin{spacing}{1.5}
+    \item 
+    \(z^{11}=1=\cos{0}+i\sin{0}\)\\
+    \(z=\cos{(\frac{2\pi k}{11})}+i\sin{(\frac{2\pi k}{11})}, k=0, \pm1, \pm2, \pm3, \pm4\)\\
+    Since \(z^{11}=1\) is the same as \(z^{11}+z^{10}+...-1=0\), we know the sum of the roots is zero.\\
+    Also, since \(\cos{x}\) is an even function, we know that \(\cos{(-\frac{2\pi k}{11})}=\cos{(\frac{2\pi k}{11})}\).\\
+    This means that the sum of the roots is:\\
+    $
+    \!
+    \begin{aligned}[t]
+    \cos{0}+2\cos{(\frac{2\pi}{11})}+2\cos{(\frac{4\pi}{11})+2\cos{(\frac{6\pi}{11}})}+2\cos{(\frac{8\pi}{11})}+2\cos{(\frac{10\pi}{11})}
+    &=0\\
+    1+2\cos{(\frac{2\pi}{11})}+2\cos{(\frac{4\pi}{11})+2\cos{(\frac{6\pi}{11}})}+2\cos{(\frac{8\pi}{11})}+2\cos{(\frac{10\pi}{11})}
+    &=0\\
+    2\cos{(\frac{2\pi}{11})}+2\cos{(\frac{4\pi}{11})+2\cos{(\frac{6\pi}{11}})}+2\cos{(\frac{8\pi}{11})}+2\cos{(\frac{10\pi}{11})}
+    &=-1\\
+    \cos{(\frac{2\pi}{11})}+\cos{(\frac{4\pi}{11})+\cos{(\frac{6\pi}{11}})}+\cos{(\frac{8\pi}{11})}+\cos{(\frac{10\pi}{11})}
+    &=-\frac{1}{2}\\
+    \end{aligned}
+    $
+    \item \(z^5-1=0\)\\
+    \(\alpha^5-1=0\)\\
+    \((\alpha-1)(\alpha^4+\alpha^3+\alpha^2+\alpha+1=0)\)\\
+    But \( \alpha\) is complex, so\\
+    \(\alpha^4+\alpha^3+\alpha^2+\alpha+1=0\)\\
+    \(\alpha^4+\alpha^3+\alpha^2+\alpha=-1\)\\
+    As required.
+    \item Sum of the roots is \(\sin{\theta}+\cos{\theta}\)\\
+    $
+    \!
+    \begin{aligned}[t]
+        \frac{\sin{\theta}}{1-\cot{\theta}}+\frac{\cos{\theta}}{1-\tan{\theta}}
+        &=\frac{\sin{\theta}}{1-\frac{\cos{\theta}}{\sin{\theta}}}+\frac{\cos{\theta}}{1-\frac{sin{\theta}}{\cos{\theta}}}\\
+        &=\frac{\sin{\theta}}{\frac{\sin{\theta}}{\sin{\theta}}-\frac{\cos{\theta}}{\sin{\theta}}}+\frac{\cos{\theta}}{\frac{\cos{\theta}}{\cos{\theta}}-\frac{sin{\theta}}{\cos{\theta}}}\\
+        &=\frac{\sin^2{\theta}}{\sin{\theta}-\cos{\theta}}+\frac{\cos^2{\theta}}{\cos{\theta}-\sin{\theta}}\\
+        &=\frac{\sin^2{\theta}-\cos^2{\theta}}{\sin{\theta}-\cos{\theta}}\\
+        &=\frac{(\sin{\theta}+\cos{\theta})(\sin{\theta}-\cos{\theta})}{\sin{\theta}-\cos{\theta}}\\
+        &=\sin{\theta}+\cos{\theta}\\
+        &\text{As required.}
+    \end{aligned}
+    $
+\end{spacing}  
+\end{enumerate}
+\end{document}

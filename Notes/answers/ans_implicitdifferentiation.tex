@@ -1,0 +1,84 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\subsection*{Answers - Implicit differentiation (page \pageref{Implicit Differentiation})}
+
+\begin{spacing}{1.5}
+\begin{enumerate}
+    \item
+    $
+    \!
+    \begin{aligned}[t]
+        8x + 4y\times\frac{dy}{dx}
+        &= 0 \\
+        4y\times\frac{dy}{dx}
+        &=-8x\\
+        \frac{dy}{dx}
+        &=\frac{-2x}{y}
+    \end{aligned}
+    $
+    \item 
+    $
+    \!
+    \begin{aligned}[t]
+        6y^2+12xy\times\frac{dy}{dx}-3\frac{dy}{dx}
+        &=0\\
+        (12xy-3)\frac{dy}{dx}
+        &=-6y^2\\
+        \frac{dy}{dx}
+        &=\frac{-2y^2}{4xy-1}
+    \end{aligned}
+    $
+    \item 
+    $
+    \!
+    \begin{aligned}[t]
+        10xy^2+10x^2y\frac{dy}{dx}-3y-3x\frac{dy}{dx}
+        &=0\\
+        (10x^2y-3x)\frac{dy}{dx}
+        &=3y-10xy^2\\
+        \frac{dy}{dx}
+        &=\frac{3y-10xy^2}{10x^2y-3x}
+    \end{aligned}
+    $
+    \item 
+    \(y+x\frac{dy}{dx}+e^y\frac{dy}{dx}=2\)\\
+    \(\frac{dy}{dx}=\frac{2-y}{x+e^y} \) \\
+    \(\frac{d^2y}{dx^2}=\frac{-(x+e^y)\frac{dy}{dx}-(2-y)(1+e^y\frac{dy}{dx})}{(x+e^y)^2}\)\\
+    When \(x=0, e^y=1\Rightarrow{}y=0\text{ and }\frac{dy}{dx}=\frac{2-0}{0+1}=2\)\\
+    Hence,\\
+    $
+    \!
+    \begin{aligned}[t]
+        \frac{d^2y}{dx^2}
+        &=\frac{-(x+e^y)\frac{dy}{dx}-(2-y)(1+e^y\frac{dy}{dx})}{(x+e^y)^2}\\
+        &=\frac{-(0+1)2-(2-0)(1+2\times2)}{(0+1)^2}\\
+        &=-8\\
+    \end{aligned}
+    $
+    \item 
+    
+    $
+    \text{Let} y=\sinh^{-1}{x}\Rightarrow{}\sinh{y}=x\\
+    x=\frac{1}{2}(e^y-e^{-y})\Rightarrow{}\\
+    \text{Differentiating implicitly:}\\
+    1=\frac{1}{2}(e^y\frac{dy}{dx}+e^{-y}\frac{dy}{dx})\\
+    \frac{dy}{dx}(\frac{1}{2}(e^y+e^{-y}))=1\\
+    \frac{dx}{dy}=(\frac{1}{2}(e^y+e^{-y}))\Rightarrow\\
+    \frac{dx}{dy}=\cosh{y}\Rightarrow\frac{dy}{dx}=\frac{1}{\cosh{y}}\\
+    \text{From the definition: }\sinh^2{x}-\cosh^2{x}=-1\\
+    \cosh{y}=\sqrt{(\sinh{y})^2+1}\\
+    \frac{dy}{dx}=\frac{1}{\cosh{y}}=\frac{1}{\sqrt{(\sinh{y})^2+1}}=\frac{1}{\sqrt{x^2+1}}
+    $
+    
+    \item
+ 
+        \(x^2+y^2=25 \)\\
+        \(2x+2y\frac{dy}{dx}=0\)\\
+        \(\frac{dy}{dx}=-\frac{x}{y} \)\\
+        \(\frac{dy}{dx}|_{(3,4)}=-\frac{3}{4}\) \\
+        \(\frac{dx}{dt}=\frac{dx}{dy}.\frac{dy}{dt}\)\\
+        \( \frac{dx}{dt}=-\frac{4}{3}\times-2=\frac{8}{3}\)
+\end{enumerate}
+\end{spacing}
+\end{document}

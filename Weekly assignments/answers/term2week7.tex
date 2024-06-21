@@ -1,0 +1,127 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\section*{Term 2 Week 7}
+\begin{enumerate}
+    \item 
+    Find all polynomials \(f(x)\) such that \(f(2x)=f'(x).f''(x)\)\\
+
+    Start by supposing that the polyomial is of degree \textit{n}. Then comparing degrees on each side we have the following:\\
+    \(x^n=x^{n-1} \times x^{n-2}=x^{2n-3}\)\\
+
+    This means that \(n=2n-3\), giving \(n=3\), therefore \(f(x)\) is a cubic. Note that this assumes that \(n-1\) is non-zero.\\
+
+    If \(f(x)\) was linear, meaning \(n-1=0\), then the degree on the right would be zero, the second derivative would be zero, giving \(f(x)=0\) as one valid solution.\\
+
+    Looking at the cubic solution, we examine the coefficients:\\
+    \(f(x)=ax^3+bx^2+cx+d\)\\
+
+    \(f'(x)=3ax^2+2bx+c\)\\
+    \(f''(x)=6ax+2b\)\\
+    \(f(2x)=a(2x)^3+b(2x)^2+c(2x)+d=8ax^3+4bx^2+2cx+d\)\\
+
+    Equating the two sides one term at a time:\\
+    \(x^3\) terms:\\
+    \(8ax^3=3ax^2 \times 6ax=18a^2x^3\)\\
+    Therefore, \(8a=18a^2\), meaning \(a=\frac{4}{9}\)\\
+
+    This makes our cubic \(f(x)=\frac{4}{9}x^3+bx^2+cx+d\)\\
+
+    \(f'(x)=\frac{4}{3}x^2+2bx+c\)\\
+    \(f''(x)=\frac{8}{3}x+2b\)\\
+    \(f(2x)=\frac{32}{9}x^3+4bx^2+2cx+d\)\\
+
+    \(x^2\) terms:\\
+    \(4bx^2=\frac{4}{3}x^2 \times 2b + 2bx \times \frac{8}{3}x\)\\
+    \(4b=\frac{8}{3}b+\frac{16}{3}b=8b\)\\
+    \(4b=8b \Rightarrow b=0\)\\
+
+    This makes our cubic \(f(x)=\frac{4}{9}x^3+cx+d\)\\
+
+    \(f'(x)=\frac{4}{3}x^2+c\)\\
+    \(f''(x)=\frac{24}{9}x\)\\
+    \(f(2x)=\frac{32}{9}x^3+2cx+d\)\\
+
+    \(x\) terms:\\
+    \(2c=\frac{24}{9}c \Rightarrow c=0\)\\
+    
+    This makes our cubic \(f(x)=\frac{4}{9}x^3+d\)\\
+
+    \(f'(x)=\frac{4}{3}x^2\)\\
+    \(f''(x)=\frac{24}{9}x\)\\
+    \(f(2x)=\frac{32}{9}x^3+d\)\\
+
+    Constant term must therefore be zero.\\
+
+    This means the only possible solutions for \(f(x)\) are \(f(x)=0\) and \(f(x)=\frac{4}{9}x^3\).\\
+    
+    \item 
+    
+    Let \(x, y \text{ and } z\) be three 3-digit Real numbers that, between them, contain all the digits from 1-9.\\
+    If:
+    \begin{itemize}
+        \item 
+            \(x+y=z\)
+        \item 
+            \(z\) is a power of a prime
+        \item 
+            Each digit of \(x\) is lower than the corresponding digit of \(y\)
+    \end{itemize}
+    Find \(x, y\) and \(z\).\\
+
+    \item
+    \(e^{i(A-B)}=e^{iA}e^{-iB}\)\\
+    This means that:\\
+    $
+    \!
+    \begin{aligned}[t]
+    \cos{(A-B)+i\sin{(A-B)}}
+    &=(\cos{(A)+i\sin{(A)}})(\cos{(-B)+i\sin{(-B)}})\\
+    &=(\cos{(A)+i\sin{(A)}})(\cos{(B)-i\sin{(B)}})
+    \end{aligned}\\
+    $
+    
+    Equating real and imaginary parts:\\
+    $
+    \!
+    \begin{aligned}[t]
+    \cos{(A-B)}
+    &=\cos{(A)}\cos{(B)}+\sin{(A)}\sin{(B)}\\
+    \sin(A-B)
+    &=\cos{(B)}\sin{(A)}-\cos{(A)}\sin{(B)}\\
+    \end{aligned}\\
+    $
+
+    Substituting \(-B\) for \(B\) in the second equation:\\
+    \(\sin{(A+B)}=\sin{(A)}\cos{(-B)}-\cos{(A)}\sin{(-B)}=\sin{(A)}\cos{(B)}+\cos{(A)}\sin{(B)}\)\\
+
+    \item 
+    \(\int \sin^2{(x)}\cos^2{(x)} \,dx\)\\
+    Use the Double Angle identities to rewrite each factor:\\
+    \(\cos{2x}=2\cos^2{x}-1\\
+    \cos^2{x}=\frac{1}{2}(1+\cos{2x})\)\\
+    \(\cos{2x}=1-2\sin^2{x}\\
+    \sin^2{x}=\frac{1}{2}(1-\cos{2x})\)\\
+
+    Substituting into the integral:\\
+    \(\int \frac{1}{2}(1+\cos{2x}) \times \frac{1}{2}(1-\cos{2x}) \,dx\)\\
+    \(\frac{1}{4}\int (1+\cos{2x})(1-\cos{2x}) \,\)\\
+    \(\frac{1}{4}\int (1-\cos^2{2x}) \,dx\)\\
+
+    Use the Double Angle identity a second time:\\
+    \(\cos{4x}=2\cos^2{2x}-1\)\\
+    \(\cos^2{2x}=\frac{1}{2}(1+\cos{4x})\)\\
+
+    Substitute into the integral:\\
+    \(\frac{1}{4}\int (1-\frac{1}{2}(1+\cos{4x}))\,dx\)\\
+    \(\frac{1}{4}\int (1-\frac{1}{2}-\frac{1}{2}\cos{4x})\,dx\)\\
+    \(\frac{1}{4}\int (\frac{1}{2}-\frac{1}{2}\cos{4x})\,dx\)\\
+    \(\frac{1}{4}\int \frac{1}{2}(1-\cos{4x})\,dx\)\\
+    \(\frac{1}{8}\int (1-\cos{4x})\,dx\)\\
+
+    Finally, integrate term by term:\\
+    \(\frac{1}{8}\int (1-\cos{4x})\,dx=\frac{1}{8}(x-\frac{\sin{4x}}{4})+c=\frac{x}{8}-\frac{\sin{4x}}{32}+c\)\\
+    
+    \end{enumerate}
+
+\end{document}

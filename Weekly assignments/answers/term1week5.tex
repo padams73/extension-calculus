@@ -1,0 +1,89 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\section*{Term 1 Week 5}
+\begin{enumerate}
+    \item 
+    \(\int (\frac{1-\sin{x}}{1+\sin{x}} \times \frac{1-\sin{x}}{1-\sin{x}}) dx\)\\
+
+    \(\int \frac{1-2\sin{x}+\sin^2{x}}{1-\sin^2{x}} dx\)\\
+
+    \(\int \frac{1-2\sin{x}+\sin^2{x}}{\cos^2{x}} dx\)\\
+
+    \(\int \frac{1}{\cos^2{x}} dx-\int \frac{2\sin{x}}{\cos^2{x}}dx + \int \frac{\sin^2{x}}{\cos^2{x}} \)\\
+
+    \(\int \sec^2{(x)}dx - \int \frac{2\sin{x}}{\cos{x}}\times \frac{1}{\cos{x}} dx + \int \tan^2{(x)}dx\)\\
+
+    \(\int \sec^2{(x)}dx - \int 2\tan{(x)}\sec{(x)} dx + \int (\sec^2{(x)}-1) dx\)\\
+
+    \(=\tan{(x)}-\sec{(x})+\tan{(x)}-x+c\)\\
+
+    \(=2\tan{(x)}-\sec{(x})-x+c\)\\
+    
+    \item 
+    Using Pythagoras:\\
+    \(\sin^2{x}+\sin^2{2x}=\sin^2{3x}\)\\
+
+    We need to rewrite each term so that they are all in terms of \(\sin{x}\)\\
+    \(\sin^2{2x}=(\sin{})^2=(2\sin{x}\cos{x})^2=4\sin^2{x}\cos^2{x}\)\\
+    \(=4\sin^2{x}(1-\sin^2{x})\)\\
+    \(=4\sin^2{x}-4\sin^4{x}\)\\
+
+    \(\sin{3x}=\sin{2x+x}=\sin{2x}\cos{x}+\cos{2x}\sin{x}\)\\
+    \(=2\sin{x}\cos^2{x}+(1-2\sin^2{x})\sin{x}\)\\
+    \(=2\sin{x}(1-\sin^2{x})+\sin{x}-2\sin^3{x}\)\\
+    \(=2\sin{x}-2\sin^3{x}+\sin{x}-2\sin^3{x}\)\\
+    \(=3\sin{x}-4\sin^3{x}\)\\
+    
+    Therefore, \(\sin^3{(3x)}=(3\sin{x}-4\sin^3{x})^3=16\sin^6{x}-24\sin^4{x}+9\sin^2{x}\)\\
+
+    Substituting everything back into the original equation:\\
+    \(\sin^2(x)+4\sin^2(x)-4\sin^4(x)=16\sin^6(x)-24\sin^4(x)+9\sin^2(x)\)\\
+    \(16\sin^6(x)-20\sin^4(x)+4\sin^2(x)=0\)\\
+    
+    Simplifying and factorising:\\
+    \(4\sin^6(x)-5\sin^4(x)+\sin^2(x)=0\)\\
+    \(\sin^2(x)(4\sin^4(x)-5\sin^2(x)+1)=0\)\\
+    \(\sin^2(x)(4\sin^2(x)-1)(\sin^2(x)-1)=0\)\\
+    Difference of two squares:\\
+    \(\sin^2(x)(2\sin(x)+1)(2\sin(x)-1)(\sin(x)+1)(\sin(x)-1)=0\)\\
+    
+    From here, we just examine each factor and see which gives valid solutions for our triangle.\\
+    \(sin^2(x)=0\)\\
+    \(x=0\) (Not valid)\\
+
+    \(2\sin(x)+1=0\)\\
+    \(\sin(x)=-\frac{1}{2}\) (Not valid)\\
+
+    \(2\sin(x)-1=0\)\\
+    \(\sin(x)=\frac{1}{2}\)\\
+    \(x=\frac{\pi}{6}\) (valid)\\
+
+    \(\sin(x)+1=0\)\\
+    \(\sin(x)=-1\) (Not valid)\\
+
+    \(\sin(x)-1=0\)\\
+    \(\sin(x)=1\)\\
+    \(x=\frac{\pi}{2}\) (Not valid as the side with \(\sin(2x)\) will have length of \(\sin(\pi)=0\))\\
+
+    Therefore, the only valid solution is \(x=\frac{\pi}{6}\).\\
+    
+    \item 
+    Separate the RHS into two factors:\\
+    \(x^x=5^x \times 5^{25}\)\\
+
+    Divide by \(5^x\):\\
+    \(\frac{x^x}{5^x}=5^{25}\)\\
+
+    Simplifying the LHS:\\
+    \((\frac{x}{5})^x=5^{25}\)\\
+
+    Take the fifth root:\\
+    \((\frac{x}{5})^\frac{x}{5}=5^5\)\\
+
+    Therefore, \(\frac{x}{5}=5\)\\
+    \(x=5\)
+    
+\end{enumerate}
+
+\end{document}

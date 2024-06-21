@@ -1,0 +1,103 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\subsection*{Answers - Combinations and permutations (page \pageref{Combinations and permuations})}
+
+\begin{enumerate}
+    \item
+    \(^{10}C_2=\frac{10!}{2!\times 8!}=\frac{10\times 9}{2}=45\)
+    \item 
+        \begin{enumerate}
+            \item 
+            \(5!=5\times 4\times 3\times 2\times 1=120\)
+            \item 
+            Visualise this with the girls effectively being a sixth member of the group. There are \(6!\) ways of arranging them.\\
+            Then, within the girls, there are \(3!\) ways of arranging them.\\
+            This means there are \(6! \times 3!=720\times 6=4320\) possible photos.
+        \end{enumerate}
+    \item 
+        \begin{enumerate}
+            \item 
+            \(6\times ^5C_2 \times ^3C_3 =6\times 10\times 1=60\)
+            \item 
+            \(^6C_2 \times ^4C_2 \times ^2C_2 = 15\times 6\times 1=90\)
+        \end{enumerate}
+    \item 
+    \( ^{20}C_3\times ^{30}C_2 = 1140\times 435=495,900 \)
+    \item 
+    2 candidates: \(^8C_2 = 28\)\\
+    1 candidate: \(^8C_1 = 8\)\\
+    0 candidates  = 1\\
+    Total = \(37\)
+    \item 
+    \(^{15}C_3 \times ^9C_1 \times ^7C_1 = 28,665\)
+    \item 
+    Consider the two situations: first, where all 6 people are from the same college. Second, where 4 are from the same college and 2 are from the other one.\\
+    6 from same college: \(^8C_6=28\)\\
+    4 from same college: \(^8C_4=70\)\\
+    Total is \(98\)
+    \item 
+    \begin{align*}
+        \frac{p!}{q!(p-q)!}
+        &=\frac{p!}{r!(p-r)!}\\
+        \frac{1}{q!(p-q)!}
+        &=\frac{1}{r!(p-r)!}\\
+    \end{align*}
+    There are 2 solutions to consider here. The first gives us the solution \(q=r \),which we are told is not a solution.\\
+    \begin{align*}
+        \frac{r!}{(p-q)!}
+        &=\frac{q!}{(p-r)!}\\
+    \end{align*}
+    Here we can equate the numerators and the denominators, giving us \(r=q\).\\
+    The other way is to cross-multiply different terms:\\
+    \begin{align*}
+    \frac{r!}{q!}=\frac{(p-q)!}{(p-r)!}
+    \end{align*}
+    When we equate the numerators and denominators we get:\\
+    \(p-q=r\) and \(p-r=q\)\\
+    Both of which can be rearranged to give the solution \(p=q+r\)
+    \item 
+    $
+    \!
+    \begin{aligned}[t]
+    \frac{n!}{r!(n-r)!}
+    &=\frac{(n+1)!}{(r-1)!((n+1)-(r-1))!}\\
+    \frac{n!}{r!(n-r)!}
+    &=\frac{(n+1)!}{(r-1)!(n-r+2)!}\\
+    \frac{n!}{r!(n-r)!}
+    &=\frac{(n+1)n!}{(r-1)!(n-r+2)(n-r+1)(n-r)!}\\
+    \frac{1}{r!}
+    &=\frac{n+1}{(r-1)!(n-r+2)(n-r+1)}\\
+    \frac{(r-1)!}{r(r-1)!}
+    &=\frac{n+1}{(n-r+2)(n-r+1)}\\
+    \frac{1}{r}
+    &=\frac{n+1}{(n-r+2)(n-r+1)}\\
+    (n-r+2)(n-r+1)
+    &=r(n+1)\\
+    n^2 - rn + n -rn+r^2-r+2n-2r+2
+    &=rn+r\\
+    n^2-3rn+3n+r^2-4r+2
+    &=0\\
+    n^2+(3-3r)n+(r^2-4r+2)
+    &=0\\
+    n
+    &=\frac{3r-3 \pm \sqrt{(3-3r)^2-4(r^2-4r+2)}}{2}\\
+    n
+    &=\frac{3r-3 \pm \sqrt{5r^2-2r+1}}{2}
+    \end{aligned}
+    $
+\\
+    Now we try different values for r to see which gives an integer value for \(n\).\\
+    $
+    \begin{aligned}
+    r=1; &n=1\\
+    r=2; &n=\frac{3 \pm \sqrt{17}}{2}\\
+    r=3; &n=\frac{6 \pm \sqrt{40}}{2}\\
+    r=4; &n=\frac{9 \pm \sqrt{73}}{2}\\
+    r=5; &n=\frac{12 \pm \sqrt{112}}{2}\\
+    r=6; &n=\frac{15 \pm \sqrt{169}}{2}=\frac{15\pm 13}{2}=1,14
+    \end{aligned}
+    $
+\end{enumerate}
+
+\end{document}

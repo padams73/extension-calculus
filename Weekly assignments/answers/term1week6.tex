@@ -1,0 +1,106 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\section*{Term 1 Week 6}
+\begin{enumerate}
+    \item 
+    \((\ln{x})^2+(\ln{2x})^2=(\ln{3x})^2\)\\
+    \((\ln{x})^2+(\ln{(x)}+\ln{2})^2=(\ln{(x)}+\ln{3})^2\)\\
+    \((\ln{x})^2+(\ln{x})^2+2\ln{x}\ln{2}+(\ln{2})^2=(\ln{x})^2+2\ln{x}\ln{3}+(\ln{3})^2\)\\
+    \((\ln{x})^2+2(\ln{2}-\ln{3})\ln{x}+(\ln{2})^2-(\ln{3})^2\)=0\\
+    \((\ln{x})^2+2(\ln{2}-\ln{3})\ln{x}+(\ln{2}+\ln{3})(\ln{2}-\ln{3})\)=0\\
+    \((\ln{x})^2+2\ln{\frac{2}{3}}\ln{x}+\ln{6}\ln{\frac{2}{3}}=0\)\\
+
+    Solving for \(\ln{x}\) using the Quadratic Formula:\\
+    \(\ln{x}=\frac{-2\ln{\frac{2}{3}}\pm \sqrt{(-2\ln{\frac{2}{3}})^2-4\ln{6}\ln{\frac{2}{3}}}}{2}\)\\
+
+    \(\ln{x}=\frac{-2\ln{\frac{2}{3}}\pm \sqrt{4(\ln{\frac{2}{3}})^2-4\ln{6}\ln{\frac{2}{3}}}}{2}\)\\
+
+    Note: \(-2\ln{\frac{2}{3}}=\ln{(\frac{2}{3})^2}=\ln{(\frac{3}{2})^2=2\ln{\frac{3}{2}}}\)\\
+
+    \(\ln{x}=\frac{2\ln{\frac{3}{2}}\pm 2\sqrt{(\ln{\frac{2}{3}})^2-\ln{6}\ln{\frac{2}{3}}}}{2}\)\\
+
+    \(\ln{x}=\ln{\frac{3}{2}}\pm \sqrt{(\ln{\frac{2}{3}})^2-\ln{6}\ln{\frac{2}{3}}}\)\\
+
+    \(\ln{x}=\ln{\frac{3}{2}}\pm \sqrt{(\ln{\frac{2}{3}})(\ln{\frac{2}{3}}-\ln{6})}\)\\
+
+    \(\ln{x}=\ln{\frac{3}{2}}\pm \sqrt{\ln{\frac{2}{3}}\ln{\frac{1}{9}}}\)\\
+
+    Solutions:\\
+    $
+    \begin{aligned}[c]
+    \ln{x}=\ln{\frac{3}{2}}+ \sqrt{\ln{\frac{2}{3}}\ln{\frac{1}{9}}}\\
+    x=\frac{3}{2}e^{\sqrt{\ln{\frac{2}{3}}\ln{\frac{1}{9}}}}\\
+    x=3.85 \text{(2 dp)}\\
+    \end{aligned}
+    \begin{aligned}[c]
+    \ln{x}=\ln{\frac{3}{2}}- \sqrt{\ln{\frac{2}{3}}\ln{\frac{1}{9}}}\\
+    x=\frac{3}{2}\div e^{\sqrt{\ln{\frac{2}{3}}\ln{\frac{1}{9}}}}\\
+    x=0.58 \text{(2 dp)}\\
+    \end{aligned}
+    $
+    
+    0.58 gives a negative side length, therefore x=3.85.\\
+    
+    \item 
+    Use the change of base formula:\\
+    \(\frac{\log{x}}{\log{5}}+\frac{\log{x}}{\log{7}}=\frac{\log{x}}{\log{25}}\)\\
+
+    Rearrange so that it is equal to zero:\\
+    \(\frac{\log{x}}{\log{5}}+\frac{\log{x}}{\log{7}}-\frac{\log{x}}{\log{25}}=0\)\\
+
+    Factorise out the \(\log{x}\):\\
+    \(\log{x}(\frac{1}{\log{5}}+\frac{1}{\log{7}}-\frac{1}{\log{25}})=0\)\\
+
+    Since \(\frac{1}{\log{5}}+\frac{1}{\log{7}}-\frac{1}{\log{25}}\) can never be zero, \(\log{x}=0\).\\
+
+    Therefore, \(x=1\).\\
+
+    \item 
+    \(4(x^2-4hx)-y^2+2hy+15h^2-4a^2=0\)\\
+
+    Rearrange:\\
+    \(4(x^2-4hx)-(y^2-2hy)+15h^2-4a^2=0\)\\
+
+    Complete the square:\\
+    \(4(x-2h)^2-16h^2-((y-h)^2-h^2)+15h^2-4a^2=0 \)\\
+    \(4(x-2h)^2-16h^2-(y-h)^2+h^2+15h^2-4a^2=0 \)\\
+
+    Rearrange:\\
+    \(4(x-2h)^2-(y-h)^2=4a^2\)\\
+
+    Divide by sides so it is equal to 1:\\
+    \(\frac{(x-2h)^2}{a^2}-\frac{(y-h)^2}{4a^2}=1\)\\
+    Therefore, it is a hyperbola.\\
+
+    Tangent gradient:\\
+    Implicitly differentiate:\\
+    \(\frac{2(x-2h)}{a^2}-\frac{2(y-h)}{4a^2}\frac{dy}{dx}=0\)\\
+
+    \(\frac{8(x-2h)}{4a^2}=\frac{2(y-h)}{4a^2}\frac{dy}{dx}\)\\
+
+    \(8(x-2h)=2(y-h)\frac{dy}{dx}\)\\
+
+    \(\frac{dy}{dx}=\frac{8(x-2h)}{2(y-h)}\)\\
+
+    \(\frac{dy}{dx}=\frac{4x-8h}{y-h}\)\\
+
+    At point \((p,q)\) the gradient is \(e^2 -1\).\\
+    \(\frac{4p-8h}{q-h}=e^2-1\)\\
+
+    Since \(e^2=1+\frac{b^2}{a^2}\):\\
+    \(\frac{4p-8h}{q-h}=\frac{b^2}{a^2}\)\\
+    
+    From the hyperbola equation, \(a^2=a^2\) and \(b^2=4a^2\).\\
+    Substituting in:\\
+    \(\frac{4p-8h}{q-h}=\frac{4a^2}{a^2}\)\\
+
+    \(\frac{4p-8h}{q-h}=4\)\\
+
+    \(4p-8h=4q-4h\)\\
+    \(4h=4p-4q\)\\
+    \(h=p-q\)\\
+    
+\end{enumerate}
+
+\end{document}
