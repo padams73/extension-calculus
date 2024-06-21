@@ -7,3 +7,4 @@
 \contentsline {section}{\numberline {7}Integration by parts}{16}{}%
 \contentsline {section}{\numberline {8}Integration by parts - DI Method}{19}{}%
 \contentsline {section}{\numberline {9}Trig substitutions for integration}{23}{}%
+\contentsline {section}{\numberline {10}The Camel Principle}{27}{}%
