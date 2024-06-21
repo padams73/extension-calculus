@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718949373.68656 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/integrationbyparts.tex" "sections/integrationbyparts.pdf" "integrationbyparts" 1718949375.35024 0
+["pdflatex"] 1718957157.53533 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/integrationbyparts.tex" "sections/integrationbyparts.pdf" "integrationbyparts" 1718957158.98594 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718842733 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -67,11 +67,11 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/integrationbyparts.tex" 1718948171 2352 a800cea980931b9c6c22574fa9739fd5 ""
-  "main.tex" 1718948156 1499 3cdac4670113bf154499488e500e49e0 ""
-  "sections/../main.tex" 1718948156 1499 3cdac4670113bf154499488e500e49e0 ""
-  "sections/integrationbyparts.aux" 1718949375 186 d8c2ef45a92f086cff382880431f91cd "pdflatex"
-  "sections/integrationbyparts.tex" 1718948171 2352 a800cea980931b9c6c22574fa9739fd5 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/integrationbyparts.tex" 1718957156 2311 0265d55dc915638ed61f9a665a2a76dd ""
+  "main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
+  "sections/../main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
+  "sections/integrationbyparts.aux" 1718957158 186 92a30a9939f286d54d0bb525f3e1f987 "pdflatex"
+  "sections/integrationbyparts.tex" 1718957156 2311 0265d55dc915638ed61f9a665a2a76dd ""
   (generated)
   "sections/integrationbyparts.aux"
   "sections/integrationbyparts.log"

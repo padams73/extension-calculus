@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  21 JUN 2024 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  21 JUN 2024 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -267,239 +267,24 @@ Package pdftex.def Info: images/binomial.png  used on input line 10.
 (pdftex.def)             Requested size: 352.31625pt x 353.97171pt.
 
 
-[3 <./images/binomial.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
-
- []
-
-)
+[3 <./images/binomial.png>])
 
 [4] (sections/implicitdifferentiation.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
-
- []
-
-
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 51--70
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--70
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--70
-
- []
-
-
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
-
- []
-
-
 
 [7]) (sections/sumofroots.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
-
- []
-
-)
+[8])
 
 [9] (sections/combinations.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-
- []
-
-
 
 [10])
 
 [11] (sections/quadratics.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--37
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
 
  []
 
@@ -508,598 +293,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--37
 [12])
 
 [13] (sections/eulersformula.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--35
-
- []
-
-
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
-
- []
-
-)
+[14])
 
 [15] (sections/integrationbyparts.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
- []
-
-
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-
- []
-
-
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-
- []
-
-
 
 [18]) (sections/dimethod.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
 <images/dimethod1.png, id=75, 149.05687pt x 113.42375pt>
 File: images/dimethod1.png Graphic file (type png)
 <use images/dimethod1.png>
-Package pdftex.def Info: images/dimethod1.png  used on input line 38.
+Package pdftex.def Info: images/dimethod1.png  used on input line 39.
 (pdftex.def)             Requested size: 103.34666pt x 78.64148pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-
- []
-
 
 
 [19 <./images/dimethod1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
 <images/dimethod2.png, id=81, 101.62968pt x 59.47218pt>
 File: images/dimethod2.png Graphic file (type png)
 <use images/dimethod2.png>
-Package pdftex.def Info: images/dimethod2.png  used on input line 61.
+Package pdftex.def Info: images/dimethod2.png  used on input line 65.
 (pdftex.def)             Requested size: 101.62943pt x 59.47203pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--67
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-
- []
-
 <images/dimethod3.png, id=82, 113.67468pt x 58.71938pt>
 File: images/dimethod3.png Graphic file (type png)
 <use images/dimethod3.png>
-Package pdftex.def Info: images/dimethod3.png  used on input line 84.
+Package pdftex.def Info: images/dimethod3.png  used on input line 91.
 (pdftex.def)             Requested size: 113.6744pt x 58.71921pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--92
-
- []
-
-
 
 [20 <./images/dimethod2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 93--96
-
- []
-
-
 
 [21 <./images/dimethod3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
 
 [22]) (sections/trigsubstitution.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
 <images/trigsub1.png, id=94, 87.32625pt x 62.48344pt>
 File: images/trigsub1.png Graphic file (type png)
 <use images/trigsub1.png>
 Package pdftex.def Info: images/trigsub1.png  used on input line 16.
 (pdftex.def)             Requested size: 87.32603pt x 62.48328pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
-
- []
-
 <images/trigsub2.png, id=95, 91.84312pt x 70.76437pt>
 File: images/trigsub2.png Graphic file (type png)
 <use images/trigsub2.png>
-Package pdftex.def Info: images/trigsub2.png  used on input line 26.
+Package pdftex.def Info: images/trigsub2.png  used on input line 27.
 (pdftex.def)             Requested size: 91.84288pt x 70.76419pt.
 <images/trigsub3.png, id=96, 123.46124pt x 66.2475pt>
 File: images/trigsub3.png Graphic file (type png)
 <use images/trigsub3.png>
-Package pdftex.def Info: images/trigsub3.png  used on input line 36.
+Package pdftex.def Info: images/trigsub3.png  used on input line 38.
 (pdftex.def)             Requested size: 123.46092pt x 66.24733pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-
- []
-
+<images/trigsub4.png, id=97, 109.91063pt x 49.68562pt>
+File: images/trigsub4.png Graphic file (type png)
+<use images/trigsub4.png>
+Package pdftex.def Info: images/trigsub4.png  used on input line 54.
+(pdftex.def)             Requested size: 109.91034pt x 49.6855pt.
 
 
 [23 <./images/trigsub1.png> <./images/trigsub2.png> <./images/trigsub3.png>]
-<images/trigsub4.png, id=103, 109.91063pt x 49.68562pt>
-File: images/trigsub4.png Graphic file (type png)
-<use images/trigsub4.png>
-Package pdftex.def Info: images/trigsub4.png  used on input line 51.
-(pdftex.def)             Requested size: 109.91034pt x 49.6855pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-
- []
-
 <images/trigsub5.png, id=104, 70.76437pt x 55.70813pt>
 File: images/trigsub5.png Graphic file (type png)
 <use images/trigsub5.png>
-Package pdftex.def Info: images/trigsub5.png  used on input line 86.
+Package pdftex.def Info: images/trigsub5.png  used on input line 95.
 (pdftex.def)             Requested size: 70.76419pt x 55.70798pt.
 
 
 [24 <./images/trigsub4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 89--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
-
- []
-
-
 
 [25 <./images/trigsub5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
-
- []
-
-
 
 [26]) (sections/camelprinciple.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-
- []
-
-
-
-[27]
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-)
+[27])
 
 [28]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -2188,9 +1457,9 @@ Here is how much of TeX's memory you used:
  27441 multiletter control sequences out of 15000+600000
  567478 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,15n,65p,1288b,410s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,15n,65p,1288b,412s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (59 pages, 504661 bytes).
+Output written on main.pdf (59 pages, 504651 bytes).
 PDF statistics:
  313 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

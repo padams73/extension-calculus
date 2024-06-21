@@ -4,24 +4,25 @@
 
 
 \section{The Camel Principle}
-An old Arab leaves 17 camels to his three sons. Half of the camels are for the oldest, a third for the middle one, and a ninth for the youngest. But 17 is not divisible by 2, nor 3, neither 9, so they ask a wise man for advice. Noticing that 18 can be evenly divided by 2, 3, and 9, his solution was to temporarily borrow his camel to the inheritance for the total to be 18 camels.\\
+An old Arab leaves 17 camels to his three sons. Half of the camels are for the oldest, a third for the middle one, and a ninth for the youngest. But 17 is not divisible by 2, nor 3, neither 9, so they ask a wise man for advice. Noticing that 18 can be evenly divided by 2, 3, and 9, his solution was to temporarily borrow his camel to the inheritance for the total to be 18 camels.
 
-The oldest son receives 9 camels, the middle son receives 6, and the youngest 2 camels. The sum of the distributed camels is 9 + 6 + 2 = 17, leaving the camel borrowed by the wise man untouched, and ready to be returned to its owner.\\
+The oldest son receives 9 camels, the middle son receives 6, and the youngest 2 camels. The sum of the distributed camels is 9 + 6 + 2 = 17, leaving the camel borrowed by the wise man untouched, and ready to be returned to its owner.
 
-The three brothers were happy, since all received more than they were expecting and none of the camels was sacrificed.\\
+The three brothers were happy, since all received more than they were expecting and none of the camels was sacrificed.
 
-Here is an example of the camel principle applied in calculus:\\
-To calculate \(\int \frac{dx}{x(1+x^n)}\), add and subtract \(x^n\) in the numerator, so that:\\
+Here is an example of the camel principle applied in calculus:
 
-\(\int \frac{1+x^n-x^n}{x(1+x^n)}\,dx=\int (\frac{1+x^n}{x(1+x^n)}-\frac{x^n}{x(1+x^n)})\,dx\)\\
+To calculate \(\int \frac{dx}{x(1+x^n)}\), add and subtract \(x^n\) in the numerator, so that:
 
-\(=\int \frac{1}{x}\,dx-\int \frac{x^{n-1}}{1+x^n}\,dx\)\\
+\(\int \frac{1+x^n-x^n}{x(1+x^n)}\,dx=\int (\frac{1+x^n}{x(1+x^n)}-\frac{x^n}{x(1+x^n)})\,dx\)
 
-Applying the camel principle multiplicatively, we multiply the second part of the integral by \(n\) and \(\frac{1}{n}\):\\
+\(=\int \frac{1}{x}\,dx-\int \frac{x^{n-1}}{1+x^n}\,dx\)
 
-\(=\int \frac{1}{x}\,dx-\frac{1}{n}\int \frac{nx^{n-1}}{1+x^n}\,dx\)\\
+Applying the camel principle multiplicatively, we multiply the second part of the integral by \(n\) and \(\frac{1}{n}\):
 
-\(=\ln{|x|}-\frac{1}{n}\ln{|1+x^n|}+c\)\\
+\(=\int \frac{1}{x}\,dx-\frac{1}{n}\int \frac{nx^{n-1}}{1+x^n}\,dx\)
+
+\(=\ln{|x|}-\frac{1}{n}\ln{|1+x^n|}+c\)
 
 \pagebreak
 
@@ -29,11 +30,11 @@ Applying the camel principle multiplicatively, we multiply the second part of th
 \label{Camel Principle}
 
 \begin{enumerate}
-    \item \(\int \frac{1}{1+e^x}\,dx\)\\
+    \item \(\int \frac{1}{1+e^x}\,dx\)
     
-    \item \(\int \frac{1}{1+\sqrt{e^x}}\,dx\)\\
+    \item \(\int \frac{1}{1+\sqrt{e^x}}\,dx\)
     
-    \item \(\int \sec{x}\,dx\)\\
+    \item \(\int \sec{x}\,dx\)
     
     \item \(\int \csc{\theta}\,d\theta\)
 

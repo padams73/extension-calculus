@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718949411.18019 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/binomialexpansion.tex" "sections/binomialexpansion.pdf" "binomialexpansion" 1718949413.04291 0
+["pdflatex"] 1718956084.1352 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/binomialexpansion.tex" "sections/binomialexpansion.pdf" "binomialexpansion" 1718956086.33706 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718842733 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -66,12 +66,12 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/binomialexpansion.tex" 1718949409 2075 3519fac807e9867f3a0b84180d155aad ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/binomialexpansion.tex" 1718956082 2081 153185a74d8b3653af7fcaf2b236aa09 ""
   "images/binomial.png" 1718948172 136683 d87c7fe4c39e9abc71dcc8f10c925e14 ""
-  "main.tex" 1718948156 1499 3cdac4670113bf154499488e500e49e0 ""
-  "sections/../main.tex" 1718948156 1499 3cdac4670113bf154499488e500e49e0 ""
-  "sections/binomialexpansion.aux" 1718949412 182 5514d094d6ca55a499ec17704f3fa6ef "pdflatex"
-  "sections/binomialexpansion.tex" 1718949409 2075 3519fac807e9867f3a0b84180d155aad ""
+  "main.tex" 1718955897 1592 1fd32438796cf584cd399a9ffc537510 ""
+  "sections/../main.tex" 1718955897 1592 1fd32438796cf584cd399a9ffc537510 ""
+  "sections/binomialexpansion.aux" 1718956085 182 5514d094d6ca55a499ec17704f3fa6ef "pdflatex"
+  "sections/binomialexpansion.tex" 1718956082 2081 153185a74d8b3653af7fcaf2b236aa09 ""
   (generated)
   "sections/binomialexpansion.aux"
   "sections/binomialexpansion.log"

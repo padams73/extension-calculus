@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718949355.26978 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/dimethod.tex" "sections/dimethod.pdf" "dimethod" 1718949356.75257 0
+["pdflatex"] 1718956434.2732 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/dimethod.tex" "sections/dimethod.pdf" "dimethod" 1718956436.05658 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718842733 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -66,16 +66,18 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/dimethod.tex" 1718948171 4053 a728880e9cd2a95348951466dc100e6f ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/dimethod.tex" 1718956433 3996 2c7b9c0a2409b66a9911e774815b3879 ""
+  "dimethod.aux" 0 -1 0 ""
   "images/dimethod1.png" 1718948172 17323 7c4b3449d2246a0b079091ef1de28412 ""
   "images/dimethod2.png" 1718948172 3233 35e1d4b00fa37ae7d70a5522882072c6 ""
   "images/dimethod3.png" 1718948172 4341 85bbd400dc1ce7f9c11b0154facbd730 ""
-  "main.tex" 1718948156 1499 3cdac4670113bf154499488e500e49e0 ""
-  "sections/../main.tex" 1718948156 1499 3cdac4670113bf154499488e500e49e0 ""
-  "sections/dimethod.aux" 1718949356 187 a4f7adf5c468a979a6b19f2fba11fb67 "pdflatex"
-  "sections/dimethod.tex" 1718948171 4053 a728880e9cd2a95348951466dc100e6f ""
+  "main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
+  "sections/../main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
+  "sections/dimethod.aux" 1718956435 187 41d60af18b6b1d2dc585a3dfa9fb1bcf "pdflatex"
+  "sections/dimethod.tex" 1718956433 3996 2c7b9c0a2409b66a9911e774815b3879 ""
   (generated)
   "sections/dimethod.aux"
   "sections/dimethod.log"
   "sections/dimethod.pdf"
   (rewritten before read)
+  "sections/dimethod.aux"
