@@ -1,13 +1,18 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  21 JUN 2024 20:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  21 JUN 2024 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex"
-(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex
+**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_trigsubs.tex"
+(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_trigsubs.tex
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
-(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `../main.tex'
+(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\main.tex (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
@@ -153,9 +158,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthfirst=\dimen167
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
- (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
-Package: import 2020/04/01  v 6.2
-)) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
@@ -168,27 +171,27 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count284
-)) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)))) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box56
-) (main.aux)
-\openout1 = `main.aux'.
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.aux)
+\openout1 = `ans_trigsubs.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count286
@@ -242,278 +245,59 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+
+LaTeX Warning: Reference `Trig substitution' on page 1 undefined on input line 4.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-[1
-
-{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
-
-
-[2] (sections/binomialexpansion.tex
-<images/binomial.png, id=11, 359.67708pt x 361.35pt>
-File: images/binomial.png Graphic file (type png)
-<use images/binomial.png>
-Package pdftex.def Info: images/binomial.png  used on input line 10.
-(pdftex.def)             Requested size: 352.31625pt x 353.97171pt.
-
-
-[3 <./images/binomial.png>])
-
-[4] (sections/implicitdifferentiation.tex
-
-[5]
-
-[6]
-
-[7]) (sections/sumofroots.tex
-
-[8])
-
-[9] (sections/combinations.tex
-
-[10])
-
-[11] (sections/quadratics.tex
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-
- []
-
-
-
-[12])
-
-[13] (sections/eulersformula.tex
-
-[14])
-
-[15] (sections/integrationbyparts.tex
-
-[16]
-
-[17]
-
-[18]) (sections/dimethod.tex
-<images/dimethod1.png, id=75, 149.05687pt x 113.42375pt>
-File: images/dimethod1.png Graphic file (type png)
-<use images/dimethod1.png>
-Package pdftex.def Info: images/dimethod1.png  used on input line 39.
-(pdftex.def)             Requested size: 103.34666pt x 78.64148pt.
-
-
-[19 <./images/dimethod1.png>]
-<images/dimethod2.png, id=81, 101.62968pt x 59.47218pt>
-File: images/dimethod2.png Graphic file (type png)
-<use images/dimethod2.png>
-Package pdftex.def Info: images/dimethod2.png  used on input line 65.
-(pdftex.def)             Requested size: 101.62943pt x 59.47203pt.
-<images/dimethod3.png, id=82, 113.67468pt x 58.71938pt>
-File: images/dimethod3.png Graphic file (type png)
-<use images/dimethod3.png>
-Package pdftex.def Info: images/dimethod3.png  used on input line 91.
-(pdftex.def)             Requested size: 113.6744pt x 58.71921pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[20 <./images/dimethod2.png>]
-
-[21 <./images/dimethod3.png>]
-
-[22]) (sections/trigsubstitution.tex
-<images/trigsub1.png, id=94, 87.32625pt x 62.48344pt>
-File: images/trigsub1.png Graphic file (type png)
-<use images/trigsub1.png>
-Package pdftex.def Info: images/trigsub1.png  used on input line 16.
-(pdftex.def)             Requested size: 87.32603pt x 62.48328pt.
-<images/trigsub2.png, id=95, 91.84312pt x 70.76437pt>
-File: images/trigsub2.png Graphic file (type png)
-<use images/trigsub2.png>
-Package pdftex.def Info: images/trigsub2.png  used on input line 27.
-(pdftex.def)             Requested size: 91.84288pt x 70.76419pt.
-<images/trigsub3.png, id=96, 123.46124pt x 66.2475pt>
-File: images/trigsub3.png Graphic file (type png)
-<use images/trigsub3.png>
-Package pdftex.def Info: images/trigsub3.png  used on input line 38.
-(pdftex.def)             Requested size: 123.46092pt x 66.24733pt.
-<images/trigsub4.png, id=97, 109.91063pt x 49.68562pt>
-File: images/trigsub4.png Graphic file (type png)
-<use images/trigsub4.png>
-Package pdftex.def Info: images/trigsub4.png  used on input line 54.
-(pdftex.def)             Requested size: 109.91034pt x 49.6855pt.
-
-
-[23 <./images/trigsub1.png> <./images/trigsub2.png> <./images/trigsub3.png>]
-<images/trigsub5.png, id=104, 70.76437pt x 55.70813pt>
-File: images/trigsub5.png Graphic file (type png)
-<use images/trigsub5.png>
-Package pdftex.def Info: images/trigsub5.png  used on input line 95.
-(pdftex.def)             Requested size: 70.76419pt x 55.70798pt.
-
-
-[24 <./images/trigsub4.png>]
-
-[25 <./images/trigsub5.png>]
-
-[26]) (sections/camelprinciple.tex
-
-[27])
-
-[28]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: letterpaper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(284.52756pt, 415.04506pt, 95.39737pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=415.04506pt
-* \oddsidemargin=19.8752pt
-* \evensidemargin=19.8752pt
-* \topmargin=175.25757pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=44.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
-
-[29
-
-] (answers/ans_binomialexpansion.tex
-<images/Picture2.png, id=126, 199.74625pt x 36.63687pt>
-File: images/Picture2.png Graphic file (type png)
-<use images/Picture2.png>
-Package pdftex.def Info: images/Picture2.png  used on input line 58.
-(pdftex.def)             Requested size: 234.8775pt x 43.08296pt.
-<images/Picture3.png, id=127, 392.96812pt x 22.58438pt>
-File: images/Picture3.png Graphic file (type png)
-<use images/Picture3.png>
-Package pdftex.def Info: images/Picture3.png  used on input line 70.
-(pdftex.def)             Requested size: 234.8775pt x 13.49902pt.
-<images/Picture4.png, id=128, 360.34625pt x 19.57312pt>
-File: images/Picture4.png Graphic file (type png)
-<use images/Picture4.png>
-Package pdftex.def Info: images/Picture4.png  used on input line 82.
-(pdftex.def)             Requested size: 360.34537pt x 19.57306pt.
-
-
-[30
-
- <./images/Picture2.png> <./images/Picture3.png>])
-
-[31 <./images/Picture4.png>] (answers/ans_implicitdifferentiation.tex
-
-[32])
-
-[33] (answers/ans_sumofroots.tex
-
-[34])
-
-[35] (answers/ans_combinations.tex
-
-[36])
-
-[37] (answers/ans_quadratics.tex
-
-[38])
-
-[39] (answers/ans_eulersformula.tex
-Underfull \hbox (badness 10000) in paragraph at lines 21--29
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--41
-
- []
-
-)
-
-[40] (answers/ans_integrationbyparts.tex
-
-[41]
-
-[42])
-
-[43] (answers/ans_dimethod.tex
-<images/di_a1.png, id=177, 184.18813pt x 124.96687pt>
-File: images/di_a1.png Graphic file (type png)
-<use images/di_a1.png>
-Package pdftex.def Info: images/di_a1.png  used on input line 11.
-(pdftex.def)             Requested size: 117.43875pt x 79.67915pt.
-
-
-[44 <./images/di_a1.png>])
-
-[45] (answers/ans_trigsubs.tex
-<images/trigsuba1.png, id=185, 68.50594pt x 60.97781pt>
+<images/trigsuba1.png, id=1, 68.50594pt x 60.97781pt>
 File: images/trigsuba1.png Graphic file (type png)
 <use images/trigsuba1.png>
 Package pdftex.def Info: images/trigsuba1.png  used on input line 9.
 (pdftex.def)             Requested size: 68.50577pt x 60.97765pt.
-<images/trigsuba2.png, id=186, 82.80937pt x 67.75313pt>
+<images/trigsuba2.png, id=2, 82.80937pt x 67.75313pt>
 File: images/trigsuba2.png Graphic file (type png)
 <use images/trigsuba2.png>
 Package pdftex.def Info: images/trigsuba2.png  used on input line 40.
 (pdftex.def)             Requested size: 82.80916pt x 67.75294pt.
 
 
-[46 <./images/trigsuba1.png> <./images/trigsuba2.png>]
-<images/trigsuba3.png, id=192, 87.32625pt x 76.78688pt>
+[1
+
+{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/trigsuba1.png> <./images/trigsuba2.png>]
+<images/trigsuba3.png, id=19, 87.32625pt x 76.78688pt>
 File: images/trigsuba3.png Graphic file (type png)
 <use images/trigsuba3.png>
 Package pdftex.def Info: images/trigsuba3.png  used on input line 76.
 (pdftex.def)             Requested size: 87.32603pt x 76.78668pt.
-<images/trigsuba4.png, id=193, 72.27pt x 60.97781pt>
+<images/trigsuba4.png, id=20, 72.27pt x 60.97781pt>
 File: images/trigsuba4.png Graphic file (type png)
 <use images/trigsuba4.png>
 Package pdftex.def Info: images/trigsuba4.png  used on input line 118.
 (pdftex.def)             Requested size: 72.2698pt x 60.97765pt.
 
 
-[47 <./images/trigsuba3.png>]
-<images/trigsuba5.png, id=198, 120.45pt x 67.75313pt>
+[2 <./images/trigsuba3.png>]
+<images/trigsuba5.png, id=25, 120.45pt x 67.75313pt>
 File: images/trigsuba5.png Graphic file (type png)
 <use images/trigsuba5.png>
 Package pdftex.def Info: images/trigsuba5.png  used on input line 150.
 (pdftex.def)             Requested size: 120.44969pt x 67.75294pt.
 
 
-[48 <./images/trigsuba4.png> <./images/trigsuba5.png>]
-<images/trigsuba6.png, id=204, 115.18031pt x 63.98906pt>
+[3 <./images/trigsuba4.png> <./images/trigsuba5.png>]
+<images/trigsuba6.png, id=31, 115.18031pt x 63.98906pt>
 File: images/trigsuba6.png Graphic file (type png)
 <use images/trigsuba6.png>
 Package pdftex.def Info: images/trigsuba6.png  used on input line 180.
 (pdftex.def)             Requested size: 115.18001pt x 63.98889pt.
-<images/trigsuba7.png, id=205, 75.28125pt x 63.23625pt>
+<images/trigsuba7.png, id=32, 75.28125pt x 63.23625pt>
 File: images/trigsuba7.png Graphic file (type png)
 <use images/trigsuba7.png>
 Package pdftex.def Info: images/trigsuba7.png  used on input line 219.
@@ -524,65 +308,67 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[49 <./images/trigsuba6.png>]
-<images/trigsuba8.png, id=211, 63.23625pt x 48.18pt>
+[4 <./images/trigsuba6.png>]
+<images/trigsuba8.png, id=38, 63.23625pt x 48.18pt>
 File: images/trigsuba8.png Graphic file (type png)
 <use images/trigsuba8.png>
 Package pdftex.def Info: images/trigsuba8.png  used on input line 251.
 (pdftex.def)             Requested size: 63.23608pt x 48.17986pt.
 
 
-[50 <./images/trigsuba7.png> <./images/trigsuba8.png>]
-<images/trigsuba9.png, id=217, 91.84312pt x 63.98906pt>
+[5 <./images/trigsuba7.png> <./images/trigsuba8.png>]
+<images/trigsuba9.png, id=44, 91.84312pt x 63.98906pt>
 File: images/trigsuba9.png Graphic file (type png)
 <use images/trigsuba9.png>
 Package pdftex.def Info: images/trigsuba9.png  used on input line 286.
 (pdftex.def)             Requested size: 91.84288pt x 63.98889pt.
-<images/trigsuba10.png, id=218, 136.25906pt x 78.2925pt>
+<images/trigsuba10.png, id=45, 136.25906pt x 78.2925pt>
 File: images/trigsuba10.png Graphic file (type png)
 <use images/trigsuba10.png>
 Package pdftex.def Info: images/trigsuba10.png  used on input line 317.
 (pdftex.def)             Requested size: 136.25871pt x 78.2923pt.
 
 
-[51 <./images/trigsuba9.png> <./images/trigsuba10.png>]
-<images/trigsuba11.png, id=224, 141.52875pt x 83.5622pt>
+[6 <./images/trigsuba9.png> <./images/trigsuba10.png>]
+<images/trigsuba11.png, id=51, 141.52875pt x 83.5622pt>
 File: images/trigsuba11.png Graphic file (type png)
 <use images/trigsuba11.png>
 Package pdftex.def Info: images/trigsuba11.png  used on input line 353.
 (pdftex.def)             Requested size: 141.5284pt x 83.56198pt.
 
 
-[52 <./images/trigsuba11.png>]
+[7 <./images/trigsuba11.png>]
 
-[53]
-<images/trigsuba12.png, id=232, 149.05687pt x 103.88812pt>
+[8]
+<images/trigsuba12.png, id=60, 149.05687pt x 103.88812pt>
 File: images/trigsuba12.png Graphic file (type png)
 <use images/trigsuba12.png>
 Package pdftex.def Info: images/trigsuba12.png  used on input line 412.
 (pdftex.def)             Requested size: 149.0565pt x 103.88786pt.
 
 
-[54 <./images/trigsuba12.png>]) (answers/ans_camelprinciple.tex)
-
-[55] (main.aux)
+[9 <./images/trigsuba12.png>] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 4738 strings out of 473919
- 78628 string characters out of 5727897
+ 4428 strings out of 473919
+ 69274 string characters out of 5727897
  1945908 words of memory out of 5000000
- 27441 multiletter control sequences out of 15000+600000
- 567478 words of font info for 72 fonts, out of 8000000 for 9000
+ 27224 multiletter control sequences out of 15000+600000
+ 563319 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,15n,65p,1288b,388s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (55 pages, 501290 bytes).
+ 77i,8n,82p,1304b,296s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.pdf" (9 pages, 164377 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

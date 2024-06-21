@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718960069.86308 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_dimethod.tex" "answers/ans_dimethod.pdf" "ans_dimethod" 1718960071.392 0
+["pdflatex"] 1718959310.15677 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_trigsubs.tex" "answers/ans_trigsubs.pdf" "ans_trigsubs" 1718959313.44304 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718842733 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -67,13 +67,24 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "answers/../main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
-  "answers/ans_dimethod.aux" 1718960071 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "answers/ans_dimethod.tex" 1718960069 3843 4e39d2d96621d7458a0cffdd94840197 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_dimethod.tex" 1718960069 3843 4e39d2d96621d7458a0cffdd94840197 ""
-  "images/di_a1.png" 1718948172 10835 29e83e61ad743ed3629f0f3a3f58e811 ""
+  "answers/ans_trigsubs.aux" 1718959312 32 1b174032087fb90900fa6203d3bb0a7e "pdflatex"
+  "answers/ans_trigsubs.tex" 1718959312 16108 245978b836dc0f966586e0d5c4f04ab1 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_trigsubs.tex" 1718959312 16108 245978b836dc0f966586e0d5c4f04ab1 ""
+  "images/trigsuba1.png" 1718948170 1453 bc48f780f49f4a5a43630b587f4c66b7 ""
+  "images/trigsuba10.png" 1718948169 1951 af7b6d629ac323ed6d7ce61e7266c5f7 ""
+  "images/trigsuba11.png" 1718948169 2473 b6c1077bbb747256fdf2e7839b9e61c9 ""
+  "images/trigsuba12.png" 1718948169 2299 aa14c6d82c25bc42c4f727db1fb81b7e ""
+  "images/trigsuba2.png" 1718948169 1818 08134cd7754ac7bd22389eb8494765f3 ""
+  "images/trigsuba3.png" 1718948169 1835 42cdbb939e39bf28cd3b7ef7cc9afa3f ""
+  "images/trigsuba4.png" 1718948169 1715 35f9f1121bc68843f81a79907d831d6c ""
+  "images/trigsuba5.png" 1718948169 1950 bd987a9b6045a9ab8fde1b25e0a5b06d ""
+  "images/trigsuba6.png" 1718948169 1912 f5622f215b614d79172f50fba0da79fb ""
+  "images/trigsuba7.png" 1718948169 1997 76817d9ee4fbc8aeb3953b09f1c3e0e3 ""
+  "images/trigsuba8.png" 1718948169 1687 3e794b4385572f33861b8972becb3055 ""
+  "images/trigsuba9.png" 1718948169 1546 f5bb8afaff1a3236bf510bbdaee9446e ""
   "main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
   (generated)
-  "answers/ans_dimethod.aux"
-  "answers/ans_dimethod.log"
-  "answers/ans_dimethod.pdf"
+  "answers/ans_trigsubs.aux"
+  "answers/ans_trigsubs.log"
+  "answers/ans_trigsubs.pdf"
   (rewritten before read)

@@ -5,51 +5,56 @@
 
 \begin{enumerate}
     \item 
-    \(\int \frac{1}{1+e^x}\,dx=\int \frac{1+e^x-e^x}{1+e^x}\,dx\)\\
+    \(\int \frac{1}{1+e^x}\,dx=\int \frac{1+e^x-e^x}{1+e^x}\,dx\)
     
-    \(\int \frac{1+e^x}{1+e^x}\,dx-\int \frac{e^x}{1+e^x}\,dx\)\\
+    \(\int \frac{1+e^x}{1+e^x}\,dx-\int \frac{e^x}{1+e^x}\,dx\)
 
-    \(\int 1\,dx-\int \frac{e^x}{1+e^x}\,dx\)\\
+    \(\int 1\,dx-\int \frac{e^x}{1+e^x}\,dx\)
 
-    \(=x-\ln{|1+e^x|}+c\)\\
-    
-    \item 
-    \(\int \frac{1}{1+\sqrt{e^x}}\,dx=\int \frac{1+\sqrt{e^x}-\sqrt{e^x}}{1+\sqrt{e^x}}\,dx\)\\
-
-    \(=\int \frac{1+\sqrt{e^x}}{1+\sqrt{e^x}}\,dx-\int \frac{\sqrt{e^x}}{1+\sqrt{e^x}}\,dx\)\\
-
-    \(=\int 1\,dx-\int \frac{\sqrt{e^x}}{1+\sqrt{e^x}}\,dx\)\\
-
-    \(x-\int \frac{\sqrt{e^x}}{1+\sqrt{e^x}}\,dx\)\\
-
-    For the remaining integral, use the substitution\(u=\sqrt{e^x}\), meaning that \(u^2=e^x\).\\
-
-    \(x=\ln{u^2}=2\ln{u}\)\\
-
-    \(dx=\frac{2}{u}\,du\)\\
-
-    \(x-\int \frac{u}{1+u}\frac{2\,du}{u}=x-2\int \frac{1}{1+u}\,du\)\\
-
-    \(x-2\ln{|1+u|}+c\)\\
-
-    \(x-2\ln{|1+\sqrt{e^x}|}+c\)\\
+    \(=x-\ln{|1+e^x|}+c\)
     
     \item 
-    \(\int \sec{x}\,dx\)\\
-    In this case we will use the Camel Principle multiplicatively, multiplying by \(\frac{\sec{x}+\tan{x}}{\sec{x}+\tan{x}}\)\\
+    \(\int \frac{1}{1+\sqrt{e^x}}\,dx=\int \frac{1+\sqrt{e^x}-\sqrt{e^x}}{1+\sqrt{e^x}}\,dx\)
 
-    This gives us the integral:\\
-    \(\int \frac{\sec^2{x}+\sec{x}\tan{x}}{\sec{x}+\tan{x}}\,dx\)\\
+    \(=\int \frac{1+\sqrt{e^x}}{1+\sqrt{e^x}}\,dx-\int \frac{\sqrt{e^x}}{1+\sqrt{e^x}}\,dx\)
 
-    This is in the format \(\frac{f'(x)}{f(x)}\), which integrates to \(\ln{|f(x)|}+c\)\\
-    Therefore, our integral is \(\ln{|\sec{x}+\tan{x}|}+c\)\\
+    \(=\int 1\,dx-\int \frac{\sqrt{e^x}}{1+\sqrt{e^x}}\,dx\)
+
+    \(x-\int \frac{\sqrt{e^x}}{1+\sqrt{e^x}}\,dx\)
+
+    For the remaining integral, use the substitution\(u=\sqrt{e^x}\), meaning that \(u^2=e^x\).
+
+    \(x=\ln{u^2}=2\ln{u}\)
+
+    \(dx=\frac{2}{u}\,du\)
+
+    \(x-\int \frac{u}{1+u}\frac{2\,du}{u}=x-2\int \frac{1}{1+u}\,du\)
+
+    \(x-2\ln{|1+u|}+c\)
+
+    \(x-2\ln{|1+\sqrt{e^x}|}+c\)
+    
+    \item 
+    \(\int \sec{x}\,dx\)
+
+    In this case we will use the Camel Principle multiplicatively, multiplying by \(\frac{\sec{x}+\tan{x}}{\sec{x}+\tan{x}}\)
+
+    This gives us the integral:
+
+    \(\int \frac{\sec^2{x}+\sec{x}\tan{x}}{\sec{x}+\tan{x}}\,dx\)
+
+    This is in the format \(\frac{f'(x)}{f(x)}\), which integrates to \(\ln{|f(x)|}+c\)
+
+    Therefore, our integral is \(\ln{|\sec{x}+\tan{x}|}+c\)
 
     \item 
-    \(\int \csc{\theta}\,d\theta\)\\
+    \(\int \csc{\theta}\,d\theta\)
 
-    To integrate, first multiply by \(\frac{\csc{\theta}-\cot{\theta}}{\csc{\theta}+\cot{\theta}}\)\\
-    This changes the integral to:\\
-    \(\int \frac{\csc^2{\theta}-\csc{\theta}\cot{\theta}}{\csc{\theta}-\cot{\theta}}\)\\
+    To integrate, first multiply by \(\frac{\csc{\theta}-\cot{\theta}}{\csc{\theta}+\cot{\theta}}\)
+
+    This changes the integral to:
+
+    \(\int \frac{\csc^2{\theta}-\csc{\theta}\cot{\theta}}{\csc{\theta}-\cot{\theta}}\)
 
     This is in the form \(\frac{f'(x)}{f(x)}\), therefore the integral is \(\ln{|\csc{\theta}-\tan{\theta}|}+c\)
     
