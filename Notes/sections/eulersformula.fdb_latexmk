@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1718956606.13999 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/eulersformula.tex" "sections/eulersformula.pdf" "eulersformula" 1718956607.6941 0
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718842733 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1719130722.41606 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/eulersformula.tex" "sections/eulersformula.pdf" "eulersformula" 1719130723.95019 0
+  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719109836 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -67,11 +67,11 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/eulersformula.tex" 1718956603 2175 e64561571bd6d2dc6bf39d13ebe00aa1 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/eulersformula.tex" 1719130721 2305 4fdb74d34f0f350899c6e2daee552628 ""
   "main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
   "sections/../main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
-  "sections/eulersformula.aux" 1718956607 174 b928befbdbabcce686b47763cd78950d "pdflatex"
-  "sections/eulersformula.tex" 1718956603 2175 e64561571bd6d2dc6bf39d13ebe00aa1 ""
+  "sections/eulersformula.aux" 1719130723 174 b928befbdbabcce686b47763cd78950d "pdflatex"
+  "sections/eulersformula.tex" 1719130721 2305 4fdb74d34f0f350899c6e2daee552628 ""
   (generated)
   "sections/eulersformula.aux"
   "sections/eulersformula.log"
