@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  24 JUN 2024 11:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  24 JUN 2024 08:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week7.tex"
-(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week7.tex
+**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week6.tex"
+(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week6.tex
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
@@ -311,8 +311,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
 \l__pdf_internal_box=\box59
-) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week7.aux)
-\openout1 = `term2week7.aux'.
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\sections\term2week6.aux)
+\openout1 = `term2week6.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -386,9 +386,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 3.
-(c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week7.out) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week7.out)
+(c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\sections\term2week6.out) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\sections\term2week6.out)
 \@outlinefile=\write3
-\openout3 = `term2week7.out'.
+\openout3 = `term2week6.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -400,158 +400,60 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+<images/t2w6q1.png, id=3, 269.50688pt x 264.99pt>
+File: images/t2w6q1.png Graphic file (type png)
+<use images/t2w6q1.png>
+Package pdftex.def Info: images/t2w6q1.png  used on input line 10.
+(pdftex.def)             Requested size: 140.92793pt x 138.56789pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
-
- []
-
+<images/t2w6q4.png, id=5, 404.00937pt x 161.10187pt>
+File: images/t2w6q4.png Graphic file (type png)
+<use images/t2w6q4.png>
+Package pdftex.def Info: images/t2w6q4.png  used on input line 34.
+(pdftex.def)             Requested size: 404.00838pt x 161.10147pt.
 
 
 [1
 
-{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 45--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--93
-
- []
-
-
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 94--104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--120
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--131
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
-
- []
-
-
-
-[3] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week7.aux)
+{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/t2w6q1.png> <./images/t2w6q4.png>] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\sections\term2week6.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
-Package rerunfilecheck Info: File `term2week7.out' has not changed.
+Package rerunfilecheck Info: File `term2week6.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12073 strings out of 473919
- 196146 string characters out of 5727897
- 1941908 words of memory out of 5000000
- 34762 multiletter control sequences out of 15000+600000
- 563667 words of font info for 57 fonts, out of 8000000 for 9000
+ 12092 strings out of 473919
+ 196564 string characters out of 5727897
+ 1933908 words of memory out of 5000000
+ 34779 multiletter control sequences out of 15000+600000
+ 563974 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,9n,99p,1315b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week7.pdf" (3 pages, 107281 bytes).
+ 89i,7n,99p,1316b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\sections\term2week6.pdf" (1 page, 127816 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

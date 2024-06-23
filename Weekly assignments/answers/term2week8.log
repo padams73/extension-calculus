@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  23 JUN 2024 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  24 JUN 2024 11:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -299,10 +299,18 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count299
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count300
+) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip57
+\enit@outerparindent=\dimen180
+\enit@toks=\toks28
+\enit@inbox=\box58
+\enit@count@id=\count301
+\enitdp@description=\count302
 ))) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count301
-\l__pdf_internal_box=\box58
+\l__color_backend_stack_int=\count303
+\l__pdf_internal_box=\box59
 ) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week8.aux)
 \openout1 = `term2week8.aux'.
 
@@ -326,17 +334,17 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen180
-\scratchbox=\box59
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen181
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count304
+\scratchdimen=\dimen181
+\scratchbox=\box60
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen182
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks30
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -409,8 +417,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--74
 
 
 [2]
+<images/t2w8q3a1.png, id=27, 289.58188pt x 197.23688pt>
+File: images/t2w8q3a1.png Graphic file (type png)
+<use images/t2w8q3a1.png>
+Package pdftex.def Info: images/t2w8q3a1.png  used on input line 137.
+(pdftex.def)             Requested size: 117.43875pt x 79.98883pt.
+<images/t2w8q3a2.png, id=28, 288.07625pt x 194.7275pt>
+File: images/t2w8q3a2.png Graphic file (type png)
+<use images/t2w8q3a2.png>
+Package pdftex.def Info: images/t2w8q3a2.png  used on input line 144.
+(pdftex.def)             Requested size: 117.43875pt x 79.38417pt.
+<images/t2w8q3a3.png, id=29, 294.09875pt x 205.26688pt>
+File: images/t2w8q3a3.png Graphic file (type png)
+<use images/t2w8q3a3.png>
+Package pdftex.def Info: images/t2w8q3a3.png  used on input line 151.
+(pdftex.def)             Requested size: 117.43875pt x 81.96747pt.
+<images/t2w8q3a4.png, id=30, 289.08pt x 197.73875pt>
+File: images/t2w8q3a4.png Graphic file (type png)
+<use images/t2w8q3a4.png>
+Package pdftex.def Info: images/t2w8q3a4.png  used on input line 158.
+(pdftex.def)             Requested size: 117.43875pt x 80.33116pt.
 
-[3] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week8.aux)
+
+[3 <./images/t2w8q3a1.png> <./images/t2w8q3a2.png> <./images/t2w8q3a3.png>]
+<images/t2w8q3a5.png, id=42, 101.37875pt x 88.83188pt>
+File: images/t2w8q3a5.png Graphic file (type png)
+<use images/t2w8q3a5.png>
+Package pdftex.def Info: images/t2w8q3a5.png  used on input line 165.
+(pdftex.def)             Requested size: 70.46037pt x 61.74135pt.
+<images/t2w8q4a1.png, id=43, 522.45187pt x 297.11pt>
+File: images/t2w8q4a1.png Graphic file (type png)
+<use images/t2w8q4a1.png>
+Package pdftex.def Info: images/t2w8q4a1.png  used on input line 189.
+(pdftex.def)             Requested size: 281.85587pt x 160.2874pt.
+<images/t2w8q4a2.png, id=44, 188.705pt x 212.795pt>
+File: images/t2w8q4a2.png Graphic file (type png)
+<use images/t2w8q4a2.png>
+Package pdftex.def Info: images/t2w8q4a2.png  used on input line 196.
+(pdftex.def)             Requested size: 117.43875pt x 132.43156pt.
+
+
+[4 <./images/t2w8q3a4.png> <./images/t2w8q3a5.png> <./images/t2w8q4a1.png>]
+
+[5 <./images/t2w8q4a2.png>] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week8.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -419,17 +468,17 @@ Package rerunfilecheck Info: File `term2week8.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11754 strings out of 473919
- 190724 string characters out of 5727897
+ 12145 strings out of 473919
+ 197868 string characters out of 5727897
  1945908 words of memory out of 5000000
- 34449 multiletter control sequences out of 15000+600000
- 563320 words of font info for 56 fonts, out of 8000000 for 9000
+ 34824 multiletter control sequences out of 15000+600000
+ 563667 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,12n,99p,1315b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week8.pdf" (3 pages, 109001 bytes).
+ 89i,12n,99p,1315b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Weekly assignments\answers\term2week8.pdf" (5 pages, 374759 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

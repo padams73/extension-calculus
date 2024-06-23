@@ -3,7 +3,7 @@
 \begin{document}
 \section*{Term 2 Week 8}
 
-\begin{enumerate}
+\begin{enumerate}[itemsep=1cm]
     \item 
     \(\int \sqrt{1-x}.\sqrt{x+3}\,dx\)
 
@@ -126,6 +126,87 @@
         &=(\frac{7\pi}{6}\pm 2\pi a, -\frac{2\pi}{3}\pm 2\pi b)
     \end{aligned}
     $
+
+    \item 
+    \(\arg{(z-6)}-\arg{(z_2)}=\frac{\pi}{4}\)
+
+    Set $L_1$ as a line segment such that $\arg{(z-6)}=\theta$ and $L_2$ is the line segment with $\arg{(z-2)=\phi}$.
+
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.25\linewidth]{images/t2w8q3a1.png}
+    \end{figure}
+
+    By the geometry rule 'exterior angle equals the sum of the two opposite interior angles', it follows that $\theta - \phi = \frac{\pi}{4}$ and that can be seen in the diagram as below:
+
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.25\linewidth]{images/t2w8q3a2.png}
+    \end{figure}
+
+    As the two angles $\theta$ and $\phi$ vary, but the $\frac{\pi}{4}$ is constant, $P$ forms an arc, based on the geometry rule 'angles on the same arc are equal'.
+
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.25\linewidth]{images/t2w8q3a3.png}
+    \end{figure}
+
+    To find the centre of the circle (and hence the equation), we use the geometry rule 'angle at centre is twice the angle at the circumference'. This means the angle at the centre will be $\frac{\pi}{2}$. This triangle must be isosceles as two sides are radii.
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.25\linewidth]{images/t2w8q3a4.png}
+    \end{figure}
+
+    From here if we drop a perpendicular line down to create a right angle triangle it is simple enough to find the radius of the circle as $\sqrt{8}$:
+
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.15\linewidth]{images/t2w8q3a5.png}
+    \end{figure}
+
+    Since the centre lies on the line $x=4$, it means we have $(x-4)^2 + (y-b)^2 = 8$
+
+    Substituting in one of the known points (2,0) or (6,0) we can find \textit{b}.
+
+    $(2-4)^2+(-b)^2=8$
+
+    $4+b^2=8$
+
+    $b=2$
+
+    So the equation is $(x-4)^2 + (y-2)^2 = 8$
+
+    \item
+    We know $\overline{\rm AB}$=6cm. 
+
+    Adding a line from R to O, the centre of the small circle, we know $\overline{\rm OR}=2+r$, where r = the radius of the small circle.
+
+    Forming a right-triangle by dropping a vertical line from the O and drawing a horizontal line from R, we can see the following:
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.6\linewidth]{images/t2w8q4a1.png}
+    \end{figure}
+
+    This gives us the following triangle:
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.25\linewidth]{images/t2w8q4a2.png}
+    \end{figure}
+
+    Using Pythagoras to solve for \textit{r}:
+
+    $(2-r)^2+(4-r)^2=(2+r)^2$
+
+    $4-4r+r^2+16-8r+r^2=4+4r+r^2$
+
+    $2r^2-12r+20=r^2+4r+4$
+
+    $r^2-16r+16=0$
+
+    $r=8-4\sqrt{3}$
 
 \end{enumerate}
 

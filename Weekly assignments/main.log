@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  23 JUN 2024 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  24 JUN 2024 11:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -296,44 +296,52 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count299
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count300
+) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip57
+\enit@outerparindent=\dimen180
+\enit@toks=\toks28
+\enit@inbox=\box58
+\enit@count@id=\count301
+\enitdp@description=\count302
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count301
-\l__pdf_internal_box=\box58
+\l__color_backend_stack_int=\count303
+\l__pdf_internal_box=\box59
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen180
-\scratchbox=\box59
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen181
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count304
+\scratchdimen=\dimen181
+\scratchbox=\box60
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen182
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks30
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -374,25 +382,25 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 21.
+Package hyperref Info: Link coloring OFF on input line 22.
 (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <images/menger.png, id=3, 258.9675pt x 245.91875pt>
 File: images/menger.png Graphic file (type png)
 <use images/menger.png>
-Package pdftex.def Info: images/menger.png  used on input line 27.
+Package pdftex.def Info: images/menger.png  used on input line 28.
 (pdftex.def)             Requested size: 234.8775pt x 223.05092pt.
 
 
@@ -971,9 +979,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
 )
 
-[20] (sections/term2week8.tex)
+[20] (sections/term2week8.tex
+<images/t2w8q4.png, id=229, 295.85532pt x 182.18062pt>
+File: images/t2w8q4.png Graphic file (type png)
+<use images/t2w8q4.png>
+Package pdftex.def Info: images/t2w8q4.png  used on input line 28.
+(pdftex.def)             Requested size: 295.85458pt x 182.18016pt.
+)
 
-[21]
+[21 <./images/t2w8q4.png>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: letterpaper
@@ -1050,7 +1064,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
 
-<images/t1w2q2_a.png, id=239, 224.33812pt x 64.74188pt>
+<images/t1w2q2_a.png, id=244, 224.33812pt x 64.74188pt>
 File: images/t1w2q2_a.png Graphic file (type png)
 <use images/t1w2q2_a.png>
 Package pdftex.def Info: images/t1w2q2_a.png  used on input line 27.
@@ -1295,7 +1309,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-<images/t1w4q2_a.png, id=266, 267.24844pt x 135.50626pt>
+<images/t1w4q2_a.png, id=271, 267.24844pt x 135.50626pt>
 File: images/t1w4q2_a.png Graphic file (type png)
 <use images/t1w4q2_a.png>
 Package pdftex.def Info: images/t1w4q2_a.png  used on input line 16.
@@ -1706,7 +1720,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--62
 
  []
 
-<images/t1w7q1_a.png, id=312, 165.61874pt x 79.04532pt>
+<images/t1w7q1_a.png, id=317, 165.61874pt x 79.04532pt>
 File: images/t1w7q1_a.png Graphic file (type png)
 <use images/t1w7q1_a.png>
 Package pdftex.def Info: images/t1w7q1_a.png  used on input line 66.
@@ -1832,17 +1846,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-<images/t1w8q2_a1.png, id=333, 118.19156pt x 129.48375pt>
+<images/t1w8q2_a1.png, id=338, 118.19156pt x 129.48375pt>
 File: images/t1w8q2_a1.png Graphic file (type png)
 <use images/t1w8q2_a1.png>
 Package pdftex.def Info: images/t1w8q2_a1.png  used on input line 65.
 (pdftex.def)             Requested size: 93.94957pt x 102.92722pt.
-<images/t1w8q2_a2.png, id=334, 110.66344pt x 125.71968pt>
+<images/t1w8q2_a2.png, id=339, 110.66344pt x 125.71968pt>
 File: images/t1w8q2_a2.png Graphic file (type png)
 <use images/t1w8q2_a2.png>
 Package pdftex.def Info: images/t1w8q2_a2.png  used on input line 70.
 (pdftex.def)             Requested size: 117.43875pt x 133.42334pt.
-<images/t1w8q2_a3.png, id=335, 150.5625pt x 163.3603pt>
+<images/t1w8q2_a3.png, id=340, 150.5625pt x 163.3603pt>
 File: images/t1w8q2_a3.png Graphic file (type png)
 <use images/t1w8q2_a3.png>
 Package pdftex.def Info: images/t1w8q2_a3.png  used on input line 75.
@@ -1850,7 +1864,7 @@ Package pdftex.def Info: images/t1w8q2_a3.png  used on input line 75.
 
 
 [38 <./images/t1w8q2_a1.png> <./images/t1w8q2_a2.png>]
-<images/t1w8q2_a4.png, id=344, 82.80937pt x 149.8097pt>
+<images/t1w8q2_a4.png, id=349, 82.80937pt x 149.8097pt>
 File: images/t1w8q2_a4.png Graphic file (type png)
 <use images/t1w8q2_a4.png>
 Package pdftex.def Info: images/t1w8q2_a4.png  used on input line 85.
@@ -1860,7 +1874,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-<images/t1w8q3_ans6.png, id=345, 148.30406pt x 56.46094pt>
+<images/t1w8q3_ans6.png, id=350, 148.30406pt x 56.46094pt>
 File: images/t1w8q3_ans6.png Graphic file (type png)
 <use images/t1w8q3_ans6.png>
 Package pdftex.def Info: images/t1w8q3_ans6.png  used on input line 94.
@@ -1870,7 +1884,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
-<images/t1w8q3_ans7.png, id=346, 190.46156pt x 85.06781pt>
+<images/t1w8q3_ans7.png, id=351, 190.46156pt x 85.06781pt>
 File: images/t1w8q3_ans7.png Graphic file (type png)
 <use images/t1w8q3_ans7.png>
 Package pdftex.def Info: images/t1w8q3_ans7.png  used on input line 101.
@@ -1907,17 +1921,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-<images/t1w8q3_ans1.png, id=358, 201.75375pt x 105.39375pt>
+<images/t1w8q3_ans1.png, id=363, 201.75375pt x 105.39375pt>
 File: images/t1w8q3_ans1.png Graphic file (type png)
 <use images/t1w8q3_ans1.png>
 Package pdftex.def Info: images/t1w8q3_ans1.png  used on input line 120.
 (pdftex.def)             Requested size: 117.43875pt x 61.34872pt.
-<images/t1w8q3_ans2.png, id=359, 168.63pt x 72.27pt>
+<images/t1w8q3_ans2.png, id=364, 168.63pt x 72.27pt>
 File: images/t1w8q3_ans2.png Graphic file (type png)
 <use images/t1w8q3_ans2.png>
 Package pdftex.def Info: images/t1w8q3_ans2.png  used on input line 125.
 (pdftex.def)             Requested size: 117.43875pt x 50.3317pt.
-<images/t1w8q3_ans3.png, id=360, 172.39406pt x 72.27pt>
+<images/t1w8q3_ans3.png, id=365, 172.39406pt x 72.27pt>
 File: images/t1w8q3_ans3.png Graphic file (type png)
 <use images/t1w8q3_ans3.png>
 Package pdftex.def Info: images/t1w8q3_ans3.png  used on input line 140.
@@ -1934,7 +1948,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--145
 
  []
 
-<images/t1w8q3_ans4.png, id=371, 133.371pt x 69.642pt>
+<images/t1w8q3_ans4.png, id=376, 133.371pt x 69.642pt>
 File: images/t1w8q3_ans4.png Graphic file (type png)
 <use images/t1w8q3_ans4.png>
 Package pdftex.def Info: images/t1w8q3_ans4.png  used on input line 152.
@@ -1944,7 +1958,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--153
 
  []
 
-<images/t1w8q3_ans5.png, id=372, 231.86626pt x 139.27031pt>
+<images/t1w8q3_ans5.png, id=377, 231.86626pt x 139.27031pt>
 File: images/t1w8q3_ans5.png Graphic file (type png)
 <use images/t1w8q3_ans5.png>
 Package pdftex.def Info: images/t1w8q3_ans5.png  used on input line 157.
@@ -2123,7 +2137,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
 
 [44]
-<images/t1w9q3_a.png, id=399, 161.85469pt x 82.05656pt>
+<images/t1w9q3_a.png, id=404, 161.85469pt x 82.05656pt>
 File: images/t1w9q3_a.png Graphic file (type png)
 <use images/t1w9q3_a.png>
 Package pdftex.def Info: images/t1w9q3_a.png  used on input line 97.
@@ -2138,7 +2152,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--111
 
  []
 
-<images/t1w9q3_a2.png, id=400, 176.91093pt x 123.46124pt>
+<images/t1w9q3_a2.png, id=405, 176.91093pt x 123.46124pt>
 File: images/t1w9q3_a2.png Graphic file (type png)
 <use images/t1w9q3_a2.png>
 Package pdftex.def Info: images/t1w9q3_a2.png  used on input line 121.
@@ -2146,12 +2160,12 @@ Package pdftex.def Info: images/t1w9q3_a2.png  used on input line 121.
 )
 
 [45 <./images/t1w9q3_a.png> <./images/t1w9q3_a2.png>] (answers/term1week10.tex
-<images/t1w10q1_a1.png, id=409, 120.45pt x 112.16907pt>
+<images/t1w10q1_a1.png, id=414, 120.45pt x 112.16907pt>
 File: images/t1w10q1_a1.png Graphic file (type png)
 <use images/t1w10q1_a1.png>
 Package pdftex.def Info: images/t1w10q1_a1.png  used on input line 11.
 (pdftex.def)             Requested size: 93.94957pt x 87.49321pt.
-<images/t1w10q1_a2.png, id=410, 116.68594pt x 109.1578pt>
+<images/t1w10q1_a2.png, id=415, 116.68594pt x 109.1578pt>
 File: images/t1w10q1_a2.png Graphic file (type png)
 <use images/t1w10q1_a2.png>
 Package pdftex.def Info: images/t1w10q1_a2.png  used on input line 16.
@@ -2178,7 +2192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--38
 
 
 [46 <./images/t1w10q1_a1.png> <./images/t1w10q1_a2.png>]
-<images/t1w10q1_a3.png, id=421, 115.93312pt x 118.94438pt>
+<images/t1w10q1_a3.png, id=426, 115.93312pt x 118.94438pt>
 File: images/t1w10q1_a3.png Graphic file (type png)
 <use images/t1w10q1_a3.png>
 Package pdftex.def Info: images/t1w10q1_a3.png  used on input line 43.
@@ -2240,7 +2254,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-<images/t1w10q3_a.png, id=429, 137.7647pt x 143.78719pt>
+<images/t1w10q3_a.png, id=434, 137.7647pt x 143.78719pt>
 File: images/t1w10q3_a.png Graphic file (type png)
 <use images/t1w10q3_a.png>
 Package pdftex.def Info: images/t1w10q3_a.png  used on input line 79.
@@ -2334,7 +2348,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--20
 
  []
 
-<images/t2w1q2_a.png, id=446, 257.96375pt x 230.36063pt>
+<images/t2w1q2_a.png, id=451, 257.96375pt x 230.36063pt>
 File: images/t2w1q2_a.png Graphic file (type png)
 <use images/t2w1q2_a.png>
 Package pdftex.def Info: images/t2w1q2_a.png  used on input line 25.
@@ -2396,7 +2410,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--63
 
  []
 
-<images/t2w1q2_a2.png, id=455, 143.78719pt x 115.93312pt>
+<images/t2w1q2_a2.png, id=460, 143.78719pt x 115.93312pt>
 File: images/t2w1q2_a2.png Graphic file (type png)
 <use images/t2w1q2_a2.png>
 Package pdftex.def Info: images/t2w1q2_a2.png  used on input line 68.
@@ -2414,7 +2428,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--74
 )
 
 [51 <./images/t2w1q2_a2.png>] (answers/term2week2.tex
-<images/t2w2q1_a.png, id=463, 130.98938pt x 79.04532pt>
+<images/t2w2q1_a.png, id=468, 130.98938pt x 79.04532pt>
 File: images/t2w2q1_a.png Graphic file (type png)
 <use images/t2w2q1_a.png>
 Package pdftex.def Info: images/t2w2q1_a.png  used on input line 9.
@@ -2538,7 +2552,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
-<images/t2w1q4_a1.png, id=477, 587.19376pt x 206.7725pt>
+<images/t2w1q4_a1.png, id=482, 587.19376pt x 206.7725pt>
 File: images/t2w1q4_a1.png Graphic file (type png)
 <use images/t2w1q4_a1.png>
 Package pdftex.def Info: images/t2w1q4_a1.png  used on input line 110.
@@ -2679,12 +2693,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--69
 
  []
 
-<images/t2w3q4_a1.png, id=497, 72.27pt x 60.225pt>
+<images/t2w3q4_a1.png, id=502, 72.27pt x 60.225pt>
 File: images/t2w3q4_a1.png Graphic file (type png)
 <use images/t2w3q4_a1.png>
 Package pdftex.def Info: images/t2w3q4_a1.png  used on input line 74.
 (pdftex.def)             Requested size: 117.43875pt x 97.87086pt.
-<images/t2w3q4_a2.png, id=498, 152.57pt x 108.90688pt>
+<images/t2w3q4_a2.png, id=503, 152.57pt x 108.90688pt>
 File: images/t2w3q4_a2.png Graphic file (type png)
 <use images/t2w3q4_a2.png>
 Package pdftex.def Info: images/t2w3q4_a2.png  used on input line 79.
@@ -2692,17 +2706,17 @@ Package pdftex.def Info: images/t2w3q4_a2.png  used on input line 79.
 
 
 [57 <./images/t2w3q4_a1.png>]
-<images/t2w3q4_a3.png, id=507, 166.12062pt x 140.525pt>
+<images/t2w3q4_a3.png, id=512, 166.12062pt x 140.525pt>
 File: images/t2w3q4_a3.png Graphic file (type png)
 <use images/t2w3q4_a3.png>
 Package pdftex.def Info: images/t2w3q4_a3.png  used on input line 86.
 (pdftex.def)             Requested size: 117.43875pt x 99.34459pt.
-<images/t2w3q4_a4.png, id=508, 124.96687pt x 112.92188pt>
+<images/t2w3q4_a4.png, id=513, 124.96687pt x 112.92188pt>
 File: images/t2w3q4_a4.png Graphic file (type png)
 <use images/t2w3q4_a4.png>
 Package pdftex.def Info: images/t2w3q4_a4.png  used on input line 91.
 (pdftex.def)             Requested size: 117.43875pt x 106.12244pt.
-<images/t2w3q4_a5.png, id=509, 126.4725pt x 105.39375pt>
+<images/t2w3q4_a5.png, id=514, 126.4725pt x 105.39375pt>
 File: images/t2w3q4_a5.png Graphic file (type png)
 <use images/t2w3q4_a5.png>
 Package pdftex.def Info: images/t2w3q4_a5.png  used on input line 97.
@@ -2801,12 +2815,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
 )
 
 [61] (answers/term2week5.tex
-<images/t2w5q1_a1.png, id=540, 119.69719pt x 106.14656pt>
+<images/t2w5q1_a1.png, id=545, 119.69719pt x 106.14656pt>
 File: images/t2w5q1_a1.png Graphic file (type png)
 <use images/t2w5q1_a1.png>
 Package pdftex.def Info: images/t2w5q1_a1.png  used on input line 10.
 (pdftex.def)             Requested size: 117.43875pt x 104.1444pt.
-<images/t2w5q1_a2.png, id=541, 94.10156pt x 86.57344pt>
+<images/t2w5q1_a2.png, id=546, 94.10156pt x 86.57344pt>
 File: images/t2w5q1_a2.png Graphic file (type png)
 <use images/t2w5q1_a2.png>
 Package pdftex.def Info: images/t2w5q1_a2.png  used on input line 15.
@@ -2908,12 +2922,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 )
 
 [64] (answers/term2week6.tex
-<images/t2w6q1_2.png, id=562, 262.48062pt x 253.44687pt>
+<images/t2w6q1_2.png, id=567, 262.48062pt x 253.44687pt>
 File: images/t2w6q1_2.png Graphic file (type png)
 <use images/t2w6q1_2.png>
 Package pdftex.def Info: images/t2w6q1_2.png  used on input line 12.
 (pdftex.def)             Requested size: 93.94957pt x 90.71484pt.
-<images/t2w6q1_3.png, id=563, 509.40312pt x 393.47pt>
+<images/t2w6q1_3.png, id=568, 509.40312pt x 393.47pt>
 File: images/t2w6q1_3.png Graphic file (type png)
 <use images/t2w6q1_3.png>
 Package pdftex.def Info: images/t2w6q1_3.png  used on input line 15.
@@ -3194,56 +3208,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--105
+Underfull \hbox (badness 10000) in paragraph at lines 83--93
 
  []
 
 
 
 [70]
-Underfull \hbox (badness 10000) in paragraph at lines 106--110
+Underfull \hbox (badness 10000) in paragraph at lines 94--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--114
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--121
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
+Underfull \hbox (badness 10000) in paragraph at lines 116--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
  []
 
 )
 
 [71] (answers/term2week8.tex
-<answers/../images/t2w8q1a.png, id=606, 226.34563pt x 142.03062pt>
+<answers/../images/t2w8q1a.png, id=611, 226.34563pt x 142.03062pt>
 File: answers/../images/t2w8q1a.png Graphic file (type png)
 <use answers/../images/t2w8q1a.png>
 Package pdftex.def Info: answers/../images/t2w8q1a.png  used on input line 21.
@@ -3257,9 +3266,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--74
 
 
 
-[73])
+[73]
+<images/t2w8q3a1.png, id=625, 289.58188pt x 197.23688pt>
+File: images/t2w8q3a1.png Graphic file (type png)
+<use images/t2w8q3a1.png>
+Package pdftex.def Info: images/t2w8q3a1.png  used on input line 137.
+(pdftex.def)             Requested size: 117.43875pt x 79.98883pt.
+<images/t2w8q3a2.png, id=626, 288.07625pt x 194.7275pt>
+File: images/t2w8q3a2.png Graphic file (type png)
+<use images/t2w8q3a2.png>
+Package pdftex.def Info: images/t2w8q3a2.png  used on input line 144.
+(pdftex.def)             Requested size: 117.43875pt x 79.38417pt.
+<images/t2w8q3a3.png, id=627, 294.09875pt x 205.26688pt>
+File: images/t2w8q3a3.png Graphic file (type png)
+<use images/t2w8q3a3.png>
+Package pdftex.def Info: images/t2w8q3a3.png  used on input line 151.
+(pdftex.def)             Requested size: 117.43875pt x 81.96747pt.
+<images/t2w8q3a4.png, id=628, 289.08pt x 197.73875pt>
+File: images/t2w8q3a4.png Graphic file (type png)
+<use images/t2w8q3a4.png>
+Package pdftex.def Info: images/t2w8q3a4.png  used on input line 158.
+(pdftex.def)             Requested size: 117.43875pt x 80.33116pt.
 
-[74] (main.aux)
+
+[74 <./images/t2w8q3a1.png> <./images/t2w8q3a2.png> <./images/t2w8q3a3.png>]
+<images/t2w8q3a5.png, id=640, 101.37875pt x 88.83188pt>
+File: images/t2w8q3a5.png Graphic file (type png)
+<use images/t2w8q3a5.png>
+Package pdftex.def Info: images/t2w8q3a5.png  used on input line 165.
+(pdftex.def)             Requested size: 70.46037pt x 61.74135pt.
+<images/t2w8q4a1.png, id=641, 522.45187pt x 297.11pt>
+File: images/t2w8q4a1.png Graphic file (type png)
+<use images/t2w8q4a1.png>
+Package pdftex.def Info: images/t2w8q4a1.png  used on input line 189.
+(pdftex.def)             Requested size: 281.85587pt x 160.2874pt.
+<images/t2w8q4a2.png, id=642, 188.705pt x 212.795pt>
+File: images/t2w8q4a2.png Graphic file (type png)
+<use images/t2w8q4a2.png>
+Package pdftex.def Info: images/t2w8q4a2.png  used on input line 196.
+(pdftex.def)             Requested size: 117.43875pt x 132.43156pt.
+
+
+[75 <./images/t2w8q3a4.png> <./images/t2w8q3a5.png> <./images/t2w8q4a1.png>])
+
+[76 <./images/t2w8q4a2.png>] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -3268,17 +3318,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12737 strings out of 473919
- 213864 string characters out of 5727897
+ 13145 strings out of 473919
+ 221280 string characters out of 5727897
  1947908 words of memory out of 5000000
- 35032 multiletter control sequences out of 15000+600000
+ 35414 multiletter control sequences out of 15000+600000
  568185 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,13n,79p,1301b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,13n,79p,1301b,664s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (74 pages, 1039092 bytes).
+Output written on main.pdf (76 pages, 1314059 bytes).
 PDF statistics:
- 753 PDF objects out of 1000 (max. 8388607)
- 256 named destinations out of 1000 (max. 500000)
- 281 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 791 PDF objects out of 1000 (max. 8388607)
+ 270 named destinations out of 1000 (max. 500000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 

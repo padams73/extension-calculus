@@ -1,9 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1719045368.21931 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week7.tex" "answers/term2week7.pdf" "term2week7" 1719045370.03424 0
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718842733 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
+["pdflatex"] 1719184983.27009 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week7.tex" "answers/term2week7.pdf" "term2week7" 1719184985.10936 0
+  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
-  "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -64,6 +62,7 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty" 1696169587 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty" 1696169587 72619 ee90b6612147680fd73c3b1406a74245 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/caption/subcaption.sty" 1696169587 12494 0c0cdb824278a4d51cefeb2e79901315 ""
+  "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty" 1561039820 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1601897756 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
@@ -94,12 +93,12 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "answers/../main.tex" 1719005945 2701 4e8a817b7326ada4528c627b21fa7210 ""
-  "answers/term2week7.aux" 1719045369 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "answers/term2week7.out" 1719045369 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "answers/term2week7.tex" 1718842396 4116 ff400064a2cbb9a13be030b590233b3b ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week7.tex" 1718842396 4116 ff400064a2cbb9a13be030b590233b3b ""
-  "main.tex" 1719005945 2701 4e8a817b7326ada4528c627b21fa7210 ""
+  "answers/../main.tex" 1719174726 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
+  "answers/term2week7.aux" 1719184984 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "answers/term2week7.out" 1719184984 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "answers/term2week7.tex" 1719184982 4968 0701d7255be0566f51964a20d28f2cf9 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week7.tex" 1719184982 4968 0701d7255be0566f51964a20d28f2cf9 ""
+  "main.tex" 1719174726 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
   (generated)
   "answers/term2week7.aux"
   "answers/term2week7.log"

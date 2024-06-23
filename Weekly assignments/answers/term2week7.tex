@@ -2,7 +2,7 @@
 \graphicspath{{\subfix{../images/}}}
 \begin{document}
 \section*{Term 2 Week 7}
-\begin{enumerate}
+\begin{enumerate}[itemsep=1cm]
     \item 
     Find all polynomials \(f(x)\) such that \(f(2x)=f'(x).f''(x)\)\\
 
@@ -57,17 +57,27 @@
     
     \item 
     
-    Let \(x, y \text{ and } z\) be three 3-digit Real numbers that, between them, contain all the digits from 1-9.\\
-    If:
-    \begin{itemize}
-        \item 
-            \(x+y=z\)
-        \item 
-            \(z\) is a power of a prime
-        \item 
-            Each digit of \(x\) is lower than the corresponding digit of \(y\)
-    \end{itemize}
-    Find \(x, y\) and \(z\).\\
+    We know that the sum of the digits 1-9 is 45, which is a multiple of 3. Therefore, $X + Y + X = 0 \mod{3}$.
+
+    Since $X+Y=Z$, this means that $X+Y \mod{3}=-Z\mod{3}$. It follows that $X+Y \mod{3}=Z\mod{3}$.
+
+    This also means that $2Z \mod{3}=0$.
+
+    Since Z is a power of a prime and also a multiple of 3, it must therefore be a power of 3. The only 3-digit multiples of 3 are 243 and 729. 243 is too small to be the sum of two other 3-digit numbers where we are using all of the digits from 1-9, therefore Z=729.
+
+    Now that we know Z, we can work out X and Y by inspection. If we write $X=abc$ and $Y=def$, we know that $c+f=9$ (they can't add to 19).
+
+    This means that $b+e=12$, as they can't possible add to just 2. And since that means there is a carryover into the hundreds column, $a+d=6$.
+
+    With $Z=729$, the only digits remaining are 1,3,4,5,6,8. There is only one way to get 12 as a sum of any two of those numbers, therefore since the digits of X are greater than those of Y, $b=8$ and $e=4$. 
+
+    This leaves the digits 1,3,5,6. There is only one option for the remaining values of X and Y. $a=5, d=1$ and $c=6, f=3$.
+
+    Therefore, our solution is:
+
+    $X=586\\
+    Y=143\\
+    Z=729$
 
     \item
     \(e^{i(A-B)}=e^{iA}e^{-iB}\)\\
