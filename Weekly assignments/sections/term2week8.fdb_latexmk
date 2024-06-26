@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1719175126.48392 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week8.tex" "sections/term2week8.pdf" "term2week8" 1719175127.83717 0
+["pdflatex"] 1719271338.14327 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week8.tex" "sections/term2week8.pdf" "term2week8" 1719271340.26946 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -92,13 +92,13 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week8.tex" 1719175126 870 250c9e840bfe85ad621cd8d46e1e31a1 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week8.tex" 1719271337 884 5c049acf176202aec60e54aef75a4d28 ""
   "images/t2w8q4.png" 1719175033 14617 19c8525f0f14f92999687321cf258c27 ""
   "main.tex" 1719174726 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
   "sections/../main.tex" 1719174726 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
-  "sections/term2week8.aux" 1719175127 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "sections/term2week8.out" 1719175127 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sections/term2week8.tex" 1719175126 870 250c9e840bfe85ad621cd8d46e1e31a1 ""
+  "sections/term2week8.aux" 1719271339 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "sections/term2week8.out" 1719271339 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sections/term2week8.tex" 1719271337 884 5c049acf176202aec60e54aef75a4d28 ""
   (generated)
   "sections/term2week8.aux"
   "sections/term2week8.log"

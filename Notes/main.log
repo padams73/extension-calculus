@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  23 JUN 2024 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  26 JUN 2024 17:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -157,6 +157,14 @@ Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
 Package: import 2020/04/01  v 6.2
 )) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip56
+\enit@outerparindent=\dimen168
+\enit@toks=\toks26
+\enit@inbox=\box56
+\enit@count@id=\count284
+\enitdp@description=\count285
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
@@ -167,41 +175,41 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count284
+\etb@tempcnta=\count286
 )) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count285
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box57
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count286
-\scratchdimen=\dimen168
-\scratchbox=\box57
-\nofMPsegments=\count287
-\nofMParguments=\count288
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count289
-\MPscratchDim=\dimen169
-\MPnumerator=\count290
-\makeMPintoPDFobject=\count291
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count288
+\scratchdimen=\dimen169
+\scratchbox=\box58
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen170
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks28
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -242,11 +250,11 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -370,7 +378,133 @@ Package pdftex.def Info: images/trigsub5.png  used on input line 95.
 
 [27])
 
-[28]
+[28] (sections/volumesofrevolution.tex
+<images/volrev1.png, id=123, 407.27156pt x 235.63031pt>
+File: images/volrev1.png Graphic file (type png)
+<use images/volrev1.png>
+Package pdftex.def Info: images/volrev1.png  used on input line 17.
+(pdftex.def)             Requested size: 234.8775pt x 135.88905pt.
+<images/volrev2.png, id=124, 785.93625pt x 179.67125pt>
+File: images/volrev2.png Graphic file (type png)
+<use images/volrev2.png>
+Package pdftex.def Info: images/volrev2.png  used on input line 27.
+(pdftex.def)             Requested size: 352.31625pt x 80.54425pt.
+<images/volrev3.png, id=125, 254.45062pt x 174.6525pt>
+File: images/volrev3.png Graphic file (type png)
+<use images/volrev3.png>
+Package pdftex.def Info: images/volrev3.png  used on input line 36.
+(pdftex.def)             Requested size: 234.8775pt x 161.22324pt.
+
+
+[29 <./images/volrev1.png> <./images/volrev2.png>]
+<images/volrev4.png, id=131, 233.37187pt x 188.20313pt>
+File: images/volrev4.png Graphic file (type png)
+<use images/volrev4.png>
+Package pdftex.def Info: images/volrev4.png  used on input line 50.
+(pdftex.def)             Requested size: 234.8775pt x 189.42601pt.
+<images/volrev5.png, id=132, 86.57344pt x 85.82062pt>
+File: images/volrev5.png Graphic file (type png)
+<use images/volrev5.png>
+Package pdftex.def Info: images/volrev5.png  used on input line 62.
+(pdftex.def)             Requested size: 86.57321pt x 85.82039pt.
+
+
+[30 <./images/volrev3.png> <./images/volrev4.png>]
+<images/volrev6.png, id=138, 103.88812pt x 135.50626pt>
+File: images/volrev6.png Graphic file (type png)
+<use images/volrev6.png>
+Package pdftex.def Info: images/volrev6.png  used on input line 73.
+(pdftex.def)             Requested size: 103.88786pt x 135.5059pt.
+
+
+[31 <./images/volrev5.png> <./images/volrev6.png>]
+<images/volrev7.png, id=145, 122.95938pt x 158.5925pt>
+File: images/volrev7.png Graphic file (type png)
+<use images/volrev7.png>
+Package pdftex.def Info: images/volrev7.png  used on input line 92.
+(pdftex.def)             Requested size: 122.95906pt x 158.59209pt.
+
+
+[32 <./images/volrev7.png>]
+<images/volrev8.png, id=150, 154.32657pt x 113.67468pt>
+File: images/volrev8.png Graphic file (type png)
+<use images/volrev8.png>
+Package pdftex.def Info: images/volrev8.png  used on input line 123.
+(pdftex.def)             Requested size: 154.32617pt x 113.6744pt.
+<images/volrev9.png, id=151, 179.16937pt x 161.10187pt>
+File: images/volrev9.png Graphic file (type png)
+<use images/volrev9.png>
+Package pdftex.def Info: images/volrev9.png  used on input line 131.
+(pdftex.def)             Requested size: 140.92793pt x 126.72334pt.
+<images/volrev11.png, id=152, 316.93407pt x 138.5175pt>
+File: images/volrev11.png Graphic file (type png)
+<use images/volrev11.png>
+Package pdftex.def Info: images/volrev11.png  used on input line 140.
+(pdftex.def)             Requested size: 316.93329pt x 138.51715pt.
+
+
+[33 <./images/volrev8.png> <./images/volrev9.png> <./images/volrev11.png>]
+<images/volrev10.png, id=159, 174.6525pt x 145.29282pt>
+File: images/volrev10.png Graphic file (type png)
+<use images/volrev10.png>
+Package pdftex.def Info: images/volrev10.png  used on input line 149.
+(pdftex.def)             Requested size: 174.65207pt x 145.29245pt.
+<images/volrev12.png, id=160, 224.33812pt x 135.50626pt>
+File: images/volrev12.png Graphic file (type png)
+<use images/volrev12.png>
+Package pdftex.def Info: images/volrev12.png  used on input line 159.
+(pdftex.def)             Requested size: 224.33757pt x 135.5059pt.
+<images/volrev13.png, id=161, 178.704pt x 136.656pt>
+File: images/volrev13.png Graphic file (type png)
+<use images/volrev13.png>
+Package pdftex.def Info: images/volrev13.png  used on input line 170.
+(pdftex.def)             Requested size: 178.70355pt x 136.65567pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/volrev14.png, id=162, 239.39438pt x 167.12437pt>
+File: images/volrev14.png Graphic file (type png)
+<use images/volrev14.png>
+Package pdftex.def Info: images/volrev14.png  used on input line 178.
+(pdftex.def)             Requested size: 140.92793pt x 98.3832pt.
+
+
+[34 <./images/volrev10.png> <./images/volrev12.png>]
+<images/volrev15.png, id=168, 204.01219pt x 149.05687pt>
+File: images/volrev15.png Graphic file (type png)
+<use images/volrev15.png>
+Package pdftex.def Info: images/volrev15.png  used on input line 188.
+(pdftex.def)             Requested size: 204.01169pt x 149.0565pt.
+
+
+[35 <./images/volrev13.png> <./images/volrev14.png> <./images/volrev15.png>]
+<images/volrev16.png, id=175, 185.19188pt x 110.66344pt>
+File: images/volrev16.png Graphic file (type png)
+<use images/volrev16.png>
+Package pdftex.def Info: images/volrev16.png  used on input line 197.
+(pdftex.def)             Requested size: 185.1914pt x 110.66315pt.
+<images/volrev17.png, id=176, 217.7955pt x 89.0235pt>
+File: images/volrev17.png Graphic file (type png)
+<use images/volrev17.png>
+Package pdftex.def Info: images/volrev17.png  used on input line 207.
+(pdftex.def)             Requested size: 217.79497pt x 89.02327pt.
+<images/volrev18.png, id=177, 261.22594pt x 79.79813pt>
+File: images/volrev18.png Graphic file (type png)
+<use images/volrev18.png>
+Package pdftex.def Info: images/volrev18.png  used on input line 214.
+(pdftex.def)             Requested size: 261.22528pt x 79.79791pt.
+
+
+[36 <./images/volrev16.png> <./images/volrev17.png> <./images/volrev18.png>]
+<images/volrev19.png, id=184, 112.92188pt x 101.62968pt>
+File: images/volrev19.png Graphic file (type png)
+<use images/volrev19.png>
+Package pdftex.def Info: images/volrev19.png  used on input line 231.
+(pdftex.def)             Requested size: 112.92159pt x 101.62943pt.
+
+
+[37 <./images/volrev19.png>])
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: letterpaper
@@ -405,47 +539,47 @@ Package pdftex.def Info: images/trigsub5.png  used on input line 95.
 
 
 
-[29
+[38
 
 ] (answers/ans_binomialexpansion.tex
-<images/Picture2.png, id=126, 199.74625pt x 36.63687pt>
+<images/Picture2.png, id=193, 199.74625pt x 36.63687pt>
 File: images/Picture2.png Graphic file (type png)
 <use images/Picture2.png>
 Package pdftex.def Info: images/Picture2.png  used on input line 58.
 (pdftex.def)             Requested size: 234.8775pt x 43.08296pt.
-<images/Picture3.png, id=127, 392.96812pt x 22.58438pt>
+<images/Picture3.png, id=194, 392.96812pt x 22.58438pt>
 File: images/Picture3.png Graphic file (type png)
 <use images/Picture3.png>
 Package pdftex.def Info: images/Picture3.png  used on input line 70.
 (pdftex.def)             Requested size: 234.8775pt x 13.49902pt.
-<images/Picture4.png, id=128, 360.34625pt x 19.57312pt>
+<images/Picture4.png, id=195, 360.34625pt x 19.57312pt>
 File: images/Picture4.png Graphic file (type png)
 <use images/Picture4.png>
 Package pdftex.def Info: images/Picture4.png  used on input line 82.
 (pdftex.def)             Requested size: 360.34537pt x 19.57306pt.
 
 
-[30
+[39
 
  <./images/Picture2.png> <./images/Picture3.png>])
 
-[31 <./images/Picture4.png>] (answers/ans_implicitdifferentiation.tex
+[40 <./images/Picture4.png>] (answers/ans_implicitdifferentiation.tex
 
-[32])
+[41])
 
-[33] (answers/ans_sumofroots.tex
+[42] (answers/ans_sumofroots.tex
 
-[34])
+[43])
 
-[35] (answers/ans_combinations.tex
+[44] (answers/ans_combinations.tex
 
-[36])
+[45])
 
-[37] (answers/ans_quadratics.tex
+[46] (answers/ans_quadratics.tex
 
-[38])
+[47])
 
-[39] (answers/ans_eulersformula.tex
+[48] (answers/ans_eulersformula.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--29
 
  []
@@ -457,65 +591,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--41
 
 
 
-[40])
+[49])
 
-[41] (answers/ans_integrationbyparts.tex
+[50] (answers/ans_integrationbyparts.tex
 
-[42]
+[51]
 
-[43])
+[52])
 
-[44] (answers/ans_dimethod.tex
-<images/di_a1.png, id=181, 184.18813pt x 124.96687pt>
+[53] (answers/ans_dimethod.tex
+<images/di_a1.png, id=247, 184.18813pt x 124.96687pt>
 File: images/di_a1.png Graphic file (type png)
 <use images/di_a1.png>
 Package pdftex.def Info: images/di_a1.png  used on input line 11.
 (pdftex.def)             Requested size: 117.43875pt x 79.67915pt.
 
 
-[45 <./images/di_a1.png>])
+[54 <./images/di_a1.png>])
 
-[46] (answers/ans_trigsubs.tex
-<images/trigsuba1.png, id=189, 68.50594pt x 60.97781pt>
+[55] (answers/ans_trigsubs.tex
+<images/trigsuba1.png, id=256, 68.50594pt x 60.97781pt>
 File: images/trigsuba1.png Graphic file (type png)
 <use images/trigsuba1.png>
 Package pdftex.def Info: images/trigsuba1.png  used on input line 9.
 (pdftex.def)             Requested size: 68.50577pt x 60.97765pt.
-<images/trigsuba2.png, id=190, 82.80937pt x 67.75313pt>
+<images/trigsuba2.png, id=257, 82.80937pt x 67.75313pt>
 File: images/trigsuba2.png Graphic file (type png)
 <use images/trigsuba2.png>
 Package pdftex.def Info: images/trigsuba2.png  used on input line 40.
 (pdftex.def)             Requested size: 82.80916pt x 67.75294pt.
 
 
-[47 <./images/trigsuba1.png> <./images/trigsuba2.png>]
-<images/trigsuba3.png, id=196, 87.32625pt x 76.78688pt>
+[56 <./images/trigsuba1.png> <./images/trigsuba2.png>]
+<images/trigsuba3.png, id=263, 87.32625pt x 76.78688pt>
 File: images/trigsuba3.png Graphic file (type png)
 <use images/trigsuba3.png>
 Package pdftex.def Info: images/trigsuba3.png  used on input line 76.
 (pdftex.def)             Requested size: 87.32603pt x 76.78668pt.
-<images/trigsuba4.png, id=197, 72.27pt x 60.97781pt>
+<images/trigsuba4.png, id=264, 72.27pt x 60.97781pt>
 File: images/trigsuba4.png Graphic file (type png)
 <use images/trigsuba4.png>
 Package pdftex.def Info: images/trigsuba4.png  used on input line 118.
 (pdftex.def)             Requested size: 72.2698pt x 60.97765pt.
 
 
-[48 <./images/trigsuba3.png>]
-<images/trigsuba5.png, id=202, 120.45pt x 67.75313pt>
+[57 <./images/trigsuba3.png>]
+<images/trigsuba5.png, id=269, 120.45pt x 67.75313pt>
 File: images/trigsuba5.png Graphic file (type png)
 <use images/trigsuba5.png>
 Package pdftex.def Info: images/trigsuba5.png  used on input line 150.
 (pdftex.def)             Requested size: 120.44969pt x 67.75294pt.
 
 
-[49 <./images/trigsuba4.png> <./images/trigsuba5.png>]
-<images/trigsuba6.png, id=209, 115.18031pt x 63.98906pt>
+[58 <./images/trigsuba4.png> <./images/trigsuba5.png>]
+<images/trigsuba6.png, id=275, 115.18031pt x 63.98906pt>
 File: images/trigsuba6.png Graphic file (type png)
 <use images/trigsuba6.png>
 Package pdftex.def Info: images/trigsuba6.png  used on input line 180.
 (pdftex.def)             Requested size: 115.18001pt x 63.98889pt.
-<images/trigsuba7.png, id=210, 75.28125pt x 63.23625pt>
+<images/trigsuba7.png, id=276, 75.28125pt x 63.23625pt>
 File: images/trigsuba7.png Graphic file (type png)
 <use images/trigsuba7.png>
 Package pdftex.def Info: images/trigsuba7.png  used on input line 219.
@@ -526,65 +660,79 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[50 <./images/trigsuba6.png>]
-<images/trigsuba8.png, id=215, 63.23625pt x 48.18pt>
+[59 <./images/trigsuba6.png>]
+<images/trigsuba8.png, id=281, 63.23625pt x 48.18pt>
 File: images/trigsuba8.png Graphic file (type png)
 <use images/trigsuba8.png>
 Package pdftex.def Info: images/trigsuba8.png  used on input line 251.
 (pdftex.def)             Requested size: 63.23608pt x 48.17986pt.
 
 
-[51 <./images/trigsuba7.png> <./images/trigsuba8.png>]
-<images/trigsuba9.png, id=221, 91.84312pt x 63.98906pt>
+[60 <./images/trigsuba7.png> <./images/trigsuba8.png>]
+<images/trigsuba9.png, id=287, 91.84312pt x 63.98906pt>
 File: images/trigsuba9.png Graphic file (type png)
 <use images/trigsuba9.png>
 Package pdftex.def Info: images/trigsuba9.png  used on input line 286.
 (pdftex.def)             Requested size: 91.84288pt x 63.98889pt.
-<images/trigsuba10.png, id=222, 136.25906pt x 78.2925pt>
+<images/trigsuba10.png, id=288, 136.25906pt x 78.2925pt>
 File: images/trigsuba10.png Graphic file (type png)
 <use images/trigsuba10.png>
 Package pdftex.def Info: images/trigsuba10.png  used on input line 317.
 (pdftex.def)             Requested size: 136.25871pt x 78.2923pt.
 
 
-[52 <./images/trigsuba9.png> <./images/trigsuba10.png>]
-<images/trigsuba11.png, id=228, 141.52875pt x 83.5622pt>
+[61 <./images/trigsuba9.png> <./images/trigsuba10.png>]
+<images/trigsuba11.png, id=295, 141.52875pt x 83.5622pt>
 File: images/trigsuba11.png Graphic file (type png)
 <use images/trigsuba11.png>
 Package pdftex.def Info: images/trigsuba11.png  used on input line 353.
 (pdftex.def)             Requested size: 141.5284pt x 83.56198pt.
 
 
-[53 <./images/trigsuba11.png>]
+[62 <./images/trigsuba11.png>]
 
-[54]
-<images/trigsuba12.png, id=236, 149.05687pt x 103.88812pt>
+[63]
+<images/trigsuba12.png, id=303, 149.05687pt x 103.88812pt>
 File: images/trigsuba12.png Graphic file (type png)
 <use images/trigsuba12.png>
 Package pdftex.def Info: images/trigsuba12.png  used on input line 412.
 (pdftex.def)             Requested size: 149.0565pt x 103.88786pt.
 
 
-[55 <./images/trigsuba12.png>]) (answers/ans_camelprinciple.tex)
+[64 <./images/trigsuba12.png>]) (answers/ans_camelprinciple.tex)
 
-[56] (main.aux)
+[65] (answers/ans_volumesofrevolution.tex
+
+[66]
+
+[67]
+
+[68]
+<images/volrev20.png, id=321, 144.54pt x 60.225pt>
+File: images/volrev20.png Graphic file (type png)
+<use images/volrev20.png>
+Package pdftex.def Info: images/volrev20.png  used on input line 176.
+(pdftex.def)             Requested size: 144.53963pt x 60.22484pt.
+
+
+[69 <./images/volrev20.png>]) (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4738 strings out of 473919
- 78628 string characters out of 5727897
+ 5245 strings out of 473919
+ 88866 string characters out of 5727897
  1945908 words of memory out of 5000000
- 27441 multiletter control sequences out of 15000+600000
+ 27918 multiletter control sequences out of 15000+600000
  567478 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,15n,65p,1288b,388s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,15n,65p,1288b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (56 pages, 511448 bytes).
+Output written on main.pdf (69 pages, 1000527 bytes).
 PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
+ 390 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
 

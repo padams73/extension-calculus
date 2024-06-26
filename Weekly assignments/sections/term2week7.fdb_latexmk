@@ -1,6 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1719005911.73325 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week7.tex" "sections/term2week7.pdf" "term2week7" 1719005913.67358 0
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718842733 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1719274959.2046 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week7.tex" "term2week7.pdf" "term2week7" 1719274961.34024 0
+  "../main.tex" 1719271365 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
+  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
@@ -63,6 +64,7 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty" 1696169587 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty" 1696169587 72619 ee90b6612147680fd73c3b1406a74245 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/caption/subcaption.sty" 1696169587 12494 0c0cdb824278a4d51cefeb2e79901315 ""
+  "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty" 1561039820 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1601897756 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
@@ -93,15 +95,13 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week7.tex" 1718842400 1129 d52d9d79fa336194a2ff570dac20c3e5 ""
-  "main.tex" 1718948792 2672 8262b321158c41f97ce7a163104bc872 ""
-  "sections/../main.tex" 1718948792 2672 8262b321158c41f97ce7a163104bc872 ""
-  "sections/term2week7.aux" 1719005913 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "sections/term2week7.out" 1719005913 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sections/term2week7.tex" 1718842400 1129 d52d9d79fa336194a2ff570dac20c3e5 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/sections/term2week7.tex" 1719274950 1130 3f735316ca88a7389df5c2bd1a91f9bb ""
+  "term2week7.aux" 1719274960 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "term2week7.out" 1719274960 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "term2week7.tex" 1719274950 1130 3f735316ca88a7389df5c2bd1a91f9bb ""
   (generated)
-  "sections/term2week7.aux"
-  "sections/term2week7.log"
-  "sections/term2week7.out"
-  "sections/term2week7.pdf"
+  "term2week7.aux"
+  "term2week7.log"
+  "term2week7.out"
+  "term2week7.pdf"
   (rewritten before read)
