@@ -1,0 +1,140 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+\subsection*{Answers - Arc length (page \pageref{Arc length})}
+
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    $y=7(6+x)^{\frac{3}{2}}$ along the interval $[3,19]$
+
+    $y'=\frac{21}{2}(6+x)^{\frac{1}{2}}$
+
+    Arc length:
+
+    $L=\int_3^{19} \sqrt{1+\frac{441}{4}(6+x)}\,dx$
+
+    $L=\int_3^{19} \sqrt{\frac{1325}{2}+\frac{441x}{4}}\,dx$
+
+    $L=\Bigl[\frac{2}{3}(\frac{1325}{2}+\frac{441x}{4})^{\frac{3}{2}}\times \frac{4}{441}\Bigr]_3^{19}$
+
+    $L=686.2$
+
+    \item
+    $y=1+6x^{\frac{3}{2}}$ along the interval $[0,1]$
+
+    $y'=9x^{\frac{1}{2}}$
+
+    Arc length:
+
+    $L=\int_0^1 \sqrt{1+81x}\,dx$
+
+    $L=\Bigl[\frac{2}{3}(1+81x)^{\frac{3}{2}}\times \frac{1}{81}\Bigr]_0^1$
+
+    $L=6.1$
+
+    \item 
+    $y=\frac{3}{2}x^{\frac{2}{3}}$ along the interval $[1,8]$
+
+    $y'=x^{-\frac{1}{3}}$
+
+    Arc length:
+
+    $L=\int_1^8 \sqrt{1+x^{-\frac{2}{3}}}\,dx$
+
+    This is a tricky integral so we will do some manipulation first:
+
+    Factor out $x^{-\frac{2}{3}}$: $\sqrt{x^{-\frac{2}{3}}(x^{\frac{2}{3}}+1)}=x^{-\frac{1}{3}}\sqrt{x^{\frac{2}{3}}+1}$
+
+    Giving us: $\int_1^8 x^{-\frac{1}{3}}\sqrt{x^{\frac{2}{3}}+1}\,dx$
+
+    Use a substitution of $u=x^{\frac{2}{3}}+1$:
+
+    $\frac{du}{dx}=\frac{2}{3}x^{-\frac{1}{3}}$
+
+    $du=\frac{2}{3}x^{-\frac{1}{3}}\,dx$
+
+    $\frac{3}{2}\,du=x^{-\frac{1}{3}}\,dx$
+
+    Changing the boundaries:
+
+    $u=8^{\frac{2}{3}}+1=5$
+
+    $u=1^{\frac{2}{3}}+1=2$
+
+    Our integral is therefore:
+
+    $L=\frac{3}{2}\int_2^5 u^{\frac{1}{2}}\,dx$
+
+    $L=\frac{3}{2}\Bigl[\frac{2}{3}u^{\frac{3}{2}}\Bigr]_2^5$
+
+    $L=8.34$
+
+    \item 
+    $x=\frac{1}{3}(y^2+2)^{\frac{3}{2}}$ along the interval $0\leq y \leq 4$
+
+    $x'=y(y^2+2)^{\frac{1}{2}}$
+
+    Arc length:
+
+    $L=\int_0^4 \sqrt{1+y^2(y^2+2)}\,dy$
+
+    $L=\int_0^4 \sqrt{1+y^4+2y^2}\,dy$
+
+    $L=\int_0^4 \sqrt{(y^2+1)^2}\,dy$
+
+    $L=\int_0^4 (y^2+1)\,dy$
+
+    $L=\Bigl[\frac{y^3}{3}+y\Bigr]_0^4$
+
+    $L=\frac{76}{3}=25\frac{1}{3}$
+
+    \item 
+    $x=\frac{1}{3}\sqrt{y}(y-3)$ along the interval $1\leq y \leq 9$
+
+    $x=\frac{1}{3}y^{\frac{3}{2}}-y^{\frac{1}{2}}$
+
+    $x'=\frac{1}{2}y^{\frac{1}{2}}-\frac{1}{2}y^{-\frac{1}{2}}=\frac{\sqrt{y}}{2}-\frac{1}{2\sqrt{y}}$
+
+    $(x')^2=\frac{y}{4}-\frac{1}{2}+\frac{1}{4y}$
+
+    Arc length:
+
+    $L=\int_1^9 \sqrt{1+(\frac{y}{4}-\frac{1}{2}+\frac{1}{4y})}= \int_1^9\sqrt{\frac{y}{4}+\frac{1}{2}+\frac{1}{4y}}\,dy$
+
+    $L=\int_1^9 \sqrt{\Bigl(\frac{\sqrt{y}}{2}+\frac{1}{2\sqrt{y}}\Bigr)^2}\,dy=\int_1^9 \Bigl(\frac{\sqrt{y}}{2}+\frac{1}{2\sqrt{y}}\Bigr)\,dy$
+
+    $L=\Bigl[\frac{1}{3}y^{\frac{3}{2}}+y^{\frac{1}{2}}\Bigr]_1^9$
+
+    $L=\frac{32}{3}=10\frac{2}{3}$
+
+    \item 
+    $y=\ln{(\cos{x})}$ on the closed interval $0 \leq x \leq \frac{\pi}{3}$
+
+    $y'=\frac{1}{\cos{x}}\times -\sin{x}=-\tan{x}$
+
+    Arc length:
+
+    $L=\int_0^{\frac{\pi}{3}} \sqrt{1+\tan^2{x}}\,dx$
+
+    $L=\int_0^{\frac{\pi}{3}} \sec{x}\,dx$
+
+    To integrate $\sec{x}$ we need to multiply by $\frac{\sec{x}+\tan{x}}{\sec{x}+\tan{x}}$, giving us:
+
+    $L=\int_0^{\frac{\pi}{3}} \frac{\sec^2{x}+\sec{x}\tan{x}}{\sec{x}+\tan{x}}\,dx$
+
+    This is in the form $\frac{f'(x)}{f(x)}\,dx$, therefore integrates into $\ln{f(x)}$.
+
+    Therefore, the result is:
+
+    $L= \Bigl[\ln{(\sec{x}+\tan{x})}\Bigr]_0^{\frac{\pi}{3}}$
+
+    $L=[\ln{(2+\sqrt{3})}-\ln{(1+0)}]=\ln{(2+\sqrt{3})}=1.32$
+
+\end{enumerate}
+
+
+
+
+
+\end{document}

@@ -9,3 +9,4 @@
 \contentsline {section}{\numberline {9}Trig substitutions for integration}{23}{}%
 \contentsline {section}{\numberline {10}The Camel Principle}{27}{}%
 \contentsline {section}{\numberline {11}Volumes of revolution}{29}{}%
+\contentsline {section}{\numberline {12}Arc length}{38}{}%
