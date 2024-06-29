@@ -58,7 +58,37 @@
 
     This is in the form \(\frac{f'(x)}{f(x)}\), therefore the integral is \(\ln{|\csc{\theta}-\tan{\theta}|}+c\)
     
-    
+    \item 
+    $\int \frac{1}{1+\tan{x}}\, dx$
+
+    Change the $\tan{x}$ into $\frac{\sin{x}}{\cos{x}}$ and simplify:
+
+    $\int \frac{1}{1+\frac{\sin{x}}{\cos{x}}}\,dx$
+
+    $\int \frac{1}{\frac{\cos{x}+\sin{x}}{\cos{x}}}\,dx$
+
+    $\int \frac{\cos{x}}{\sin{x}+\cos{x}}\,dx$
+
+    Now we can use the Camel Principle. First, we double the fraction:
+
+    $\frac{1}{2}\int \frac{2\cos{x}}{\sin{x}+\cos{x}}\,dx$
+
+    Then we add and subtract $\sin{x}$ from the numerator:
+
+    $\frac{1}{2}\int \frac{2\cos{x}+\sin{x}-\sin{x}}{\sin{x}+\cos{x}}\,dx$
+
+    Separate into two fractions:
+
+    $\frac{1}{2}\int \Bigl(\frac{\cos{x}+\sin{x}}{\sin{x}+\cos{x}}+\frac{\cos{x}-\sin{x}}{\sin{x}+\cos{x}}\Bigr)\,dx$
+
+    Split into two integrals and simplify:
+
+    $\frac{1}{2}\int 1\,dx+\frac{1}{2}\int \frac{\cos{x}-\sin{x}}{\sin{x}+\cos{x}}\,dx$
+
+    The first fraction integrates easily. The second integral is in the form $\int \frac{f'(x)}{f(x)}\, dx$, therefore:
+
+    $\frac{x}{2}+\frac{1}{2}\ln{|\sin{x}+\cos{x}|}+c$
+
 \end{enumerate}
 
 \end{document}
