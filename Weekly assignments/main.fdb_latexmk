@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1719275065.25303 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/main.tex" "main.pdf" "main" 1719275072.01363 0
+["pdflatex"] 1719895006.58668 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/main.tex" "main.pdf" "main" 1719895012.08333 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -120,7 +120,7 @@
   "answers/term2week5.tex" 1718842397 3168 018be4ba5be81261ce9fe8dcadc2924a ""
   "answers/term2week6.tex" 1718842396 4789 b4ba13c9e54e4128dd656634855374cd ""
   "answers/term2week7.tex" 1719275021 4984 859f12e50857fe8e86a78444c7c8f9be ""
-  "answers/term2week8.tex" 1719183695 6904 a97210e9ef214cb7cc89c668144a8616 ""
+  "answers/term2week8.tex" 1719895000 7784 305c502e025317126c2ec757af35b37b ""
   "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/main.tex" 1719275058 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
   "images/menger.png" 1718842400 137066 371a8b06712016b011817251206437f1 ""
   "images/t1w10q1.png" 1718842397 7794 dd67ee0408b73d62e543455270d78155 ""
@@ -183,8 +183,8 @@
   "images/t2w8q4.png" 1719175033 14617 19c8525f0f14f92999687321cf258c27 ""
   "images/t2w8q4a1.png" 1719175169 60524 5937bdcdf29ab6d8111dea674ef3209c ""
   "images/t2w8q4a2.png" 1719175187 7059 1e6ece8299c7ae04388ec6e770efc257 ""
-  "main.aux" 1719275070 163 8ec69b7fed6dd9cc7d1f20db7c1cd558 "pdflatex"
-  "main.out" 1719275066 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1719895011 163 8ec69b7fed6dd9cc7d1f20db7c1cd558 "pdflatex"
+  "main.out" 1719895007 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "main.tex" 1719275058 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
   "sections/../images/t1w1q1.png" 1718842397 4845 3594b33244e79483e5db9796e32b1d5c ""
   "sections/../images/t1w1q2.png" 1718842397 15694 488603b9521218580004c8f5c89bc48d ""

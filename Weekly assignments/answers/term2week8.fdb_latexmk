@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1719183706.37728 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week8.tex" "answers/term2week8.pdf" "term2week8" 1719183708.52331 0
+["pdflatex"] 1719895001.42632 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week8.tex" "answers/term2week8.pdf" "term2week8" 1719895004.03308 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -95,11 +95,11 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "answers/../images/t2w8q1a.png" 1719046508 7938 c004d8c40f2461cf18ebde7b3e0da9a4 ""
-  "answers/../main.tex" 1719174726 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
-  "answers/term2week8.aux" 1719183708 162 f0fda7573680236e99560fa2ea99f7ba "pdflatex"
-  "answers/term2week8.out" 1719183707 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "answers/term2week8.tex" 1719183695 6904 a97210e9ef214cb7cc89c668144a8616 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week8.tex" 1719183695 6904 a97210e9ef214cb7cc89c668144a8616 ""
+  "answers/../main.tex" 1719275058 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
+  "answers/term2week8.aux" 1719895003 162 f0fda7573680236e99560fa2ea99f7ba "pdflatex"
+  "answers/term2week8.out" 1719895002 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "answers/term2week8.tex" 1719895000 7784 305c502e025317126c2ec757af35b37b ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Weekly assignments/answers/term2week8.tex" 1719895000 7784 305c502e025317126c2ec757af35b37b ""
   "images/t2w8q1a.png" 1719046508 7938 c004d8c40f2461cf18ebde7b3e0da9a4 ""
   "images/t2w8q3a1.png" 1719132788 25873 8874996bd85cb71c40e000f63d97788b ""
   "images/t2w8q3a2.png" 1719133038 27041 fc4f96321cbfbedf42d14ecd525583af ""
@@ -108,7 +108,7 @@
   "images/t2w8q3a5.png" 1719133582 22684 99d603335a2384f1353e5fa3d2a05b40 ""
   "images/t2w8q4a1.png" 1719175169 60524 5937bdcdf29ab6d8111dea674ef3209c ""
   "images/t2w8q4a2.png" 1719175187 7059 1e6ece8299c7ae04388ec6e770efc257 ""
-  "main.tex" 1719174726 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
+  "main.tex" 1719275058 2839 2d2bc131bc2bc25ab6d9c659193acc4b ""
   (generated)
   "answers/term2week8.aux"
   "answers/term2week8.log"
