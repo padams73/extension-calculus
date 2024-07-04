@@ -10,4 +10,4 @@
 \contentsline {section}{\numberline {10}Trig substitutions for integration}{25}{}%
 \contentsline {section}{\numberline {11}Volumes of revolution}{29}{}%
 \contentsline {section}{\numberline {12}Arc length}{38}{}%
-\contentsline {section}{\numberline {13}Surface of revolution}{41}{}%
+\contentsline {section}{\numberline {13}Surface of revolution}{42}{}%

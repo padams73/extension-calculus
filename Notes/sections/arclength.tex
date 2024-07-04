@@ -15,23 +15,35 @@ You can see that this must logically be the case by looking at the diagram below
     \includegraphics[width=0.3\linewidth]{images/arclength1.png}
 \end{figure}
 
-To approximate the length of the arc, we can visualise it being made up of many (infinite) line segments.
+To approximate the length of the arc over an interval $[a,b]$, we first divide the interval into $n$ equal sub-intervals, each of width $\Delta x$. We denote each point on the curve $P_i$, and we can approximate the curve by creating straight lines between each point. Below is an example with 11 points.
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.3\linewidth]{images/arclength2.png}
+    \includegraphics[width=0.6\linewidth]{images/arclength5.png}
 \end{figure}
 
-The length of each of these line segments could be found by using Pythagoras' Theorem. If the change in $x$ is constant, we can calculate the length of the $n^{th}$ line segment with:
+If we write each of those line segments as $|P_{i-1} P_{i}|$, the length of the curve will be approximately $L\approx \sum\limits_{i=1}^n |P_{i-1} P_i|$.
+
+We can get the exact length by making $n$ larger and larger, giving:
+
+\[L=\lim\limits_{n \Rightarrow \infty} \sum\limits_{i=1}^n |P_{i-1} P_i|\]
+
+
+The length of each of these line segments could be found by using Pythagoras' Theorem. 
+
+If the change in $x$ is constant ($\Delta x$), and the change in the height of the function is $\Delta y_n$, as below:
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.2\linewidth]{images/arclength3.png}
+\end{figure}
+
+We can calculate the length of the $n^{th}$ line segment with:
 
 \[s_n=\sqrt{(\Delta x)^2+(\Delta y_n)^2}\]
 
-\begin{figure}[h]
-    \centering
-    \includegraphics{images/arclength3.png}
-\end{figure}
 
-This is where the Mean Value Theorem comes in. By this theorem, if there exists a point $x_n$ with a length of $\Delta x$ such that $\Delta y_n=f'(x_n)\times \Delta x$. This comes from the fact that gradient is rise over run, so the gradient at point $x_n$ (which can be expressed as $f'(x_n)$) will be $\frac{\Delta y_n}{\Delta x}$.
+This is where the Mean Value Theorem comes in. By this theorem, there exists a point $x_n$ with a length of $\Delta x$ such that $\Delta y_n=f'(x_n)\times \Delta x$. This comes from the fact that gradient is rise over run, so the gradient at point $x_n$ (which can be expressed as $f'(x_n)$) will be $\frac{\Delta y_n}{\Delta x}$.
 
 \textit{(In other words, the change in y is equal to the gradient multiplied by the change in x)}
 
@@ -43,10 +55,13 @@ Which can be simplified as $s_n=\sqrt{1+(f'(x_n))^2}\Delta x$.
 
 Since the arc length is now just a sum of an infinite number of infinitely small lengths, we can find the length by using a definite integral.
 
-If both $y=f(x)$ and $y'=f'(x)$ are continuous on the interval $[a,b]$ then the arc length can be found by:
+\[L=\lim\limits_{n \Rightarrow \infty} \sum\limits_{i=1}^n \sqrt{1+(f'(x_n))^2} \Delta x\]
+
+By the definition of the definite integral, this just means the length is:
 
 \[L=\int_a^b \sqrt{1+(f'(x))^2}\,dx\]
 
+\pagebreak
 \subsection*{Example}
 Find the length of the arc on the function $f(x)=\frac{1}{3}x^{\frac{3}{2}}$ on the interval $[0,5]$.
 
