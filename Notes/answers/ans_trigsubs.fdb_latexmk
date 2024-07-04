@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1718959310.15677 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_trigsubs.tex" "answers/ans_trigsubs.pdf" "ans_trigsubs" 1718959313.44304 0
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718842733 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1720067938.28489 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_trigsubs.tex" "answers/ans_trigsubs.pdf" "ans_trigsubs" 1720067939.90779 0
+  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -46,6 +46,7 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty" 1718270740 2444 71618ea5f2377e33b04fb97afdd0eac2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1718106413 20144 67a5f8e0f9e445e8ec6834e595cebdc9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1718106413 8449 30d84ec2eac77409e31fe51403c1ed64 ""
+  "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty" 1561039820 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1601897756 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg" 1578053545 1104 7ac475a4e3466b0b43e138e9356bda83 ""
@@ -66,10 +67,10 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "answers/../main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
-  "answers/ans_trigsubs.aux" 1718959312 32 1b174032087fb90900fa6203d3bb0a7e "pdflatex"
-  "answers/ans_trigsubs.tex" 1718959312 16108 245978b836dc0f966586e0d5c4f04ab1 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_trigsubs.tex" 1718959312 16108 245978b836dc0f966586e0d5c4f04ab1 ""
+  "answers/../main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
+  "answers/ans_trigsubs.aux" 1720067939 74 780d0bad2f47a16a3b000799005279ca "pdflatex"
+  "answers/ans_trigsubs.tex" 1720067935 16134 8e4d491ec638637781daa4575627755a ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_trigsubs.tex" 1720067935 16134 8e4d491ec638637781daa4575627755a ""
   "images/trigsuba1.png" 1718948170 1453 bc48f780f49f4a5a43630b587f4c66b7 ""
   "images/trigsuba10.png" 1718948169 1951 af7b6d629ac323ed6d7ce61e7266c5f7 ""
   "images/trigsuba11.png" 1718948169 2473 b6c1077bbb747256fdf2e7839b9e61c9 ""
@@ -82,7 +83,7 @@
   "images/trigsuba7.png" 1718948169 1997 76817d9ee4fbc8aeb3953b09f1c3e0e3 ""
   "images/trigsuba8.png" 1718948169 1687 3e794b4385572f33861b8972becb3055 ""
   "images/trigsuba9.png" 1718948169 1546 f5bb8afaff1a3236bf510bbdaee9446e ""
-  "main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
+  "main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
   (generated)
   "answers/ans_trigsubs.aux"
   "answers/ans_trigsubs.log"

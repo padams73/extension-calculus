@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1719953093.88428 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/volumesofrevolution.tex" "sections/volumesofrevolution.pdf" "volumesofrevolution" 1719953095.0922 0
+["pdflatex"] 1720068064.8529 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/volumesofrevolution.tex" "sections/volumesofrevolution.pdf" "volumesofrevolution" 1720068066.93374 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -66,7 +66,7 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/volumesofrevolution.tex" 1719953094 9000 315e3a5aab8317ee9ac2198862a38f16 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/volumesofrevolution.tex" 1720068063 9080 8399ed417deb123bd80b6aae4669c117 ""
   "images/volrev1.png" 1719271792 57902 ff0060a1f75ae82a732dcc56439f6649 ""
   "images/volrev10.png" 1719294708 12798 803a98cf7f4145a53401b16a083f486c ""
   "images/volrev11.png" 1719294722 11540 fff9d548084137562c2ad760b4fdde2b ""
@@ -88,8 +88,8 @@
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
   "main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
   "sections/../main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
-  "sections/volumesofrevolution.aux" 1719953094 188 9e65776fb624253d0318af962f04319d "pdflatex"
-  "sections/volumesofrevolution.tex" 1719953094 9000 315e3a5aab8317ee9ac2198862a38f16 ""
+  "sections/volumesofrevolution.aux" 1720068066 188 9e65776fb624253d0318af962f04319d "pdflatex"
+  "sections/volumesofrevolution.tex" 1720068063 9080 8399ed417deb123bd80b6aae4669c117 ""
   (generated)
   "sections/volumesofrevolution.aux"
   "sections/volumesofrevolution.log"

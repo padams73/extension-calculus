@@ -1,6 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1719130975.8727 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_eulersformula.tex" "answers/ans_eulersformula.pdf" "ans_eulersformula" 1719130977.20651 0
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719109836 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1720067718.42835 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_eulersformula.tex" "ans_eulersformula.pdf" "ans_eulersformula" 1720067719.72803 0
+  "../main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
+  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -45,6 +46,7 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty" 1718270740 2444 71618ea5f2377e33b04fb97afdd0eac2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1718106413 20144 67a5f8e0f9e445e8ec6834e595cebdc9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1718106413 8449 30d84ec2eac77409e31fe51403c1ed64 ""
+  "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty" 1561039820 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1601897756 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg" 1578053545 1104 7ac475a4e3466b0b43e138e9356bda83 ""
@@ -65,13 +67,11 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "answers/../main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
-  "answers/ans_eulersformula.aux" 1719130976 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "answers/ans_eulersformula.tex" 1719130974 1931 f09f0adeb6a9e11f8dacc309225adb34 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_eulersformula.tex" 1719130974 1931 f09f0adeb6a9e11f8dacc309225adb34 ""
-  "main.tex" 1718956156 1593 840b6f15f4d2b7e2761a3d94762a3a14 ""
+  "ans_eulersformula.aux" 1720067719 71 755c7d39dcb0118a727f306b26846216 "pdflatex"
+  "ans_eulersformula.tex" 1720067714 1953 02e2072e7289e86b97c44dceb43aa70c ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_eulersformula.tex" 1720067714 1953 02e2072e7289e86b97c44dceb43aa70c ""
   (generated)
-  "answers/ans_eulersformula.aux"
-  "answers/ans_eulersformula.log"
-  "answers/ans_eulersformula.pdf"
+  "ans_eulersformula.aux"
+  "ans_eulersformula.log"
+  "ans_eulersformula.pdf"
   (rewritten before read)
