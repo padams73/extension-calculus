@@ -164,6 +164,12 @@ INPUT sections\quadratics.tex
 INPUT .\sections\quadratics.tex
 INPUT .\sections\quadratics.tex
 INPUT sections\quadratics.tex
+INPUT .\sections\endlesssums.tex
+INPUT .\sections\endlesssums.tex
+INPUT sections\endlesssums.tex
+INPUT .\sections\endlesssums.tex
+INPUT .\sections\endlesssums.tex
+INPUT sections\endlesssums.tex
 INPUT .\sections\eulersformula.tex
 INPUT .\sections\eulersformula.tex
 INPUT sections\eulersformula.tex
@@ -495,6 +501,12 @@ INPUT answers\ans_quadratics.tex
 INPUT .\answers\ans_quadratics.tex
 INPUT .\answers\ans_quadratics.tex
 INPUT answers\ans_quadratics.tex
+INPUT .\answers\ans_endlesssums.tex
+INPUT .\answers\ans_endlesssums.tex
+INPUT answers\ans_endlesssums.tex
+INPUT .\answers\ans_endlesssums.tex
+INPUT .\answers\ans_endlesssums.tex
+INPUT answers\ans_endlesssums.tex
 INPUT .\answers\ans_eulersformula.tex
 INPUT .\answers\ans_eulersformula.tex
 INPUT answers\ans_eulersformula.tex

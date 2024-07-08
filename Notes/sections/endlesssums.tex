@@ -1,0 +1,62 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Endless sums}
+When you get expressions that go on forever and you are asked to evaluate them, it often helps to look for something that repeats and set that to your variable. You can then simplify the original expression and (hopefully) solve and evaluate.
+
+For example:
+
+Evaluate $1+\sqrt{1+\sqrt{1+\sqrt{1+\sqrt{1+...}}}}$
+
+In this case, set $y=\sqrt{1+y}$
+
+This can be solved:
+
+$y^2=y+1$
+
+$y^2-y-1=0$
+
+$y=\frac{1\pm \sqrt{5}}{2}$
+
+This means the expression is equal to $1+\frac{1\pm \sqrt{5}}{2}=\frac{3\pm \sqrt{5}}{2}$, and since we know that the expression must be more than 1, is equals $\frac{3+\sqrt{5}}{2}$.
+
+\pagebreak
+
+\subsection*{Questions}
+(Answers - page {\pageref*{Endless sums answers}})
+\label{Endless sums}
+
+\begin{enumerate}[itemsep=2cm]
+    \item Evaluate $2+2\sqrt{2+2\sqrt{2+2\sqrt{2+...}}}$
+    
+    \item Evaluate $\frac{13}{5\sqrt{3}}\sqrt{4+\frac{13}{5\sqrt{3}}\sqrt{4+\frac{13}{5\sqrt{3}}\sqrt{4+\frac{13}{5\sqrt{3}}\sqrt{4+...}}}}$
+    
+    \item
+    Evaluate $x$
+    
+    $x^2-x\sqrt{6+\sqrt{6+\sqrt{6+...}}}-\sqrt{90+\sqrt{90+\sqrt{90+...}}}=0$
+
+    \item 
+    Find the value(s) of $x$
+    
+    $x^2-x\sqrt{20+\sqrt{20+\sqrt{20+...}}}-\sqrt{30+\sqrt{30+\sqrt{30+...}}}=0$
+
+
+    \item 
+    (Requires a different approach, but still an infinite expression)
+
+    Evaluate $1+\frac{1}{\sqrt{2}}+\frac{1}{\sqrt{8}}+\frac{1}{\sqrt{32}}+\frac{1}{\sqrt{128}}+...\infty$
+
+    \item 
+    Evaluate:
+
+    $1+\frac{1}{1+\frac{1}{1+\frac{1}{1+\frac{1}{1+...}}}}$
+\end{enumerate}
+
+
+
+
+
+\end{document}

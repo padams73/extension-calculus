@@ -3,11 +3,12 @@
 \contentsline {section}{\numberline {3}Sum of roots of polynomials}{8}{}%
 \contentsline {section}{\numberline {4}Combinations and permutations}{10}{}%
 \contentsline {section}{\numberline {5}Turning equations into quadratics}{12}{}%
-\contentsline {section}{\numberline {6}Euler's Formula}{14}{}%
-\contentsline {section}{\numberline {7}Integration by parts}{16}{}%
-\contentsline {section}{\numberline {8}Integration by parts - DI Method}{19}{}%
-\contentsline {section}{\numberline {9}The Camel Principle}{23}{}%
-\contentsline {section}{\numberline {10}Trig substitutions for integration}{25}{}%
-\contentsline {section}{\numberline {11}Volumes of revolution}{29}{}%
-\contentsline {section}{\numberline {12}Arc length}{38}{}%
-\contentsline {section}{\numberline {13}Surface of revolution}{42}{}%
+\contentsline {section}{\numberline {6}Endless sums}{14}{}%
+\contentsline {section}{\numberline {7}Euler's Formula}{16}{}%
+\contentsline {section}{\numberline {8}Integration by parts}{18}{}%
+\contentsline {section}{\numberline {9}Integration by parts - DI Method}{21}{}%
+\contentsline {section}{\numberline {10}The Camel Principle}{25}{}%
+\contentsline {section}{\numberline {11}Trig substitutions for integration}{27}{}%
+\contentsline {section}{\numberline {12}Volumes of revolution}{31}{}%
+\contentsline {section}{\numberline {13}Arc length}{40}{}%
+\contentsline {section}{\numberline {14}Surface of revolution}{44}{}%
