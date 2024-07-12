@@ -12,3 +12,4 @@
 \contentsline {section}{\numberline {12}Volumes of revolution}{31}{}%
 \contentsline {section}{\numberline {13}Arc length}{40}{}%
 \contentsline {section}{\numberline {14}Surface of revolution}{44}{}%
+\contentsline {section}{\numberline {15}Mixing problems}{48}{}%

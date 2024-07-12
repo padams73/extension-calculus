@@ -1,0 +1,97 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Mixing problems}
+These are a specific type of differential equation problem.
+
+In these problems we will start with a substance that is dissolved in a liquid. Liquid will be entering and leaving a holding tank. The liquid entering the tank may or may not contain more of the substance dissolved in it. Liquid leaving the tank will of course contain the substance dissolved in it. 
+
+If a function $q(t)$ gives the amount of the substance dissolved in the liquid in the tank at any time t we want to develop a differential equation that, when solved, will give us an expression for $q(t)$.
+
+Note as well that in many situations we can think of air as a liquid for the purposes of these kinds of discussions and so we don't actually need to have an actual liquid but could instead use air as the "liquid".
+
+The main assumption that we'll be using here is that the concentration of the substance in the liquid is uniform throughout the tank.
+
+The approach that we use to model this situation is:
+
+Rate of change $q(t)=$ rate at which $q(t)$ enters the tank minus the rate at which $q(t)$ exits the tank.
+
+Or, in other words: $\frac{dq}{dt}=$ flow in - flow out.
+
+We can use these facts:
+
+Rate at which $q(t)$ enters the tank = (flow rate of liquid entering) $\times$ (concentration entering)
+
+Rate at which $q(t)$ exits the tank = (flow rate of liquid leaving) $\times$ (concentration in tank)
+
+\subsection*{Example}
+A 1500L tank is initially full of water and has 50kg of salt dissolved in it. Water enters the tank at 10L/min and the water entering the tank has a concentration of 0.05 kg/L. 
+
+If a well-mixed solution leaves the tank at a rate of 10L/min, how much salt is in the tank after 30 minutes?
+
+In this case, the amount of salt entering the tank is 0.5 kg/min.
+
+This means that the rate of change of salt in the tank is:
+
+$\frac{dS}{dt}=10 \times 0.05 - 10 \times \frac{S}{1500}$
+
+$\frac{dS}{dt}=0.5 - \frac{S}{150}$
+
+Simplifying, we get:
+
+$\frac{dS}{dt}=\frac{75-S}{150}$
+
+We separate the variables and integrate:
+
+$\frac{1}{75-S}\,dS=\frac{1}{150}\,dt$
+
+$\int \frac{1}{75-S}\,dS=\int \frac{1}{150}\,dt$
+
+$-\ln|75-S|=\frac{t}{150}+c$
+
+Now we rearrange and use our initial value to find the constant:
+
+$\ln|75-S|=-\frac{t}{150}+c$
+
+$75-S=Ae^{-\frac{t}{150}}$
+
+$S=75-Ae^{-\frac{t}{150}}$
+
+$S(0)=50$
+
+$50=75-Ae^{0}$
+
+$A=25$
+
+So, our model is:
+
+$S=75-25e^{-\frac{t}{150}}$
+
+The amount of salt after 30 minutes is:
+
+$S(30)=75-25e^{-\frac{30}{150}}=54.5$kg
+
+\pagebreak
+
+\subsection*{Questions}
+(Answers - {\pageref{Mixing problems answers}})
+\label{Mixing problems}
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    A tank contains 20kg of salt dissolved in 5000L of water. Brine that contains 0.03kg of salt per litre of water enters the tank at 25L/min. The solution is kept thoroughly mixed and drains from the tank at the same rate of 25L/min. 
+    
+    How much salt remains in the tank after half an hour?
+
+    \item
+    A tank contains 60L of a solution composed of 85$\%$ water and 15$\%$ alcohol. A second solution containing half water and half alcohol is added to the tank at the rate of 4L/min. At the same time, the tank is being drained at the same rate.
+    Assuming that the solution is stirred constantly, how much alcohol will be in the tank after 10 minutes?
+
+\end{enumerate}
+
+
+
+
+
+\end{document}

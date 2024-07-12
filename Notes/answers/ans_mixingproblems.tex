@@ -1,0 +1,84 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+\subsection*{Answers - Mixing problems (page \pageref{Mixing problems})}
+\label{Mixing problems answers}
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    $\frac{dS}{dt}=25 \times 0.03 - 25 \times \frac{S}{5000}$
+
+    $\frac{dS}{dt}=0.75 - \frac{S}{200}$
+
+    $\frac{dS}{dt}=\frac{150-S}{200}$
+
+    Separating variables and integrating:
+
+    $\frac{1}{150-S}\,dS=\frac{1}{200}\,dt$
+
+    $\int \frac{1}{150-S}\,dS=\int \frac{1}{200}\,dt$
+
+    $-\ln|150-S|=\frac{t}{200}+c$
+
+    $\ln|150-S|=-\frac{t}{200}+c$
+
+    $150-S=Ae^{-\frac{t}{200}}$
+
+    $S=150-Ae^{-\frac{t}{200}}$
+
+    Substituting in the initial value of 20kg to find A:
+
+    $20=150-Ae^{0}$
+
+    $A=130$
+
+    So, the model is:
+
+    $S=150-130e^{-\frac{t}{200}}$
+
+    After half an hour, $t=30$:
+
+    $S=150-130e^{-\frac{30}{200}}=38.1$kg.
+
+    \item
+    $\frac{dA}{dt}=4 \times 0.5 - 4\times \frac{A}{60}$
+
+    $\frac{dA}{dt}=2-\frac{A}{15}$
+
+    $\frac{dA}{dt}=\frac{30-A}{15}$
+
+    Separating variables and integrating:
+
+    $\frac{1}{30-A}\,dA=\frac{1}{15}\,dt$
+
+    $\int \frac{1}{30-A}\,dA=\int \frac{1}{15}\,dt$
+
+    $-\ln|30-A|=\frac{t}{15}+c$
+
+    $\ln|30-A|=-\frac{t}{15}+c$
+
+    $30-A=Ce^{-\frac{t}{15}}$
+
+    $A=30-Ce^{-\frac{t}{15}}$
+
+    Substituting in the initial value of $(0.15 \times 60=9L)$ of alcohol to get $C$:
+
+    $9=30-Ce^{0}$
+
+    $C=21$
+
+    So, the model is:
+
+    $A=30-21e^{-\frac{t}{15}}$
+
+    After 10 minutes:
+
+    $A=30-21e^{-\frac{10}{15}}=19.2L$
+
+\end{enumerate}
+
+
+
+
+
+\end{document}

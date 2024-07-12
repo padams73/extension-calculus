@@ -449,6 +449,12 @@ INPUT .\images\surfacerev2.png
 INPUT .\images\surfacerev2.png
 INPUT .\images\surfacerev2.png
 INPUT .\images\surfacerev2.png
+INPUT .\sections\mixingproblems.tex
+INPUT .\sections\mixingproblems.tex
+INPUT sections\mixingproblems.tex
+INPUT .\sections\mixingproblems.tex
+INPUT .\sections\mixingproblems.tex
+INPUT sections\mixingproblems.tex
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT .\answers\ans_binomialexpansion.tex
 INPUT .\answers\ans_binomialexpansion.tex
@@ -653,6 +659,12 @@ INPUT answers\ans_surfaceofrevolution.tex
 INPUT .\answers\ans_surfaceofrevolution.tex
 INPUT .\answers\ans_surfaceofrevolution.tex
 INPUT answers\ans_surfaceofrevolution.tex
+INPUT .\answers\ans_mixingproblems.tex
+INPUT .\answers\ans_mixingproblems.tex
+INPUT answers\ans_mixingproblems.tex
+INPUT .\answers\ans_mixingproblems.tex
+INPUT .\answers\ans_mixingproblems.tex
+INPUT answers\ans_mixingproblems.tex
 INPUT main.aux
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
