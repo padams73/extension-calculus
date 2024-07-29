@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722220056.18629 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1722220058.6971 0
+["pdflatex"] 1722241944.95433 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1722241950.90106 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -85,7 +85,7 @@
   "answers/ans_implicitdifferentiation.tex" 1720067463 2411 1777335f8133c942f7eb503e6e4cf79c ""
   "answers/ans_integrationbyparts.tex" 1720067769 3641 4a42531091f83daffd8aaa8ee902e39d ""
   "answers/ans_mixingproblems.tex" 1720820798 1652 0c1640844ce5e356357b492c3f2e56d6 ""
-  "answers/ans_partialfractions.tex" 1722216432 944 f3aedb050016c1fd07c2591af93e3cec ""
+  "answers/ans_partialfractions.tex" 1722241936 3733 fb689007b3ba1aeff63f649a94657524 ""
   "answers/ans_quadratics.tex" 1720067656 2522 00fa261347665ddb9a404d097ad7a487 ""
   "answers/ans_sumofroots.tex" 1720067518 2450 30dffce136b815b632125df94ec4bcff ""
   "answers/ans_surfaceofrevolution.tex" 1719885415 3411 c2406fe30874e58b09b8ed80de7771da ""
@@ -145,9 +145,9 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1722220058 3705 7e10e62e8e59b67a462b4d50b7893ccc "pdflatex"
+  "main.aux" 1722241950 3706 c1fa23633e17347a33f3f85074133ccf "pdflatex"
   "main.tex" 1722209425 2384 641f41e58996b6cf90a90870eea2dc49 ""
-  "main.toc" 1722220058 1256 94525f6566b2158bd463ba0f3130c816 "pdflatex"
+  "main.toc" 1722241950 1256 94525f6566b2158bd463ba0f3130c816 "pdflatex"
   "sections/arclength.tex" 1721684208 4778 f7b263e0c1be2cfab48e734c06d299ec ""
   "sections/binomialexpansion.tex" 1720067357 2139 46b389f5136d9e1e8bbd0c61a082175f ""
   "sections/camelprinciple.tex" 1720067900 1841 0fc21a05dede669265efa69b2b823b68 ""

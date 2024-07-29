@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  29 JUL 2024 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  29 JUL 2024 20:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -647,33 +647,37 @@ Package pdftex.def Info: images/Picture4.png  used on input line 82.
 
  <./images/Picture2.png> <./images/Picture3.png>])
 
-[63 <./images/Picture4.png>] (answers/ans_partialfractions.tex)
+[63 <./images/Picture4.png>] (answers/ans_partialfractions.tex
 
-[64] (answers/ans_implicitdifferentiation.tex
+[64]
 
 [65])
 
-[66] (answers/ans_sumofroots.tex
+[66] (answers/ans_implicitdifferentiation.tex
 
 [67])
 
-[68] (answers/ans_combinations.tex
+[68] (answers/ans_sumofroots.tex
 
 [69])
 
-[70] (answers/ans_quadratics.tex
+[70] (answers/ans_combinations.tex
 
 [71])
 
-[72] (answers/ans_endlesssums.tex
+[72] (answers/ans_quadratics.tex
 
 [73])
 
-[74] (answers/ans_telescopingsums.tex
+[74] (answers/ans_endlesssums.tex
 
 [75])
 
-[76] (answers/ans_eulersformula.tex
+[76] (answers/ans_telescopingsums.tex
+
+[77])
+
+[78] (answers/ans_eulersformula.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--29
 
  []
@@ -685,69 +689,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--41
 
 
 
-[77])
+[79])
 
-[78] (answers/ans_integrationbyparts.tex
+[80] (answers/ans_integrationbyparts.tex
 
-[79]
+[81]
 
-[80])
+[82])
 
-[81] (answers/ans_dimethod.tex
-<images/di_a1.png, id=349, 184.18813pt x 124.96687pt>
+[83] (answers/ans_dimethod.tex
+<images/di_a1.png, id=355, 184.18813pt x 124.96687pt>
 File: images/di_a1.png Graphic file (type png)
 <use images/di_a1.png>
 Package pdftex.def Info: images/di_a1.png  used on input line 11.
 (pdftex.def)             Requested size: 117.43875pt x 79.67915pt.
 
 
-[82 <./images/di_a1.png>])
+[84 <./images/di_a1.png>])
 
-[83] (answers/ans_camelprinciple.tex
+[85] (answers/ans_camelprinciple.tex
 
-[84])
+[86])
 
-[85] (answers/ans_trigsubs.tex
-<images/trigsuba1.png, id=364, 68.50594pt x 60.97781pt>
+[87] (answers/ans_trigsubs.tex
+<images/trigsuba1.png, id=370, 68.50594pt x 60.97781pt>
 File: images/trigsuba1.png Graphic file (type png)
 <use images/trigsuba1.png>
 Package pdftex.def Info: images/trigsuba1.png  used on input line 10.
 (pdftex.def)             Requested size: 68.50577pt x 60.97765pt.
-<images/trigsuba2.png, id=365, 82.80937pt x 67.75313pt>
+<images/trigsuba2.png, id=371, 82.80937pt x 67.75313pt>
 File: images/trigsuba2.png Graphic file (type png)
 <use images/trigsuba2.png>
 Package pdftex.def Info: images/trigsuba2.png  used on input line 41.
 (pdftex.def)             Requested size: 82.80916pt x 67.75294pt.
 
 
-[86 <./images/trigsuba1.png> <./images/trigsuba2.png>]
-<images/trigsuba3.png, id=371, 87.32625pt x 76.78688pt>
+[88 <./images/trigsuba1.png> <./images/trigsuba2.png>]
+<images/trigsuba3.png, id=377, 87.32625pt x 76.78688pt>
 File: images/trigsuba3.png Graphic file (type png)
 <use images/trigsuba3.png>
 Package pdftex.def Info: images/trigsuba3.png  used on input line 77.
 (pdftex.def)             Requested size: 87.32603pt x 76.78668pt.
-<images/trigsuba4.png, id=372, 72.27pt x 60.97781pt>
+<images/trigsuba4.png, id=378, 72.27pt x 60.97781pt>
 File: images/trigsuba4.png Graphic file (type png)
 <use images/trigsuba4.png>
 Package pdftex.def Info: images/trigsuba4.png  used on input line 119.
 (pdftex.def)             Requested size: 72.2698pt x 60.97765pt.
 
 
-[87 <./images/trigsuba3.png>]
-<images/trigsuba5.png, id=377, 120.45pt x 67.75313pt>
+[89 <./images/trigsuba3.png>]
+<images/trigsuba5.png, id=383, 120.45pt x 67.75313pt>
 File: images/trigsuba5.png Graphic file (type png)
 <use images/trigsuba5.png>
 Package pdftex.def Info: images/trigsuba5.png  used on input line 151.
 (pdftex.def)             Requested size: 120.44969pt x 67.75294pt.
 
 
-[88 <./images/trigsuba4.png> <./images/trigsuba5.png>]
-<images/trigsuba6.png, id=383, 115.18031pt x 63.98906pt>
+[90 <./images/trigsuba4.png> <./images/trigsuba5.png>]
+<images/trigsuba6.png, id=389, 115.18031pt x 63.98906pt>
 File: images/trigsuba6.png Graphic file (type png)
 <use images/trigsuba6.png>
 Package pdftex.def Info: images/trigsuba6.png  used on input line 181.
 (pdftex.def)             Requested size: 115.18001pt x 63.98889pt.
-<images/trigsuba7.png, id=384, 75.28125pt x 63.23625pt>
+<images/trigsuba7.png, id=390, 75.28125pt x 63.23625pt>
 File: images/trigsuba7.png Graphic file (type png)
 <use images/trigsuba7.png>
 Package pdftex.def Info: images/trigsuba7.png  used on input line 220.
@@ -758,94 +762,94 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[89 <./images/trigsuba6.png>]
-<images/trigsuba8.png, id=389, 63.23625pt x 48.18pt>
+[91 <./images/trigsuba6.png>]
+<images/trigsuba8.png, id=396, 63.23625pt x 48.18pt>
 File: images/trigsuba8.png Graphic file (type png)
 <use images/trigsuba8.png>
 Package pdftex.def Info: images/trigsuba8.png  used on input line 252.
 (pdftex.def)             Requested size: 63.23608pt x 48.17986pt.
 
 
-[90 <./images/trigsuba7.png> <./images/trigsuba8.png>]
-<images/trigsuba9.png, id=395, 91.84312pt x 63.98906pt>
+[92 <./images/trigsuba7.png> <./images/trigsuba8.png>]
+<images/trigsuba9.png, id=402, 91.84312pt x 63.98906pt>
 File: images/trigsuba9.png Graphic file (type png)
 <use images/trigsuba9.png>
 Package pdftex.def Info: images/trigsuba9.png  used on input line 287.
 (pdftex.def)             Requested size: 91.84288pt x 63.98889pt.
-<images/trigsuba10.png, id=396, 136.25906pt x 78.2925pt>
+<images/trigsuba10.png, id=403, 136.25906pt x 78.2925pt>
 File: images/trigsuba10.png Graphic file (type png)
 <use images/trigsuba10.png>
 Package pdftex.def Info: images/trigsuba10.png  used on input line 318.
 (pdftex.def)             Requested size: 136.25871pt x 78.2923pt.
 
 
-[91 <./images/trigsuba9.png> <./images/trigsuba10.png>]
-<images/trigsuba11.png, id=403, 141.52875pt x 83.5622pt>
+[93 <./images/trigsuba9.png> <./images/trigsuba10.png>]
+<images/trigsuba11.png, id=409, 141.52875pt x 83.5622pt>
 File: images/trigsuba11.png Graphic file (type png)
 <use images/trigsuba11.png>
 Package pdftex.def Info: images/trigsuba11.png  used on input line 354.
 (pdftex.def)             Requested size: 141.5284pt x 83.56198pt.
 
 
-[92 <./images/trigsuba11.png>]
+[94 <./images/trigsuba11.png>]
 
-[93]
-<images/trigsuba12.png, id=411, 149.05687pt x 103.88812pt>
+[95]
+<images/trigsuba12.png, id=417, 149.05687pt x 103.88812pt>
 File: images/trigsuba12.png Graphic file (type png)
 <use images/trigsuba12.png>
 Package pdftex.def Info: images/trigsuba12.png  used on input line 413.
 (pdftex.def)             Requested size: 149.0565pt x 103.88786pt.
 
 
-[94 <./images/trigsuba12.png>]) (answers/ans_volumesofrevolution.tex
-
-[95]
-
-[96]
+[96 <./images/trigsuba12.png>]) (answers/ans_volumesofrevolution.tex
 
 [97]
-<images/volrev20.png, id=426, 144.54pt x 60.225pt>
+
+[98]
+
+[99]
+<images/volrev20.png, id=432, 144.54pt x 60.225pt>
 File: images/volrev20.png Graphic file (type png)
 <use images/volrev20.png>
 Package pdftex.def Info: images/volrev20.png  used on input line 176.
 (pdftex.def)             Requested size: 144.53963pt x 60.22484pt.
 
 
-[98 <./images/volrev20.png>]) (answers/ans_arclength.tex
+[100 <./images/volrev20.png>]) (answers/ans_arclength.tex
 
-[99]
+[101]
 
-[100])
+[102])
 
-[101] (answers/ans_surfaceofrevolution.tex
+[103] (answers/ans_surfaceofrevolution.tex
 
-[102]
-
-[103]
-
-[104]) (answers/ans_differentialequations.tex
+[104]
 
 [105]
 
-[106]
+[106]) (answers/ans_differentialequations.tex
 
 [107]
 
 [108]
-<images/diffeqns.png, id=462, 81.30376pt x 70.01157pt>
+
+[109]
+
+[110]
+<images/diffeqns.png, id=469, 81.30376pt x 70.01157pt>
 File: images/diffeqns.png Graphic file (type png)
 <use images/diffeqns.png>
 Package pdftex.def Info: images/diffeqns.png  used on input line 264.
 (pdftex.def)             Requested size: 81.30354pt x 70.01138pt.
 
 
-[109 <./images/diffeqns.png>])
+[111 <./images/diffeqns.png>])
 
-[110] (answers/ans_mixingproblems.tex
+[112] (answers/ans_mixingproblems.tex
 
-[111])
+[113])
 
-[112] (main.aux)
+[114] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -860,9 +864,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,15n,65p,1288b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (112 pages, 1219006 bytes).
+Output written on main.pdf (114 pages, 1223874 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
+ 553 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  261 words of extra memory for PDF output out of 10000 (max. 10000000)
 
