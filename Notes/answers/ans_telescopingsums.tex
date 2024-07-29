@@ -1,0 +1,103 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+\subsection*{Answers - Telescoping Sums (page \pageref{telescoping sums})}
+\label{Telescoping sums answers}
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    $S=\Bigl(\frac{1}{2}-\frac{1}{3}\Bigr)+\Bigl(\frac{1}{3}-\frac{1}{4}\Bigr)+\Bigl(\frac{1}{4}-\frac{1}{5}\Bigr)+\dots +\Bigl(\frac{1}{\infty +1}-\frac{1}{\infty +2}\Bigr)$
+
+    $S=\frac{1}{2}$ (All terms except the first one cancel out)
+
+    \item 
+    Rationalising each term:
+
+    $\frac{1}{1+\sqrt{2}}\times \frac{1-\sqrt{2}}{1-\sqrt{2}}+\frac{1}{\sqrt{2}+\sqrt{3}}\times \frac{\sqrt{2}-\sqrt{3}}{\sqrt{2}-\sqrt{3}}+\frac{1}{\sqrt{3}+\sqrt{4}}\times \frac{\sqrt{3}-\sqrt{4}}{\sqrt{3}-\sqrt{4}}+\dots +\frac{1}{\sqrt{99}+\sqrt{100}}\times \frac{\sqrt{99}-\sqrt{100}}{\sqrt{99}-\sqrt{100}}$
+
+    $=\frac{1-\sqrt{2}}{1-2}+\frac{\sqrt{2}-\sqrt{3}}{2-3}+\frac{\sqrt{3}-\sqrt{4}}{3-4}+\dots +\frac{\sqrt{99}-\sqrt{100}}{99-100}$
+
+    $=(\sqrt{2}-1)+(\sqrt{3}-\sqrt{2})+(\sqrt{4}-\sqrt{3})+\dots +(\sqrt{100}-\sqrt{99})$
+
+    $=-1 + \sqrt{10}=-1+10=9$
+
+    \item 
+    Rationalising each term:
+
+    $\frac{1}{3+\sqrt{11}}\times \frac{3-\sqrt{11}}{3-\sqrt{11}}+\frac{1}{\sqrt{11}+\sqrt{13}}\times \frac{\sqrt{11}-\sqrt{13}}{\sqrt{11}-\sqrt{13}}+\frac{1}{\sqrt{13}+\sqrt{15}}\times \frac{\sqrt{13}-\sqrt{15}}{\sqrt{13}-\sqrt{15}}+\dots +\frac{1}{\sqrt{10001}+\sqrt{10003}}\times \frac{\sqrt{10001}-\sqrt{10003}}{\sqrt{10001}-\sqrt{10003}}$
+
+    $=\frac{3-\sqrt{11}}{9-11}+\frac{\sqrt{11}-\sqrt{13}}{11-13}+\frac{\sqrt{13}-\sqrt{15}}{13-15}+\dots +\frac{\sqrt{10001}-\sqrt{10003}}{10001-10003}$
+
+    $=-\frac{3}{2}+\frac{\sqrt{11}}{2}-\frac{\sqrt{11}}{2}+\frac{\sqrt{13}}{2}-\frac{\sqrt{13}}{2}+\frac{\sqrt{15}}{2}-\dots -\frac{\sqrt{10001}}{2}+\frac{\sqrt{10003}}{2}$
+
+    $=-\frac{3}{2}+\frac{\sqrt{10003}}{2}$
+
+    $=\frac{\sqrt{10003}-3}{2}$
+
+    \item
+    Re-write using partial fractions:
+
+    $\sum\limits_{n=1}^\infty \frac{1}{n(n+1)}=\sum\limits_{n=1}^\infty \frac{1}{n}-\frac{1}{n+1}$
+
+    $=\Bigl(\frac{1}{1}-\frac{1}{2}\Bigr)+\Bigl(\frac{1}{2}-\frac{1}{3}\Bigr)+\Bigl(\frac{1}{3}-\frac{1}{4}\Bigr)+\dots = 1$
+
+    \item 
+    Re-write using partial fractions:
+
+    $\sum\limits_{n=1}^\infty \frac{1}{2(n+1)}-\frac{1}{2(n+3)}$
+
+    $=\Bigl(\frac{1}{4}-\frac{1}{8}\Bigr)+\Bigl(\frac{1}{6}-\frac{1}{10}\Bigr)+\Bigl(\frac{1}{8}-\frac{1}{12}\Bigr)+\Bigl(\frac{1}{10}-\frac{1}{14}\Bigr)\Bigl(\frac{1}{12}-\frac{1}{16}\Bigr)+\dots$
+
+    $=\frac{1}{4}+\frac{1}{6}=\frac{5}{12}$
+
+    \item 
+    Re-write using partial fractions:
+
+    $\sum\limits_{n=1}^{2015} \frac{1}{n^2 +3n+2}=\sum\limits_{n=1}^{2015} \frac{1}{n+1}-\frac{1}{n+2}$
+
+    $=\Bigl(\frac{1}{2}-\frac{1}{3}\Bigr)+\Bigl(\frac{1}{3}-\frac{1}{4}\Bigr)+\Bigl(\frac{1}{4}-\frac{1}{5}\Bigr)+\dots +\Bigl(\frac{1}{2016}-\frac{1}{2017}\Bigr)$
+
+    $=\frac{1}{2}-\frac{1}{2017}=\frac{2015}{4034}$
+
+    \item 
+    Use difference of two squares:
+
+    $\frac{1}{(2-1)(2+1)}+\frac{1}{(4-1)(4+1)}+\frac{1}{(6-1)(6+1)}+\frac{1}{(8-1)(8+1)}+\dots +\frac{1}{(1000-1)(1000+1)}$
+
+    $=\frac{1}{1\times 3}+\frac{1}{3\times 5}+\frac{1}{5\times 7}+\frac{1}{7\times 9}+\dots +\frac{1}{999\times 1001}$
+
+    We could write this as a general sum:
+
+    $\sum\limits_{n=1}^{500} \frac{1}{(2n-1)(2n+1)}$
+
+    Using partial fractions, we get:
+
+    $\sum\limits_{n=1}^{500} \frac{1}{4n-2}-\frac{1}{4n+2}=$
+
+    $=\Bigl(\frac{1}{2}-\frac{1}{6}\Bigr)+\Bigl(\frac{1}{6}-\frac{1}{10}\Bigr)+\Bigl(\frac{1}{10}-\frac{1}{14}\Bigr)+\dots +\Bigl(\frac{1}{1998}-\frac{1}{2002}\Bigr)$
+
+    $=\frac{1}{2}-\frac{1}{2002}=\frac{500}{1001}$
+
+    \item 
+    Re-write denominators as products:
+
+    $\frac{3}{1\times 4}+\frac{3}{4\times 7}+\frac{3}{7\times 10}+\dots +\frac{3}{979\times 100}$
+
+    This can be seen as a sum:
+    $\sum\limits_{n=1}^{33} \frac{3}{(3n-2)(3n+1)}$
+
+    Using partial fractions:
+
+    $\sum\limits_{n=1}^{33} \frac{1}{3n-2}-\frac{1}{3n+1}$
+
+    $=\Bigl(\frac{1}{1}-\frac{1}{4}\Bigr)+\Bigl(\frac{1}{4}-\frac{1}{7}\Bigr)+\Bigl(\frac{1}{7}-\frac{1}{10}\Bigr)+\dots +\Bigl(\frac{1}{97}-\frac{1}{100}\Bigr)$
+
+    $=1-\frac{1}{100}=\frac{99}{100}$
+
+
+\end{enumerate}
+
+
+
+
+\end{document}

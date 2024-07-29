@@ -1,16 +1,18 @@
 \contentsline {section}{\numberline {1}Binomial expansion}{3}{}%
-\contentsline {section}{\numberline {2}Implicit differentiation}{5}{}%
-\contentsline {section}{\numberline {3}Sum of roots of polynomials}{8}{}%
-\contentsline {section}{\numberline {4}Combinations and permutations}{10}{}%
-\contentsline {section}{\numberline {5}Turning equations into quadratics}{12}{}%
-\contentsline {section}{\numberline {6}Endless sums}{14}{}%
-\contentsline {section}{\numberline {7}Euler's Formula}{16}{}%
-\contentsline {section}{\numberline {8}Integration by parts}{18}{}%
-\contentsline {section}{\numberline {9}Integration by parts - DI Method}{21}{}%
-\contentsline {section}{\numberline {10}The Camel Principle}{25}{}%
-\contentsline {section}{\numberline {11}Trig substitutions for integration}{27}{}%
-\contentsline {section}{\numberline {12}Volumes of revolution}{31}{}%
-\contentsline {section}{\numberline {13}Arc length}{40}{}%
-\contentsline {section}{\numberline {14}Surface of revolution}{44}{}%
-\contentsline {section}{\numberline {15}Differential equations}{48}{}%
-\contentsline {section}{\numberline {16}Mixing problems}{50}{}%
+\contentsline {section}{\numberline {2}Partial fractions}{5}{}%
+\contentsline {section}{\numberline {3}Implicit differentiation}{10}{}%
+\contentsline {section}{\numberline {4}Sum of roots of polynomials}{13}{}%
+\contentsline {section}{\numberline {5}Combinations and permutations}{15}{}%
+\contentsline {section}{\numberline {6}Turning equations into quadratics}{17}{}%
+\contentsline {section}{\numberline {7}Endless sums}{19}{}%
+\contentsline {section}{\numberline {8}Telescoping Sums}{21}{}%
+\contentsline {section}{\numberline {9}Euler's Formula}{24}{}%
+\contentsline {section}{\numberline {10}Integration by parts}{26}{}%
+\contentsline {section}{\numberline {11}Integration by parts - DI Method}{29}{}%
+\contentsline {section}{\numberline {12}The Camel Principle}{33}{}%
+\contentsline {section}{\numberline {13}Trig substitutions for integration}{35}{}%
+\contentsline {section}{\numberline {14}Volumes of revolution}{39}{}%
+\contentsline {section}{\numberline {15}Arc length}{48}{}%
+\contentsline {section}{\numberline {16}Surface of revolution}{52}{}%
+\contentsline {section}{\numberline {17}Differential equations}{56}{}%
+\contentsline {section}{\numberline {18}Mixing problems}{58}{}%

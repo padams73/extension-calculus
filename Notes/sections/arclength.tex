@@ -15,7 +15,7 @@ You can see that this must logically be the case by looking at the diagram below
     \includegraphics[width=0.3\linewidth]{images/arclength1.png}
 \end{figure}
 
-To approximate the length of the arc over an interval $[a,b]$, we first divide the interval into $n$ equal sub-intervals, each of width $\Delta x$. We denote each point on the curve $P_i$, and we can approximate the curve by creating straight lines between each point. Below is an example with 11 points.
+To approximate the length of the arc over an interval $[a,b]$, we first divide the interval into $n$ equal sub-intervals, each of width $\Delta x$. We denote each point on the curve $P_i$, and we can approximate the curve by creating straight lines between each point. Below is an example with 13 points.
 
 \begin{figure}[h]
     \centering
@@ -53,7 +53,7 @@ Which can be simplified as $s_n=\sqrt{1+(f'(x_n))^2}\Delta x$.
 
 \textbf{Note:} The function and its derivative \textbf{must be continuous} on the closed interval being considered for the arc length calculation to be guaranteed of accuracy.
 
-Since the arc length is now just a sum of an infinite number of infinitely small lengths, we can find the length by using a definite integral.
+The arc length is now just a sum of an infinite number of infinitely small lengths:
 
 \[L=\lim\limits_{n \Rightarrow \infty} \sum\limits_{i=1}^n \sqrt{1+(f'(x_n))^2} \Delta x\]
 
