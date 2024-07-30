@@ -1,18 +1,20 @@
 \contentsline {section}{\numberline {1}Binomial expansion}{3}{}%
 \contentsline {section}{\numberline {2}Partial fractions}{5}{}%
-\contentsline {section}{\numberline {3}Implicit differentiation}{10}{}%
-\contentsline {section}{\numberline {4}Sum of roots of polynomials}{13}{}%
-\contentsline {section}{\numberline {5}Combinations and permutations}{15}{}%
-\contentsline {section}{\numberline {6}Turning equations into quadratics}{17}{}%
-\contentsline {section}{\numberline {7}Endless sums}{19}{}%
-\contentsline {section}{\numberline {8}Telescoping Sums}{21}{}%
-\contentsline {section}{\numberline {9}Euler's Formula}{24}{}%
-\contentsline {section}{\numberline {10}Integration by parts}{26}{}%
-\contentsline {section}{\numberline {11}Integration by parts - DI Method}{29}{}%
-\contentsline {section}{\numberline {12}The Camel Principle}{33}{}%
-\contentsline {section}{\numberline {13}Trig substitutions for integration}{35}{}%
-\contentsline {section}{\numberline {14}Volumes of revolution}{39}{}%
-\contentsline {section}{\numberline {15}Arc length}{48}{}%
-\contentsline {section}{\numberline {16}Surface of revolution}{52}{}%
-\contentsline {section}{\numberline {17}Differential equations}{56}{}%
-\contentsline {section}{\numberline {18}Mixing problems}{58}{}%
+\contentsline {section}{\numberline {3}Exact trig values}{10}{}%
+\contentsline {section}{\numberline {4}Implicit differentiation}{13}{}%
+\contentsline {section}{\numberline {5}Sum of roots of polynomials}{16}{}%
+\contentsline {section}{\numberline {6}Sum and difference of cubes}{18}{}%
+\contentsline {section}{\numberline {7}Combinations and permutations}{19}{}%
+\contentsline {section}{\numberline {8}Turning equations into quadratics}{21}{}%
+\contentsline {section}{\numberline {9}Endless sums}{23}{}%
+\contentsline {section}{\numberline {10}Telescoping Sums}{25}{}%
+\contentsline {section}{\numberline {11}Euler's Formula}{28}{}%
+\contentsline {section}{\numberline {12}Integration by parts}{30}{}%
+\contentsline {section}{\numberline {13}Integration by parts - DI Method}{33}{}%
+\contentsline {section}{\numberline {14}The Camel Principle}{37}{}%
+\contentsline {section}{\numberline {15}Trig substitutions for integration}{39}{}%
+\contentsline {section}{\numberline {16}Volumes of revolution}{43}{}%
+\contentsline {section}{\numberline {17}Arc length}{52}{}%
+\contentsline {section}{\numberline {18}Surface of revolution}{56}{}%
+\contentsline {section}{\numberline {19}Differential equations}{60}{}%
+\contentsline {section}{\numberline {20}Mixing problems}{62}{}%

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722319215.80664 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/surfaceofrevolution.tex" "sections/surfaceofrevolution.pdf" "surfaceofrevolution" 1722319217.08423 0
+["pdflatex"] 1722326514.40451 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/exacttrigvalues.tex" "sections/exacttrigvalues.pdf" "exacttrigvalues" 1722326515.88644 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -25,7 +25,6 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
@@ -66,15 +65,15 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/surfaceofrevolution.tex" 1719885513 3570 29383a2fc7e387f12506788ff8f6a639 ""
-  "images/surfacerev1.png" 1719731686 9142 cb2c70a1863daa348de6238b4cd1f3a4 ""
-  "images/surfacerev2.png" 1719731696 10845 720659ec3e74d47572b04facada043cb ""
-  "main.tex" 1722316857 2435 e4098f7b71bb077684e5026585967705 ""
-  "sections/../main.tex" 1722316857 2435 e4098f7b71bb077684e5026585967705 ""
-  "sections/surfaceofrevolution.aux" 1722319216 188 d1d15029ba194656b2672a0abe8220e6 "pdflatex"
-  "sections/surfaceofrevolution.tex" 1719885513 3570 29383a2fc7e387f12506788ff8f6a639 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/exacttrigvalues.tex" 1722326513 3326 65b91312fff1b2da45d3eb029631af4a ""
+  "images/ratiotriangle1.png" 1722319509 4051 1467069359b37afab120e1250cee516d ""
+  "images/ratiotriangle2.png" 1722319516 3798 8995fab5d1421ef2ccb5f965ca7736fd ""
+  "main.tex" 1722319419 2530 d23ff1098152052a76b88ad440981ce9 ""
+  "sections/../main.tex" 1722319419 2530 d23ff1098152052a76b88ad440981ce9 ""
+  "sections/exacttrigvalues.aux" 1722326515 180 35c9e7ec1eb79b356f4f80afc31a0c5f "pdflatex"
+  "sections/exacttrigvalues.tex" 1722326513 3326 65b91312fff1b2da45d3eb029631af4a ""
   (generated)
-  "sections/surfaceofrevolution.aux"
-  "sections/surfaceofrevolution.log"
-  "sections/surfaceofrevolution.pdf"
+  "sections/exacttrigvalues.aux"
+  "sections/exacttrigvalues.log"
+  "sections/exacttrigvalues.pdf"
   (rewritten before read)
