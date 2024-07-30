@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722216197.35278 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/partialfractions.tex" "sections/partialfractions.pdf" "partialfractions" 1722216198.87787 0
+["pdflatex"] 1722299776.58049 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/partialfractions.tex" "sections/partialfractions.pdf" "partialfractions" 1722299777.28375 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -65,11 +65,11 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/partialfractions.tex" 1722216194 4630 0822db664ebb16799c62c4597851964e ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/partialfractions.tex" 1722299775 4628 7975d0498e6e5778616a798d9bd6dfd7 ""
   "main.tex" 1722209425 2384 641f41e58996b6cf90a90870eea2dc49 ""
   "sections/../main.tex" 1722209425 2384 641f41e58996b6cf90a90870eea2dc49 ""
-  "sections/partialfractions.aux" 1722216198 180 2ec1b1e92dba50d6764a3ea2c3f17227 "pdflatex"
-  "sections/partialfractions.tex" 1722216194 4630 0822db664ebb16799c62c4597851964e ""
+  "sections/partialfractions.aux" 1722299777 180 2ec1b1e92dba50d6764a3ea2c3f17227 "pdflatex"
+  "sections/partialfractions.tex" 1722299775 4628 7975d0498e6e5778616a798d9bd6dfd7 ""
   (generated)
   "sections/partialfractions.aux"
   "sections/partialfractions.log"

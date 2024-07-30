@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722241944.95433 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1722241950.90106 0
+["pdflatex"] 1722299808.59604 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1722299810.66965 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -145,9 +145,9 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1722241950 3706 c1fa23633e17347a33f3f85074133ccf "pdflatex"
+  "main.aux" 1722299810 3706 c1fa23633e17347a33f3f85074133ccf "pdflatex"
   "main.tex" 1722209425 2384 641f41e58996b6cf90a90870eea2dc49 ""
-  "main.toc" 1722241950 1256 94525f6566b2158bd463ba0f3130c816 "pdflatex"
+  "main.toc" 1722299810 1256 94525f6566b2158bd463ba0f3130c816 "pdflatex"
   "sections/arclength.tex" 1721684208 4778 f7b263e0c1be2cfab48e734c06d299ec ""
   "sections/binomialexpansion.tex" 1720067357 2139 46b389f5136d9e1e8bbd0c61a082175f ""
   "sections/camelprinciple.tex" 1720067900 1841 0fc21a05dede669265efa69b2b823b68 ""
@@ -159,7 +159,7 @@
   "sections/implicitdifferentiation.tex" 1722220046 4187 0cb71274e228b0734c9c58d5516d37bd ""
   "sections/integrationbyparts.tex" 1720067789 2368 0e0780c4fdf6ebcc930748bed99e74f1 ""
   "sections/mixingproblems.tex" 1720819859 3513 4eaa26598a28143cb4d137f5e83780b4 ""
-  "sections/partialfractions.tex" 1722216194 4630 0822db664ebb16799c62c4597851964e ""
+  "sections/partialfractions.tex" 1722299795 4628 7975d0498e6e5778616a798d9bd6dfd7 ""
   "sections/quadratics.tex" 1720067677 1519 36e0cd674f645b6282cea4adbd694458 ""
   "sections/sumofroots.tex" 1720067549 1696 e40c57bdaf52aebf3e099074bf432193 ""
   "sections/surfaceofrevolution.tex" 1719885513 3570 29383a2fc7e387f12506788ff8f6a639 ""
