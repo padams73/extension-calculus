@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722241928.83354 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_partialfractions.tex" "answers/ans_partialfractions.pdf" "ans_partialfractions" 1722241930.31218 0
+["pdflatex"] 1722375340.54745 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_partialfractions.tex" "answers/ans_partialfractions.pdf" "ans_partialfractions" 1722375341.5906 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -64,11 +64,11 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "answers/../main.tex" 1722209425 2384 641f41e58996b6cf90a90870eea2dc49 ""
-  "answers/ans_partialfractions.aux" 1722241930 82 8ba00a0ee5e7a8dd4a5d5eacb33d0e25 "pdflatex"
-  "answers/ans_partialfractions.tex" 1722241927 3733 fb689007b3ba1aeff63f649a94657524 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_partialfractions.tex" 1722241927 3733 fb689007b3ba1aeff63f649a94657524 ""
-  "main.tex" 1722209425 2384 641f41e58996b6cf90a90870eea2dc49 ""
+  "answers/../main.tex" 1722319419 2530 d23ff1098152052a76b88ad440981ce9 ""
+  "answers/ans_partialfractions.aux" 1722375341 82 8ba00a0ee5e7a8dd4a5d5eacb33d0e25 "pdflatex"
+  "answers/ans_partialfractions.tex" 1722375340 3735 f5b4941bdeea5b87c5f5fe781b794e0b ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_partialfractions.tex" 1722375340 3735 f5b4941bdeea5b87c5f5fe781b794e0b ""
+  "main.tex" 1722319419 2530 d23ff1098152052a76b88ad440981ce9 ""
   (generated)
   "answers/ans_partialfractions.aux"
   "answers/ans_partialfractions.log"
