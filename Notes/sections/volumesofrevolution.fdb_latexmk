@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1720068064.8529 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/volumesofrevolution.tex" "sections/volumesofrevolution.pdf" "volumesofrevolution" 1720068066.93374 0
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1722647780.92717 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/volumesofrevolution.tex" "sections/volumesofrevolution.pdf" "volumesofrevolution" 1722647783.08783 0
+  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -86,9 +86,9 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
-  "sections/../main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
-  "sections/volumesofrevolution.aux" 1720068066 188 9e65776fb624253d0318af962f04319d "pdflatex"
+  "main.tex" 1722647214 2644 87340823813d45b1f5246d6cf81020ea ""
+  "sections/../main.tex" 1722647214 2644 87340823813d45b1f5246d6cf81020ea ""
+  "sections/volumesofrevolution.aux" 1722647782 188 9e65776fb624253d0318af962f04319d "pdflatex"
   "sections/volumesofrevolution.tex" 1720068063 9080 8399ed417deb123bd80b6aae4669c117 ""
   (generated)
   "sections/volumesofrevolution.aux"
