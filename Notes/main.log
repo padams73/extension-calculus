@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  3 AUG 2024 14:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  6 AUG 2024 11:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -862,74 +862,84 @@ Package pdftex.def Info: images/trigsuba12.png  used on input line 413.
 (pdftex.def)             Requested size: 149.0565pt x 103.88786pt.
 
 
-[107 <./images/trigsuba12.png>]) (answers/ans_parametricintegration.tex)
+[107 <./images/trigsuba12.png>]) (answers/ans_parametricintegration.tex
 
-[108] (answers/ans_volumesofrevolution.tex
+[108]
+<images/parametricintegration3.png, id=471, 120.95187pt x 111.41624pt>
+File: images/parametricintegration3.png Graphic file (type png)
+<use images/parametricintegration3.png>
+Package pdftex.def Info: images/parametricintegration3.png  used on input line 108.
+(pdftex.def)             Requested size: 70.46037pt x 64.90707pt.
 
-[109]
 
-[110]
+[109])
+
+[110 <./images/parametricintegration3.png>] (answers/ans_volumesofrevolution.tex
 
 [111]
-<images/volrev20.png, id=481, 144.54pt x 60.225pt>
+
+[112]
+
+[113]
+<images/volrev20.png, id=489, 144.54pt x 60.225pt>
 File: images/volrev20.png Graphic file (type png)
 <use images/volrev20.png>
 Package pdftex.def Info: images/volrev20.png  used on input line 176.
 (pdftex.def)             Requested size: 144.53963pt x 60.22484pt.
 
 
-[112 <./images/volrev20.png>]) (answers/ans_arclength.tex
+[114 <./images/volrev20.png>]) (answers/ans_arclength.tex
 
-[113]
+[115]
 
-[114])
+[116])
 
-[115] (answers/ans_surfaceofrevolution.tex
+[117] (answers/ans_surfaceofrevolution.tex
 
-[116]
-
-[117]
-
-[118]) (answers/ans_differentialequations.tex
+[118]
 
 [119]
 
-[120]
+[120]) (answers/ans_differentialequations.tex
 
 [121]
 
 [122]
-<images/diffeqns.png, id=518, 81.30376pt x 70.01157pt>
+
+[123]
+
+[124]
+<images/diffeqns.png, id=526, 81.30376pt x 70.01157pt>
 File: images/diffeqns.png Graphic file (type png)
 <use images/diffeqns.png>
 Package pdftex.def Info: images/diffeqns.png  used on input line 264.
 (pdftex.def)             Requested size: 81.30354pt x 70.01138pt.
 
 
-[123 <./images/diffeqns.png>])
+[125 <./images/diffeqns.png>])
 
-[124] (answers/ans_mixingproblems.tex
+[126] (answers/ans_mixingproblems.tex
 
-[125])
+[127])
 
-[126] (main.aux)
+[128] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5532 strings out of 473919
- 99520 string characters out of 5727897
+ 5540 strings out of 473919
+ 99821 string characters out of 5727897
  1959908 words of memory out of 5000000
- 28136 multiletter control sequences out of 15000+600000
+ 28143 multiletter control sequences out of 15000+600000
  567815 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,15n,65p,1288b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (126 pages, 1342746 bytes).
+Output written on main.pdf (128 pages, 1356738 bytes).
 PDF statistics:
- 602 PDF objects out of 1000 (max. 8388607)
+ 611 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 291 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 296 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -15,9 +15,9 @@
 
     Calculate the bounds in terms of $t$:
 
-    $1=4-t\\t=3$
+    Upper: $1=4-t \Rightarrow t=3$
 
-    $0=4-t\\t=4$
+    Lower: $0=4-t \Rightarrow t=4$
 
     Rewrite integral in terms of $t$:
 
@@ -27,10 +27,105 @@
 
     $\Bigl[\frac{3t^2}{2}-\frac{t^3}{2}\Bigr]_4^3=\frac{11}{6}$
 
-    
+    \item 
+    Write $dx$ in terms of $t$ and $dt$
 
+    $\frac{dx}{dt}=\cos{t}$
 
+    $dx=\cos{t}\,dt$
 
+    Calculate bounds in terms of $t$:
+
+    Upper: $1=\sin{t} \Rightarrow t=\frac{\pi}{2}$
+
+    Lower: $-\frac{1}{2}=\sin{t} \Rightarrow t=-\frac{\pi}{6}$
+
+    Rewrite integral in terms of $t$:
+
+    $\int_{-\frac{\pi}{6}}^{\frac{\pi}{2}}2(\cos{t}-\sin{t})\cos{t}\,dt=2\int_{-\frac{\pi}{6}}^{\frac{\pi}{2}}\cos^2{t}-\sin{t}\,dt$
+
+    Simplify using trig identities:
+
+    $2\int_{-\frac{\pi}{6}}^{\frac{\pi}{2}}\cos{2t}+1-\sin{t}\,dt$
+
+    $=\Bigl[\frac{\sin{2t}}{2}+t+\frac{\cos{2t}}{2}\Bigr]_{-\frac{\pi}{6}}^{\frac{\pi}{2}}=\frac{\sqrt{3}}{4}-\frac{3}{4}+\frac{2\pi}{3}=\frac{3\sqrt{3}-9+8\pi}{12}$
+
+    \item 
+    $\frac{dx}{dt}=\sec^2{t}\\
+    dx=\sec^2{t}\,dt$
+
+    Calculate bounds in terms of $t$:
+
+    Upper: $\tan{t}=\sqrt{3} \Rightarrow
+    t=\frac{\pi}{3}$
+
+    Lower: $\tan{t}=0 \Rightarrow t=0$
+
+    Rewrite the integral in terms of $t$:
+
+    $\int_0^{\frac{\pi}{3}} \sin{t}\sec^2{t}\,dt=\int_0^{\frac{\pi}{3}}\sin{t}\frac{1}{\cos^2{t}}\,dt$
+
+    Integrating:
+
+    $\Bigl[\frac{1}{\cos{t}}\Bigr]_0^{\frac{\pi}{3}}=1$
+
+    \item 
+    Work out the area above the $x$-axis, and then multiply by 2.
+
+    In other words:
+
+    $A=2\int_{-r}^{r} y\,dx$
+
+    Find $dx$:
+
+    $\frac{dx}{dt}=r\cos{t}\\
+    dx=r\cos{t}\,dt$
+
+    Calculate bounds in terms of $t$:
+
+    Upper: $r=r\cos{t} \Rightarrow 1=\cos{t} \Rightarrow t=0$
+
+    Lower: $-r=r\cos{t} \Rightarrow -1=\cos{t} \Rightarrow t=\pi$
+
+    Rewrite the integral in terms of $t$:
+
+    $\int_{\pi}^0 r\sin{t}\times -r\sin{t}\,dt=-r^2\int_{\pi}^{0}\sin^2{t}\,dt$
+
+    Use the cosine double angle rule to simplify before integrating:
+
+    $-r^2\int_{\pi}^0 \frac{1}{2}-\frac{\cos{2t}}{2}\,dt$
+
+    $-r^2\Bigl[\frac{t}{2}-\frac{\sin{2t}}{4}\Bigr]_{\pi}^{0}$
+
+    $=-r^2\Bigl[\Bigl(0-0\Bigr)-\Bigl(\frac{\pi}{2}-0\Bigr)\Bigr]=-r^2\Bigl[-\frac{\pi}{2}\Bigr]=\frac{\pi r^2}{2}$
+
+    Multiplying by 2 to get the full area of the circle gives $2\times \frac{\pi r^2}{2}=\pi r^2$ as required.
+
+    \item 
+    Need to calculate the area above the $x$-axis, then double.
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.15\linewidth]{images/parametricintegration3.png}
+    \end{figure}
+
+    Write $dx$ in terms of $t$ and $dt$:
+
+    $\frac{dx}{dt}=2at\\
+    dx=2at\,dt$
+
+    Bounds in terms of $t$:
+
+    Upper: $a=at^2 \Rightarrow t=1$
+
+    Lower: $0=at^2 \Rightarrow t=0$
+
+    Rewrite the integral in terms of $t$:
+
+    $\int_0^1 2at\times 2a\,dt=\int_0^1 4a^2t^2\,dt=4a^2\int_0^1 t^2\,dt$
+
+    $=4a^2\Bigl[\frac{t^3}{3}\Bigr]_0^1=\frac{4a^2}{3}$
+
+    Double the result to get the whole area of $\frac{8a^2}{3}$
 
 
 
