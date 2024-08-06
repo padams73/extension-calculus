@@ -127,6 +127,68 @@
 
     Double the result to get the whole area of $\frac{8a^2}{3}$
 
+    \item 
+    $\frac{dx}{dt}=-2\sin{2t} \Rightarrow dx=-2\sin{2t}\,dt$
+
+    Write integral in terms of $t$:
+
+    $\int_{-\frac{\pi}{4}}^{\frac{3\pi}{4}} 2(\cos{t}+\sin{t})\times -2\sin{2t}\,dt$
+
+    Using sine double angle rule:
+
+    $\int_{-\frac{\pi}{4}}^{\frac{3\pi}{4}} 2(\cos{t}+\sin{t})\times -4\sin{t}\cos{t}\,dt=-8\int_{-\frac{\pi}{4}}^{\frac{3\pi}{4}} \sin{t}\cos^2{t}+\sin^2{t}\cos{t}\,dt$
+
+    Integrate:
+
+    $-8\Bigl[-\frac{\cos^3{t}}{3}+\frac{\sin^3{t}}{3}\Bigr]_{-\frac{\pi}{4}}^{\frac{3\pi}{4}}$
+
+    Evaluate:
+
+    $\cos{\frac{3\pi}{4}}=-\frac{\sqrt{2}}{2}, \sin{\frac{3\pi}{4}}=\frac{\sqrt{2}}{2}$
+
+    $\cos{-\frac{\pi}{4}}=\frac{\sqrt[root]{2}}{2}, \sin{-\frac{\pi}{4}}=-\frac{\sqrt{2}}{2}$
+
+    $-8\Bigl(\Bigl[-\frac{1}{3}(\frac{\sqrt{2}}{2})^3+\frac{1}{3}(\frac{\sqrt{2}}{2})^3\Bigr]-\Bigl[-\frac{1}{3}(\frac{\sqrt{2}}{2})^3+\frac{1}{3}(-\frac{\sqrt{2}}{2})^3\Bigr]\Bigr)$
+
+    $-8\Bigl[\frac{8\sqrt{2}}{24}\Bigr]=-\frac{8\sqrt{2}}{3}$
+
+    The area must be positive, the bounds would have been in the wrong order, therefore the area is $\frac{8\sqrt{2}}{3}$
+
+    \item 
+    We will find the area of the top-right quadrant and then multiply the answer by 4.
+    
+    Find $dx$ in terms of $t$ and $dt$:
+
+    $\frac{dx}{dt}=-3\cos^2{t}\sin{t} \Rightarrow dx=-3\sin{t}\cos^2{t}\,dt$
+
+    Find the bounds in terms of $t$:
+
+    Upper: $1=\cos^3{t} \Rightarrow t=0$
+
+    Lower: $0=\cos^3{t} \Rightarrow t=\frac{\pi}{2}$
+
+    The total area is now an integral in terms of $t$:
+
+    $4\times\int_{\frac{\pi}{2}}^{0} -3\sin^4{t}\cos^2{t}\,dt$
+
+    Rewriting so we can use the sine double-angle rule:
+
+    $-3\int_{\frac{\pi}{2}}^{0}4\sin^2{t}\cos^2{t}\sin^2{t}\,dt=-3\int_{\frac{\pi}{2}}^{0} \sin^2{2t}\sin^2{t}\,dt$
+
+    Use the cosine double-angle rule:
+
+    $-\frac{3}{2}\int_{\frac{\pi}{2}}^{0} \sin^2{2t}(1-cos{2t})\,dt=-\frac{3}{2}\int_{\frac{\pi}{2}}^{0} \sin^2{2t}-\sin^2{2t}\cos{2t}\,dt$
+
+    Split into two integrals, rewriting the first using the cosine double-angle rule:
+
+    $-\frac{3}{4}\int_{\frac{\pi}{2}}^{0} 1-\cos{4t}\,dt--\frac{3}{2}\int_{\frac{\pi}{2}}^{0} \sin^2{2t}\cos{2t}\,dt$
+
+    Integrate the second integral using a substitution of $u=\sin{2t}$
+
+    $\Bigl[-\frac{3t}{4}+\frac{3\sin{4t}}{16}+\frac{\sin^3{2t}}{6}\Bigr]_{\frac{\pi}{2}}^{0}$
+
+    $=\Bigl(0\Bigr)-\Bigl(-\frac{3\pi}{8}+0+0\Bigr)=\frac{3\pi}{8}$
+
 
 
 \end{spacing}  

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  6 AUG 2024 11:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  6 AUG 2024 13:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -277,7 +277,9 @@ Package pdftex.def Info: images/parametricintegration3.png  used on input line 1
 
 [2]
 
-[3 <./images/parametricintegration3.png>] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_parametricintegration.aux)
+[3 <./images/parametricintegration3.png>]
+
+[4] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_parametricintegration.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -290,15 +292,15 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  4682 strings out of 473919
  73217 string characters out of 5727897
- 1937908 words of memory out of 5000000
+ 1940908 words of memory out of 5000000
  27474 multiletter control sequences out of 15000+600000
  563319 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,8n,82p,1317b,403s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_parametricintegration.pdf" (3 pages, 125187 bytes).
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_parametricintegration.pdf" (4 pages, 131872 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

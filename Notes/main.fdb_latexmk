@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722901026.73325 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1722901031.01905 0
+["pdflatex"] 1722906684.07985 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1722906688.79331 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -86,7 +86,7 @@
   "answers/ans_implicitdifferentiation.tex" 1720067463 2411 1777335f8133c942f7eb503e6e4cf79c ""
   "answers/ans_integrationbyparts.tex" 1720067769 3641 4a42531091f83daffd8aaa8ee902e39d ""
   "answers/ans_mixingproblems.tex" 1720820798 1652 0c1640844ce5e356357b492c3f2e56d6 ""
-  "answers/ans_parametricintegration.tex" 1722901022 3612 6afd923d8b12b8eaf91234fc871a07ac ""
+  "answers/ans_parametricintegration.tex" 1722906679 6029 e23c27afd7abad4fd4a8ddf4b3569ccb ""
   "answers/ans_partialfractions.tex" 1722375340 3735 f5b4941bdeea5b87c5f5fe781b794e0b ""
   "answers/ans_quadratics.tex" 1720067656 2522 00fa261347665ddb9a404d097ad7a487 ""
   "answers/ans_sumofroots.tex" 1722411822 2450 f4fd704469566b737da636f5e1469988 ""
@@ -154,9 +154,9 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1722901030 4247 9a6e45a5da90935dc0ad83e6c4e3c6f5 "pdflatex"
+  "main.aux" 1722906688 4247 943bcd57eb4a55472b37422cdb3cbaf9 "pdflatex"
   "main.tex" 1722647214 2644 87340823813d45b1f5246d6cf81020ea ""
-  "main.toc" 1722901030 1469 7ee62b70a632b55c91a428fee8adeb48 "pdflatex"
+  "main.toc" 1722906688 1469 7ee62b70a632b55c91a428fee8adeb48 "pdflatex"
   "sections/arclength.tex" 1721684208 4778 f7b263e0c1be2cfab48e734c06d299ec ""
   "sections/binomialexpansion.tex" 1720067357 2139 46b389f5136d9e1e8bbd0c61a082175f ""
   "sections/camelprinciple.tex" 1720067900 1841 0fc21a05dede669265efa69b2b823b68 ""
