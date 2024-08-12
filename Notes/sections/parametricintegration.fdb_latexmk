@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722650621.28478 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/parametricintegration.tex" "sections/parametricintegration.pdf" "parametricintegration" 1722650622.96781 0
+["pdflatex"] 1723339827.29121 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/parametricintegration.tex" "sections/parametricintegration.pdf" "parametricintegration" 1723339828.93585 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -67,13 +67,13 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/parametricintegration.tex" 1722650618 3504 fe066053869b1f0a3474515f23a10176 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/parametricintegration.tex" 1723339826 3512 5b03180f1591a1a3e3572882fba4a96f ""
   "images/parametricintegration.png" 1722649208 44245 57bf6524560d86a3fdf96f151a661072 ""
   "images/parametricintegration2.png" 1722649729 43428 a39ff03779e5a32a9eb8b0cd82c43505 ""
   "main.tex" 1722647214 2644 87340823813d45b1f5246d6cf81020ea ""
   "sections/../main.tex" 1722647214 2644 87340823813d45b1f5246d6cf81020ea ""
-  "sections/parametricintegration.aux" 1722650622 190 35cf35a24b30d95af260ad00d924aae9 "pdflatex"
-  "sections/parametricintegration.tex" 1722650618 3504 fe066053869b1f0a3474515f23a10176 ""
+  "sections/parametricintegration.aux" 1723339828 190 35cf35a24b30d95af260ad00d924aae9 "pdflatex"
+  "sections/parametricintegration.tex" 1723339826 3512 5b03180f1591a1a3e3572882fba4a96f ""
   (generated)
   "sections/parametricintegration.aux"
   "sections/parametricintegration.log"

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722906684.07985 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1722906688.79331 0
+["pdflatex"] 1723339911.61443 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1723339916.14893 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -154,9 +154,9 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1722906688 4247 943bcd57eb4a55472b37422cdb3cbaf9 "pdflatex"
+  "main.aux" 1723339915 4247 943bcd57eb4a55472b37422cdb3cbaf9 "pdflatex"
   "main.tex" 1722647214 2644 87340823813d45b1f5246d6cf81020ea ""
-  "main.toc" 1722906688 1469 7ee62b70a632b55c91a428fee8adeb48 "pdflatex"
+  "main.toc" 1723339915 1469 7ee62b70a632b55c91a428fee8adeb48 "pdflatex"
   "sections/arclength.tex" 1721684208 4778 f7b263e0c1be2cfab48e734c06d299ec ""
   "sections/binomialexpansion.tex" 1720067357 2139 46b389f5136d9e1e8bbd0c61a082175f ""
   "sections/camelprinciple.tex" 1720067900 1841 0fc21a05dede669265efa69b2b823b68 ""
@@ -169,7 +169,7 @@
   "sections/implicitdifferentiation.tex" 1722220046 4187 0cb71274e228b0734c9c58d5516d37bd ""
   "sections/integrationbyparts.tex" 1720067789 2368 0e0780c4fdf6ebcc930748bed99e74f1 ""
   "sections/mixingproblems.tex" 1720819859 3513 4eaa26598a28143cb4d137f5e83780b4 ""
-  "sections/parametricintegration.tex" 1722650618 3504 fe066053869b1f0a3474515f23a10176 ""
+  "sections/parametricintegration.tex" 1723339826 3512 5b03180f1591a1a3e3572882fba4a96f ""
   "sections/partialfractions.tex" 1722374854 4629 d02b4ec769e317a100b363216965764d ""
   "sections/quadratics.tex" 1720067677 1519 36e0cd674f645b6282cea4adbd694458 ""
   "sections/sumdifferenceofcubes.tex" 1722317330 953 d6422155d789c0da5cdc671c0ae3bc1b ""
