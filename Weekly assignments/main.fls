@@ -447,6 +447,12 @@ INPUT .\images\t2w8q4.png
 INPUT .\images\t2w8q4.png
 INPUT .\images\t2w8q4.png
 INPUT .\images\t2w8q4.png
+INPUT .\sections\term3week1.tex
+INPUT .\sections\term3week1.tex
+INPUT sections\term3week1.tex
+INPUT .\sections\term3week1.tex
+INPUT .\sections\term3week1.tex
+INPUT sections\term3week1.tex
 INPUT .\answers\term1week2.tex
 INPUT .\answers\term1week2.tex
 INPUT answers\term1week2.tex
@@ -839,6 +845,12 @@ INPUT .\images\t2w8q4a2.png
 INPUT .\images\t2w8q4a2.png
 INPUT .\images\t2w8q4a2.png
 INPUT .\images\t2w8q4a2.png
+INPUT .\answers\term3week1.tex
+INPUT .\answers\term3week1.tex
+INPUT answers\term3week1.tex
+INPUT .\answers\term3week1.tex
+INPUT .\answers\term3week1.tex
+INPUT answers\term3week1.tex
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
