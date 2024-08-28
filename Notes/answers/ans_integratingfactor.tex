@@ -1,0 +1,347 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+\subsection*{Answers - Integrating factor method (page \pageref{Integrating factor method})}
+\label{Integrating factor answers}
+\setstretch{1.5}
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    $\frac{dy}{dx}+2y=4; y(0)=4$
+
+    $p(x)=2$, so set integrating factor to $\mu=e^{\int 2\,dx}=e^{2x}$
+
+    Multiply equation by $\mu$:
+
+    $e^{2x}\frac{dy}{dx}+2e^{2x}y=4e^{2x}$
+
+    Note that $\frac{d}{dx}e^{2x}y=e^{2x}\frac{dy}{dx}+2e^{2x}y$, which is the same as the left hand side of the equation.
+
+    Rewrite the equation as $\frac{d}{dx}e^{2x}y=4e^{2x}$
+
+    Integrating both sides:
+
+    $\int \frac{d}{dx}e^{2x}y=\int 4e^{2x}\,dx$
+
+    $e^{2x}y=2e^{2x}+c$
+
+    Substituting in $y(0)=4$, we get:
+
+    $e^{0}4=2e^{0}+c \Rightarrow 4=2+c \Rightarrow c=2$
+
+    $e^{2x}y=2e^{2x}+2$
+
+    Rearranging to solve:
+
+    $y=2+\frac{2}{e^{2x}}=2+2e^{-2x}$
+
+
+    \item 
+    $\frac{dy}{dx}+2y=e^{4x}; y(0)=4$
+
+    $p(x)=2$, so integrating factor $\mu=e^{2x}$
+
+    New equation is:
+
+    $e^{2x}\frac{dy}{dx}+2e^{2x}y=e^{6x}$
+
+    The left hand side is the same as $\frac{d}{dx}\Bigl(e^{2x}y\Bigr)=e^{2x}\frac{dy}{dx}+2e^{2x}y$, so we can rewrite the equation as:
+
+    $\frac{d}{dx}\Bigl(e^{2x}y\Bigr)=e^{6x}$
+
+    Integrating both sides:
+
+    $\int \frac{d}{dx}\Bigl(e^{2x}y\Bigr)=\int e^{6x}\,dx$
+
+    $e^{2x}y=\frac{e^{6x}}{6}+c$
+
+    Substitute $y(0)=4$:
+
+    $e^{0}4=\frac{e^{0}}{6}+c \Rightarrow 4=\frac{1}{6}+c \Rightarrow c=\frac{23}{6}$
+
+    $e^{2x}y=\frac{e^{6x}}{6}+\frac{23}{6}$
+
+    $y=\frac{e^{4x}}{6}+\frac{23}{6e^{2x}}$
+
+
+    \item 
+    $\frac{dy}{dx}+y=e^{-x}; y(0)=1$
+
+    $p(x)=1 \Rightarrow \mu=e^x$
+
+    $e^x \frac{dy}{dx}+e^x y=1$
+
+    Since LHS = $\frac{d}{dx}(e^x y)$, we rewrite the equation:
+
+    $\frac{d}{dx}(e^x y)=1$
+
+    Integrate:
+
+    $\int \frac{d}{dx}(e^x y)=\int 1\,dx$
+
+    $e^x y=x+c$
+
+    Substitute in $y(0)=1$:
+
+    $e^0 \times 1=0+c \Rightarrow c=1$
+
+    $e^x y = x+1$
+
+    $y=\frac{x}{e^x}+\frac{1}{e^{x}}$
+
+    \item 
+    $\frac{dy}{dx}+2xy=x; y(1)=1$
+
+    $p(x)=2x \Rightarrow \mu=e^{x^2}$
+
+    $e^{x^2}\frac{dy}{dx}+2e^{x^2}xy=xe^{x^2}$
+
+    Notice that the LHS is same as $\frac{d}{dx}(e^{x^2}y)$, so we can rewrite the equation:
+
+    $\frac{d}{dx}(e^{x^2}y)=xe^{x^2}$
+
+    Integrate:
+
+    $\int \frac{d}{dx}(e^{x^2}y)=\int xe^{x^2}\,dx$
+
+    $e^{x^2}y=\frac{e^{x^2}}{2}+c$
+
+    Substitute $y(1)=1$:
+
+    $e^{1}1=\frac{e^{1}}{2}+c \Rightarrow c=\frac{e}{2}$
+
+    $e^{x^2}y=\frac{e^{x^2}}{2}+\frac{e}{2}$
+
+    $y=\frac{1}{2}+\frac{e^{(1-x^2)}}{2}$
+
+    \item 
+    $\frac{dy}{dx}+3x^2 y=e^{x-x^3}; y(0)=2$
+
+    $p(x)=3x^2 \Rightarrow \mu=e^{x^3}$
+
+    $e^{x^3}\frac{dy}{dx}+3e^{x^3}x^2 y=e^{x}$
+
+    The LHS is the same as $\frac{d}{dx}\Bigl(e^{x^3}y\Bigr)$ so we can rewrite the equation:
+
+    $\frac{d}{dx}\Bigl(e^{x^3}y\Bigr)=e^x$
+
+    Integrating:
+
+    $\int \frac{d}{dx}\Bigl(e^{x^3}y\Bigr)=\int e^x\,dx$
+
+    $e^{x^3}y=e^x +c$
+
+    Substitute $y(0)=2$:
+
+    $e^0\times 2=e^0+c \Rightarrow c=1$
+
+    $e^{x^3}y=e^x +1$
+
+    $y=e^{(x-x^3)}+\frac{1}{e^{x^3}}$
+
+    \item 
+    $4\frac{dy}{dx}+y=3x; y(2)=6$
+
+    Divide by 4 to get the equation into standard form:
+
+    $\frac{dy}{dx}+\frac{1}{4}y=\frac{3x}{4}$
+
+    $p(x)=\frac{1}{4} \Rightarrow \mu=e^{\frac{x}{4}}$
+
+    $e^{\frac{x}{4}}\frac{dy}{dx}+e^{\frac{x}{4}}\frac{y}{4}=e^{\frac{x}{4}}\frac{3x}{4}$
+
+    LHS is the same as $\frac{d}{dx}e^{\frac{x}{4}}y$ so we can rewrite the equation:
+
+    $\frac{d}{dx}e^{\frac{x}{4}}y=e^{\frac{x}{4}}\frac{3x}{4}$
+
+    Integrating both sides:
+
+    $\int \frac{d}{dx}e^{\frac{x}{4}}y=\int e^{\frac{x}{4}}\frac{3x}{4}\,dx$
+
+    $e^{\frac{x}{4}}y=\frac{3}{4}\int e^{\frac{x}{4}}x\,dx$
+
+    We can Integrate by Parts for the RHS, remembering that $f'g=fg-\int g'f$:
+
+    $f'=e^{\frac{x}{4}}$
+
+    $f=4e^{\frac{x}{4}}$
+
+    $g=x$
+
+    $g'=1$
+
+    So the integral is:
+    
+    $\frac{3}{4}\int e^{\frac{x}{4}}x\,dx=\frac{3}{4}\Bigl[4xe^{\frac{x}{4}}-\int 4e^{\frac{x}{4}}\,dx\Bigr]=\frac{3}{4}\Bigl[4xe^{\frac{x}{4}}-16e^{\frac{x}{4}}\Bigr]=3xe^{\frac{x}{4}}-12e^{\frac{x}{4}}+c$
+
+    Returning to the differential equation, we now have:
+
+    $e^{\frac{x}{4}}y=3xe^{\frac{x}{4}}-12e^{\frac{x}{4}}+c$
+
+    Substituting $y(2)=6$:
+
+    $e^{\frac{2}{4}}\times 6=6e^{\frac{2}{4}}-12e^{\frac{2}{4}}+c \Rightarrow c=12e^{\frac{1}{2}}$
+
+    $e^{\frac{x}{4}}y=3xe^{\frac{x}{4}}-12e^{\frac{x}{4}}+12e^{\frac{1}{2}}$
+
+    $y=3x-12+12e^{(\frac{1}{2}-\frac{x}{4})}$
+
+    \item 
+    $x\frac{dy}{dx}+y=1; x>0, y(1)=1$
+
+    Divide the equation by $x$ to get into standard form:
+
+    $\frac{dy}{dx}+\frac{y}{x}=\frac{1}{x}$
+
+    $p(x)=\frac{1}{x} \Rightarrow \mu=e^{\int \frac{1}{x}}\,dx=e^{\ln{x}}=x$
+
+    Multiply equation by $\mu$:
+
+    $x\frac{dy}{dx}+y=1$
+
+    The LHS is the same as $\frac{d}{dx}(xy)$ therefore we can rewrite the equation as:
+
+    $\frac{d}{dx}xy=1$
+
+    Integrate:
+
+    $\int \frac{d}{dx}xy=\int 1\,dx$
+
+    $xy=x+c$
+
+    Substitute $y(1)=1$:
+
+    $1=1+c \Rightarrow c=0$
+
+    $xy=x$
+
+    So the solution to the differential equation is $y=1$
+
+    \item 
+    $x\frac{dy}{dx}+5y=\frac{3}{x^5 \ln{(x)}}; x\geq e; y(e)=1$
+
+    Divide the equation by $x$ to get into standard form:
+
+    $\frac{dy}{dx}+\frac{5y}{x}=\frac{3}{x^6\ln{(x)}}$
+
+    $p(x)=\frac{5}{x} \Rightarrow \mu=e^{\int \frac{5}{x}\,dx}=e^{5\ln{(x)}}=e^{\ln{(x^5)}}=x^5$
+
+    $x^5\frac{dy}{dx}+5x^4y=\frac{3}{x\ln{(x)}}$
+
+    The LHS is the same as $\frac{d}{dx}(x^5y)$ so we can rewrite the equation:
+
+    $\frac{d}{dx}(x^5y)=\frac{3}{x\ln{(x)}}$
+
+    Integrating:
+
+    $\int \frac{d}{dx}(x^5y)=\int \frac{3}{x\ln{(x)}}\,dx$
+
+    We use integration by substitution for the RHS:
+
+    $u=\ln{(x)} \Rightarrow du=\frac{1}{x}dx$
+
+    $\int \frac{3}{u}\,du=3\ln{(u)}=3\ln{(\ln{(x)})}$
+
+    $x^5y=3\ln{(\ln{(x)})}+c$
+
+    Substituting in $y(e)=1$:
+
+    $e^5=3\ln{(\ln{(e)})}+c$
+
+    $e^5=3\ln{1}+c$
+
+    $c=e^5$
+
+    $x^5y=3\ln{(\ln{(x)})}+e^5$
+
+    $y=\frac{3\ln{(\ln{(x)})}+e^5}{x^5}$
+
+    \item 
+    $2\frac{dy}{dx}+4xy=(x+1)e^{2x}; y(e)=e$
+
+    Divide the equation by 2 to put it into standard form.
+
+    $\frac{dy}{dx}+2xy=\frac{(x+1)e^{2x}}{2}$
+
+    $p(x)=2x \Rightarrow \mu=e^{x^2}$
+
+    $e^{x^2}\frac{dy}{dx}+2e^{x^2}xy=\frac{(x+1)e^{x^2+2x}}{2}$
+
+    The LHS is the same as $\frac{d}{dx}\Bigl(e^{x^2}y\Bigr)$ so we can rewrite the equation:
+
+    $\frac{d}{dx}\Bigl(e^{x^2}y\Bigr)=\frac{(x+1)e^{x^2+2x}}{2}$
+
+    Integrate:
+
+    $\int \frac{d}{dx}\Bigl(e^{x^2}y\Bigr)=\int \frac{(x+1)e^{x^2+2x}}{2}\,dx$
+
+    Using a substitution of $u=e^{x^2+2x}$, $du=(2x+2)e^{x^2+2x}dx$. Therefore, $\frac{1}{4}du=\frac{(x+1)e^{x^2+2x}}{2}\,dx$
+
+    $\frac{1}{4}\int 1\,du=\frac{u}{4}$
+
+    Giving us: $e^{x^2}y=\frac{e^{x^2+2x}}{4}+c$
+
+    Substituting in $y(e)=e$:
+
+    $e^{e^2}e=\frac{e^{e^2+2e}}{4}+c$
+
+    $e^{e^2+1}=\frac{e^{e^2+2e}}{4}+c$
+
+    $c=\frac{4e^{e^2+1}-e^{e^2+2e}}{4}$
+
+    $e^{x^2}y=\frac{e^{x^2+2x}}{4}+\frac{4e^{e^2+1}-e^{e^2+2e}}{4}$
+
+    $y=\frac{e^{2x}}{4}+\frac{e^{e^2-x^2}(4e-e^{2e})}{4}$
+
+    \item 
+    $3\frac{dy}{dx}-3\sin{(2x)}y=e^{-\cos^2{(x)}}; y\Bigl(\frac{3\pi}{2}\Bigr)=\pi$
+
+    Divide by 3 to get the equation into standard form:
+
+    $\frac{dy}{dx}-\sin{(2x)}y=\frac{e^{-\cos^2{(x)}}}{3}$
+
+    $p(x)=-\sin{(2x)} \Rightarrow \mu=e^{\frac{\cos{(2x)}}{2}}$
+
+    $e^{\frac{\cos{(2x)}}{2}}\frac{dy}{dx}-e^{\frac{\cos{(2x)}}{2}}\sin{(2x)}y=\frac{e^{\frac{\cos{(2x)}}{2}-\cos^2{(x)}}}{3}$
+
+    The LHS is the same as $\frac{d}{dx}\Bigl(e^{\frac{\cos{(2x)}}{2}}y\Bigr)$ so we can rewrite the equation.
+
+    $\frac{d}{dx}\Bigl(e^{\frac{\cos{(2x)}}{2}}y\Bigr)=\frac{e^{\frac{\cos{(2x)}}{2}-\cos^2{(x)}}}{3}$
+
+    Before integrating, we can simplify the RHS a little bit. Using the Cosine Double Angle rule, we know $\cos^2{(x)}=\frac{\cos{(2x)}+1}{2}$. Therefore, the RHS will be $\frac{e^{\frac{\cos{(2x)}}{2}-(\frac{\cos{(2x)}+1}{2})}}{3}=\frac{e^{-\frac{1}{2}}}{3}$
+
+    Giving us:
+
+    $\frac{d}{dx}\Bigl(e^{\frac{\cos{(2x)}}{2}}y\Bigr)=\frac{e^{-\frac{1}{2}}}{3}$
+
+    Integrating:
+
+    $\int \frac{d}{dx}\Bigl(e^{\frac{\cos{(2x)}}{2}}y\Bigr)=\int \frac{e^{-\frac{1}{2}}}{3}\,dx$
+
+    $e^{\frac{\cos{(2x)}}{2}}y=\frac{e^{-\frac{1}{2}}x}{3}+c$
+    
+    Substituting $y(\frac{3\pi}{2})=\pi$, we get:
+
+    $e^{\frac{\cos{(3\pi)}}{2}}\pi=\frac{e^{-\frac{1}{2}}\times \frac{3\pi}{2}}{3}+c$
+
+    $\pi e^{-\frac{1}{2}}=\frac{\pi e^{-\frac{1}{2}}}{2}+c$
+
+    $c=\frac{\pi}{e^{\frac{1}{2}}}-\frac{\pi}{2e^{\frac{1}{2}}}=\frac{\pi}{2e^{\frac{1}{2}}}$
+
+    $e^{\frac{\cos{(2x)}}{2}}y=\frac{e^{-\frac{1}{2}}x}{3}+\frac{\pi}{2e^{\frac{1}{2}}}$
+
+    $e^{\frac{\cos{(2x)}}{2}}y=\frac{x}{3e^{\frac{1}{2}}}+\frac{\pi}{2e^{\frac{1}{2}}}$
+
+    $e^{\frac{\cos{(2x)}}{2}}y=\frac{2x+3\pi}{6e^{\frac{1}{2}}}$
+
+    $y=\frac{2x+3\pi}{6e^{\frac{1+\cos{(2x)}}{2}}}$
+
+    $y=\frac{2x+3\pi}{6e^{\cos^2{(x)}}}$
+
+\end{enumerate}
+
+
+
+
+
+\end{document}

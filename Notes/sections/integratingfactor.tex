@@ -1,0 +1,118 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Integrating factor method}
+Not every differential equation can be solved by separation of variables.
+
+When a differential equation is in the general form of $\frac{dy}{dx}+p(x)y=q(x)$, we can use a method called the integrating factor.
+
+The integrating factor is defined as $\mu=e^{\int p(x)\,dx}$
+
+We multiply both sides of the equation by this, to get:
+
+\[\mu \frac{dy}{dx}+\mu.p(x)y=\mu.q(x)\]
+
+\textit{Why do we do this?}
+
+This is helpful because if we consider the product $\mu y$, and look at the derivative:
+
+\[\frac{d}{dx}(\mu y)=\frac{d\mu}{dx}y+\mu\frac{dy}{dx}\]
+
+We can find $\frac{d\mu}{dx}$ from our earlier definition:
+
+\[\frac{d\mu}{dx}=\frac{d}{dx}\Bigl(e^{\int p(x)\,dx}\Bigr)\]
+
+By the Chain Rule we get:
+
+\[\frac{d\mu}{dx}=p(x).e^{\int p(x)\,dx}=\mu.p(x)\]
+
+All of this means that the left-hand side is now the same as the derivative of the integrating factor multiplied by $y$.
+
+i.e. $\frac{d}{dx}\Bigl(e^{\int p(x)}\,dx \times y\Bigr)=e^{\int p(x)\,dx}\frac{dy}{dx}+e^{\int p(x)\,dx}p(x)y=\mu \frac{dy}{dx}+\mu p(x)y$
+
+This means we can rewrite the equation as:
+
+\[\frac{d}{dx}\Bigl(\mu y\Bigr)=\mu.q(x)\]
+
+Which we can solve by direct integration.
+
+
+\pagebreak
+\subsection*{Example}
+Solve the differential equation $x\frac{dy}{dx}+3xy=xe^x$
+
+Start by dividing through by $x$ to put the equation into standard form.
+
+\[\frac{dy}{dx}+3y=e^x\]
+
+From this we identify that $p(x)=3$ and $q(x)=e^x$
+
+Next we define the integrating factor $\mu=e^{\int 3\,dx}=e^{3x}$
+
+Multiplying through by the integrating factor:
+
+\[e^{3x}\frac{dy}{dx}+3e^{3x}y=e^{3x}.e^x\]
+
+\[e^{3x}\frac{dy}{dx}+3e^{3x}y=e^{4x}\]
+
+Consider that $\frac{d}{dx}e^{3x}y=e^{3x}\frac{dy}{dx}+3e^{3x}y$ which is the same as the left side of the equation. We can rewrite the equation as:
+
+\[\frac{d}{dx}\Bigl(e^{3x}y\Bigr)=e^{4x}\]
+
+We can now integrate both sides and rearrange to solve:
+
+\[\int \frac{d}{dx}\Bigl(e^{3x}y\Bigr)=\int e^{4x}\,dx\]
+
+\[e^{3x}y=\frac{e^{4x}}{4}+c\]
+
+\[y=\frac{e^x}{4}+ce^{-3x}\]
+
+\pagebreak
+
+\subsection*{Questions}
+(Answers - {\pageref{Integrating factor answers}})
+\label{Integrating factor method}
+
+Use the integrating factor method to solve the differential equations. You can find the value of the constant by using the given coordinates.
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    $\frac{dy}{dx}+2y=4; y(0)=4$
+
+    \item 
+    $\frac{dy}{dx}+2y=e^{4x}; y(0)=4$
+
+    \item 
+    $\frac{dy}{dx}+y=e^{-x}; y(0)=1$
+
+    \item 
+    $\frac{dy}{dx}+2xy=x; y(1)=1$
+
+    \item 
+    $\frac{dy}{dx}+3x^2 y=e^{x-x^3}; y(0)=2$
+
+    \item 
+    $4\frac{dy}{dx}+y=3x; y(2)=6$
+
+    \item 
+    $x\frac{dy}{dx}+y=1; x>0, y(1)=1$
+
+    \item 
+    $x\frac{dy}{dx}+5y=\frac{3}{x^5 \ln{(x)}}; x\geq e; y(e)=1$
+
+    \item 
+    $2\frac{dy}{dx}+4xy=(x+1)e^{2x}; y(e)=e$
+
+    \item 
+    $3\frac{dy}{dx}-3\sin{(2x)}y=e^{-\cos^2{(x)}}; y\Bigl(\frac{3\pi}{2}\Bigr)=\pi$
+
+
+
+\end{enumerate}
+
+
+
+
+
+\end{document}

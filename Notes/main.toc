@@ -14,8 +14,9 @@
 \contentsline {section}{\numberline {14}The Camel Principle}{37}{}%
 \contentsline {section}{\numberline {15}Trig substitutions for integration}{39}{}%
 \contentsline {section}{\numberline {16}Parametric integration}{43}{}%
-\contentsline {section}{\numberline {17}Volumes of revolution}{46}{}%
-\contentsline {section}{\numberline {18}Arc length}{55}{}%
-\contentsline {section}{\numberline {19}Surface of revolution}{59}{}%
-\contentsline {section}{\numberline {20}Differential equations}{63}{}%
-\contentsline {section}{\numberline {21}Mixing problems}{65}{}%
+\contentsline {section}{\numberline {17}Integrating factor method}{46}{}%
+\contentsline {section}{\numberline {18}Volumes of revolution}{49}{}%
+\contentsline {section}{\numberline {19}Arc length}{58}{}%
+\contentsline {section}{\numberline {20}Surface of revolution}{62}{}%
+\contentsline {section}{\numberline {21}Differential equations}{66}{}%
+\contentsline {section}{\numberline {22}Mixing problems}{68}{}%
