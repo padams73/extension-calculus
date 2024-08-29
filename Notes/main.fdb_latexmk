@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1724879546.05016 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1724879551.10085 0
+["pdflatex"] 1724915269.52427 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1724915274.32666 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -156,9 +156,9 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1724879550 4470 9b7ec6800f7b3e82a0d652722fd3ce5d "pdflatex"
+  "main.aux" 1724915273 4470 9b7ec6800f7b3e82a0d652722fd3ce5d "pdflatex"
   "main.tex" 1724744406 2731 e1376e64e0904cdb1971e4f757556d35 ""
-  "main.toc" 1724879550 1543 85eae2ed8b1f9fa10647c0b15f49b31e "pdflatex"
+  "main.toc" 1724915273 1543 85eae2ed8b1f9fa10647c0b15f49b31e "pdflatex"
   "sections/arclength.tex" 1721684208 4778 f7b263e0c1be2cfab48e734c06d299ec ""
   "sections/binomialexpansion.tex" 1720067357 2139 46b389f5136d9e1e8bbd0c61a082175f ""
   "sections/camelprinciple.tex" 1720067900 1841 0fc21a05dede669265efa69b2b823b68 ""
@@ -169,7 +169,7 @@
   "sections/eulersformula.tex" 1722040736 2659 4660a8f16d7315a0dd7b9f5d11f9da6c ""
   "sections/exacttrigvalues.tex" 1722385977 3906 78c2922cd53fbb2aa28634e8164f862b ""
   "sections/implicitdifferentiation.tex" 1722220046 4187 0cb71274e228b0734c9c58d5516d37bd ""
-  "sections/integratingfactor.tex" 1724879506 3115 6de79a8703996a1be37a76ac4b4c7928 ""
+  "sections/integratingfactor.tex" 1724915259 3258 dd32ccb57aed500555895ccbbf5fe9c5 ""
   "sections/integrationbyparts.tex" 1720067789 2368 0e0780c4fdf6ebcc930748bed99e74f1 ""
   "sections/mixingproblems.tex" 1720819859 3513 4eaa26598a28143cb4d137f5e83780b4 ""
   "sections/parametricintegration.tex" 1723339826 3512 5b03180f1591a1a3e3572882fba4a96f ""

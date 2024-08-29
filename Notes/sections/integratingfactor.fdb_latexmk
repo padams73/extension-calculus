@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1724879507.61037 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/integratingfactor.tex" "sections/integratingfactor.pdf" "integratingfactor" 1724879509.07218 0
+["pdflatex"] 1724915261.22323 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/integratingfactor.tex" "sections/integratingfactor.pdf" "integratingfactor" 1724915262.77363 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -69,11 +69,11 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/integratingfactor.tex" 1724879506 3115 6de79a8703996a1be37a76ac4b4c7928 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/integratingfactor.tex" 1724915259 3258 dd32ccb57aed500555895ccbbf5fe9c5 ""
   "main.tex" 1724744406 2731 e1376e64e0904cdb1971e4f757556d35 ""
   "sections/../main.tex" 1724744406 2731 e1376e64e0904cdb1971e4f757556d35 ""
-  "sections/integratingfactor.aux" 1724879508 196 bc5b3999b0f8efc0ec6815c6d3411947 "pdflatex"
-  "sections/integratingfactor.tex" 1724879506 3115 6de79a8703996a1be37a76ac4b4c7928 ""
+  "sections/integratingfactor.aux" 1724915262 196 bc5b3999b0f8efc0ec6815c6d3411947 "pdflatex"
+  "sections/integratingfactor.tex" 1724915259 3258 dd32ccb57aed500555895ccbbf5fe9c5 ""
   (generated)
   "sections/integratingfactor.aux"
   "sections/integratingfactor.log"

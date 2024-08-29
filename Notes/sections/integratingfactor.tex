@@ -8,38 +8,40 @@ Not every differential equation can be solved by separation of variables.
 
 When a differential equation is in the general form of $\frac{dy}{dx}+p(x)y=q(x)$, we can use a method called the integrating factor.
 
-The integrating factor is defined as $\mu=e^{\int p(x)\,dx}$
-
-We multiply both sides of the equation by this, to get:
+The integrating factor is defined as $\mu$, and we multiply both sides of the equation by it, to get:
 
 \[\mu \frac{dy}{dx}+\mu.p(x)y=\mu.q(x)\]
 
-\textit{Why do we do this?}
+\textit{How do we calculate the integrating factor?}
 
-This is helpful because if we consider the product $\mu y$, and look at the derivative:
+From the Product Rule, we know $\frac{d}{dx}\Bigl(f(x).g(x)\Bigr)=f'(x)g(x)+f(x)g'(x)$
 
-\[\frac{d}{dx}(\mu y)=\frac{d\mu}{dx}y+\mu\frac{dy}{dx}\]
+Looking at the differential equation, the left-hand side has both $y$ and $\frac{dy}{dx}$, so if $\mu$ differentiates to $p(x)\mu$ we could rewrite the left side as $\frac{d}{dx}\mu y$. We can derive the integrating factor thus:
 
-We can find $\frac{d\mu}{dx}$ from our earlier definition:
+\[\frac{d\mu}{dx}=p(x)\mu\]
 
-\[\frac{d\mu}{dx}=\frac{d}{dx}\Bigl(e^{\int p(x)\,dx}\Bigr)\]
+\[\frac{1}{\mu}\,d\mu=p(x)\,dx\]
 
-By the Chain Rule we get:
+\[\ln{|\mu|}=\int p(x)\,dx\]
 
-\[\frac{d\mu}{dx}=p(x).e^{\int p(x)\,dx}=\mu.p(x)\]
+\[\mu=e^{\int p(x)\,dx}\]
 
-All of this means that the left-hand side is now the same as the derivative of the integrating factor multiplied by $y$.
+To confirm that this works, consider the derivative of $\mu y$:
 
-i.e. $\frac{d}{dx}\Bigl(e^{\int p(x)}\,dx \times y\Bigr)=e^{\int p(x)\,dx}\frac{dy}{dx}+e^{\int p(x)\,dx}p(x)y=\mu \frac{dy}{dx}+\mu p(x)y$
+\[\frac{d}{dx}(\mu y)=\frac{d}{dx}e^{\int p(x)\,dx}y\]
 
-This means we can rewrite the equation as:
+Using implicit differentiation and the Product Rule:
+
+\[\frac{d}{dx}e^{\int p(x)\,dx}y=e^{\int p(x)\,dx}\frac{dy}{dx}+e^{\int p(x)\,dx}p(x)y\]
+    
+This is the same as $\mu \frac{dy}{dx}+\mu p(x)y$
+
+Therefore, we can rewrite the equation as:
 
 \[\frac{d}{dx}\Bigl(\mu y\Bigr)=\mu.q(x)\]
 
 Which we can solve by direct integration.
 
-
-\pagebreak
 \subsection*{Example}
 Solve the differential equation $x\frac{dy}{dx}+3xy=xe^x$
 

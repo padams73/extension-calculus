@@ -112,10 +112,10 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbo
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
-OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\integratingfactor.pdf
-INPUT C:\Users\pad\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\integratingfactor.pdf
+INPUT C:\Users\pad\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\integratingfactor.aux
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
