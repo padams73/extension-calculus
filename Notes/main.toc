@@ -5,18 +5,19 @@
 \contentsline {section}{\numberline {5}Sum of roots of polynomials}{16}{}%
 \contentsline {section}{\numberline {6}Sum and difference of cubes}{18}{}%
 \contentsline {section}{\numberline {7}Combinations and permutations}{19}{}%
-\contentsline {section}{\numberline {8}Turning equations into quadratics}{21}{}%
-\contentsline {section}{\numberline {9}Endless sums}{23}{}%
-\contentsline {section}{\numberline {10}Telescoping Sums}{25}{}%
-\contentsline {section}{\numberline {11}Euler's Formula}{28}{}%
-\contentsline {section}{\numberline {12}Integration by parts}{30}{}%
-\contentsline {section}{\numberline {13}Integration by parts - DI Method}{33}{}%
-\contentsline {section}{\numberline {14}The Camel Principle}{37}{}%
-\contentsline {section}{\numberline {15}Trig substitutions for integration}{39}{}%
-\contentsline {section}{\numberline {16}Parametric integration}{43}{}%
-\contentsline {section}{\numberline {17}Integrating factor method}{46}{}%
-\contentsline {section}{\numberline {18}Volumes of revolution}{49}{}%
-\contentsline {section}{\numberline {19}Arc length}{58}{}%
-\contentsline {section}{\numberline {20}Surface of revolution}{62}{}%
-\contentsline {section}{\numberline {21}Differential equations}{66}{}%
-\contentsline {section}{\numberline {22}Mixing problems}{68}{}%
+\contentsline {section}{\numberline {8}Turning equations into quadratics}{22}{}%
+\contentsline {section}{\numberline {9}Endless sums}{24}{}%
+\contentsline {section}{\numberline {10}Telescoping Sums}{26}{}%
+\contentsline {section}{\numberline {11}Euler's Formula}{29}{}%
+\contentsline {section}{\numberline {12}Integration by parts}{31}{}%
+\contentsline {section}{\numberline {13}Integration by parts - DI Method}{34}{}%
+\contentsline {section}{\numberline {14}The Camel Principle}{38}{}%
+\contentsline {section}{\numberline {15}Trig substitutions for integration}{40}{}%
+\contentsline {section}{\numberline {16}Parametric integration}{44}{}%
+\contentsline {section}{\numberline {17}Volumes of revolution}{47}{}%
+\contentsline {section}{\numberline {18}Arc length}{56}{}%
+\contentsline {section}{\numberline {19}Surface of revolution}{60}{}%
+\contentsline {section}{\numberline {20}Differential equations}{64}{}%
+\contentsline {section}{\numberline {21}Integrating factor method}{66}{}%
+\contentsline {section}{\numberline {22}Mixing problems}{69}{}%
+\contentsline {section}{\numberline {23}Evaluating limits}{72}{}%

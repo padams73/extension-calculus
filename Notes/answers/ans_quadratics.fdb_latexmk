@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1720067659.17513 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_quadratics.tex" "answers/ans_quadratics.pdf" "ans_quadratics" 1720067660.37346 0
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1725684892.48463 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_quadratics.tex" "answers/ans_quadratics.pdf" "ans_quadratics" 1725684893.82755 0
+  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -64,11 +64,11 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "answers/../main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
-  "answers/ans_quadratics.aux" 1720067660 75 7594e80e7ad125c1ec8dd67dd8255ea8 "pdflatex"
+  "answers/../main.tex" 1724916537 2812 a404f72688e0ae9d79ef503d167872fe ""
+  "answers/ans_quadratics.aux" 1725684893 75 7594e80e7ad125c1ec8dd67dd8255ea8 "pdflatex"
   "answers/ans_quadratics.tex" 1720067656 2522 00fa261347665ddb9a404d097ad7a487 ""
   "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_quadratics.tex" 1720067656 2522 00fa261347665ddb9a404d097ad7a487 ""
-  "main.tex" 1719887187 1905 014c674bc1f6cb1684b77bd9ebb19bea ""
+  "main.tex" 1724916537 2812 a404f72688e0ae9d79ef503d167872fe ""
   (generated)
   "answers/ans_quadratics.aux"
   "answers/ans_quadratics.log"

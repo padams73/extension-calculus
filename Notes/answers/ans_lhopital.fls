@@ -1,7 +1,7 @@
 PWD c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes
 INPUT C:\Users\pad\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.tex
-OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.log
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_lhopital.tex
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_lhopital.log
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
@@ -74,10 +74,10 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.aux
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.aux
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.aux
-OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_lhopital.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_lhopital.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_lhopital.aux
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_lhopital.aux
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -111,108 +111,13 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT .\images\trigsuba1.png
-INPUT .\images\trigsuba1.png
-INPUT .\images\trigsuba1.png
-INPUT .\images\trigsuba1.png
-OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.pdf
-INPUT .\images\trigsuba1.png
-INPUT .\images\trigsuba1.png
-INPUT .\images\trigsuba1.png
-INPUT .\images\trigsuba2.png
-INPUT .\images\trigsuba2.png
-INPUT .\images\trigsuba2.png
-INPUT .\images\trigsuba2.png
-INPUT .\images\trigsuba2.png
-INPUT .\images\trigsuba2.png
-INPUT .\images\trigsuba2.png
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_lhopital.pdf
 INPUT C:\Users\pad\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\images\trigsuba3.png
-INPUT .\images\trigsuba3.png
-INPUT .\images\trigsuba3.png
-INPUT .\images\trigsuba3.png
-INPUT .\images\trigsuba3.png
-INPUT .\images\trigsuba3.png
-INPUT .\images\trigsuba3.png
-INPUT .\images\trigsuba4.png
-INPUT .\images\trigsuba4.png
-INPUT .\images\trigsuba4.png
-INPUT .\images\trigsuba4.png
-INPUT .\images\trigsuba4.png
-INPUT .\images\trigsuba4.png
-INPUT .\images\trigsuba4.png
-INPUT .\images\trigsuba5.png
-INPUT .\images\trigsuba5.png
-INPUT .\images\trigsuba5.png
-INPUT .\images\trigsuba5.png
-INPUT .\images\trigsuba5.png
-INPUT .\images\trigsuba5.png
-INPUT .\images\trigsuba5.png
-INPUT .\images\trigsuba6.png
-INPUT .\images\trigsuba6.png
-INPUT .\images\trigsuba6.png
-INPUT .\images\trigsuba6.png
-INPUT .\images\trigsuba6.png
-INPUT .\images\trigsuba6.png
-INPUT .\images\trigsuba6.png
-INPUT .\images\trigsuba7.png
-INPUT .\images\trigsuba7.png
-INPUT .\images\trigsuba7.png
-INPUT .\images\trigsuba7.png
-INPUT .\images\trigsuba7.png
-INPUT .\images\trigsuba7.png
-INPUT .\images\trigsuba7.png
-INPUT .\images\trigsuba8.png
-INPUT .\images\trigsuba8.png
-INPUT .\images\trigsuba8.png
-INPUT .\images\trigsuba8.png
-INPUT .\images\trigsuba8.png
-INPUT .\images\trigsuba8.png
-INPUT .\images\trigsuba8.png
-INPUT .\images\trigsuba9.png
-INPUT .\images\trigsuba9.png
-INPUT .\images\trigsuba9.png
-INPUT .\images\trigsuba9.png
-INPUT .\images\trigsuba9.png
-INPUT .\images\trigsuba9.png
-INPUT .\images\trigsuba9.png
-INPUT .\images\trigsuba10.png
-INPUT .\images\trigsuba10.png
-INPUT .\images\trigsuba10.png
-INPUT .\images\trigsuba10.png
-INPUT .\images\trigsuba10.png
-INPUT .\images\trigsuba10.png
-INPUT .\images\trigsuba10.png
-INPUT .\images\trigsub10a.png
-INPUT .\images\trigsub10a.png
-INPUT .\images\trigsub10a.png
-INPUT .\images\trigsub10a.png
-INPUT .\images\trigsub10a.png
-INPUT .\images\trigsub10a.png
-INPUT .\images\trigsub10a.png
-INPUT .\images\trigsuba11.png
-INPUT .\images\trigsuba11.png
-INPUT .\images\trigsuba11.png
-INPUT .\images\trigsuba11.png
-INPUT .\images\trigsuba11.png
-INPUT .\images\trigsuba11.png
-INPUT .\images\trigsuba11.png
-INPUT .\images\trigsuba12.png
-INPUT .\images\trigsuba12.png
-INPUT .\images\trigsuba12.png
-INPUT .\images\trigsuba12.png
-INPUT .\images\trigsuba12.png
-INPUT .\images\trigsuba12.png
-INPUT .\images\trigsuba12.png
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_trigsubs.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_lhopital.aux
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
@@ -223,7 +128,5 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb

@@ -348,6 +348,28 @@
 
     \(\int \frac{(x^2-1)^{\frac{3}{2}}}{x}\,dx=\frac{(x^2-1)^{\frac{3}{2}}}{3}-\sqrt{x^2-1}+\cos^{-1}{(\frac{1}{x})}+c\)
 
+    \item
+    $\int \frac{1}{\sqrt{e^{2x}-1}}\,dx$
+    \begin{figure}[h]
+        \includegraphics{images/trigsub10a.png}
+    \end{figure}
+
+    \(\cos{\theta}=\frac{1}{e^x}\)
+
+    \(e^x=\sec{\theta}\)
+
+    \(e^x\,dx=\sec{\theta}\tan{\theta}\,d\theta\)
+
+    \(dx=\frac{\sec{\theta}\tan{\theta}}{e^x}\,d\theta\)
+
+    \(dx=\tan{\theta}\,d\theta\)
+
+    Rewriting the integral in terms of $\theta$:
+
+    \(\int \frac{1}{\tan{\theta}}\times \tan{\theta}\,d\theta=\int 1\,d\theta=\theta+c\)
+
+    Substituting back in, $\int \frac{1}{\sqrt{e^{2x}-1}}\,dx=\tan^{-1}{\sqrt{e^{2x}-1}}+c$
+
     \item 
     \(\int \cos{x}\sqrt{9+25\sin^2{x}}\,dx\)
     \begin{figure}[h]
