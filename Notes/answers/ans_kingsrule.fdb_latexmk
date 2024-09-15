@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726298754.305 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/kingsrule.tex" "sections/kingsrule.pdf" "kingsrule" 1726298756.0059 0
+["pdflatex"] 1726366391.97725 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_kingsrule.tex" "answers/ans_kingsrule.pdf" "ans_kingsrule" 1726366393.32518 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -14,7 +14,6 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
-  "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -67,17 +66,14 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/kingsrule.tex" 1726298752 4644 62518999eebf62c73c07a8ccfed24f5e ""
-  "images/kingsrule1.png" 1726267397 9815 17196f3383469841feaded00d851451b ""
-  "images/kingsrule2.png" 1726267411 9623 56bfb4c2931e8f565273bbc911221a4a ""
-  "images/kingsrule3.png" 1726267428 11082 48a724e544ac0dce54b1532d8a5bb276 ""
-  "images/kingsrule4.png" 1726268917 17243 c4fafc0aac3a9a0a9465e4de105ae1cd ""
+  "answers/../main.tex" 1726267932 2895 2d1b1033d69aa8071f1d901441c2668a ""
+  "answers/ans_kingsrule.aux" 1726366393 75 875658f579eb4cabe555e1b8dc082ebb "pdflatex"
+  "answers/ans_kingsrule.tex" 1726366390 5339 f02577ece4dd7835ff4b40c51a96aac1 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_kingsrule.tex" 1726366390 5339 f02577ece4dd7835ff4b40c51a96aac1 ""
+  "images/trigsuba8.png" 1718948169 1687 3e794b4385572f33861b8972becb3055 ""
   "main.tex" 1726267932 2895 2d1b1033d69aa8071f1d901441c2668a ""
-  "sections/../main.tex" 1726267932 2895 2d1b1033d69aa8071f1d901441c2668a ""
-  "sections/kingsrule.aux" 1726298755 301 3294202b65ea5aca2ed97cc05b233996 "pdflatex"
-  "sections/kingsrule.tex" 1726298752 4644 62518999eebf62c73c07a8ccfed24f5e ""
   (generated)
-  "sections/kingsrule.aux"
-  "sections/kingsrule.log"
-  "sections/kingsrule.pdf"
+  "answers/ans_kingsrule.aux"
+  "answers/ans_kingsrule.log"
+  "answers/ans_kingsrule.pdf"
   (rewritten before read)

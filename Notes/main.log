@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  14 SEP 2024 13:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  15 SEP 2024 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -927,70 +927,75 @@ Package pdftex.def Info: images/trigsuba12.png  used on input line 435.
 
 
 [120 <./images/trigsuba12.png>]) (answers/ans_kingsrule.tex
+File: images/trigsuba8.png Graphic file (type png)
+<use images/trigsuba8.png>
+Package pdftex.def Info: images/trigsuba8.png  used on input line 48.
+(pdftex.def)             Requested size: 63.23608pt x 48.17986pt.
 
-[121]) (answers/ans_parametricintegration.tex
+
+[121]
 
 [122]
-<images/parametricintegration3.png, id=527, 120.95187pt x 111.41624pt>
+
+[123]) (answers/ans_parametricintegration.tex
+
+[124]
+<images/parametricintegration3.png, id=533, 120.95187pt x 111.41624pt>
 File: images/parametricintegration3.png Graphic file (type png)
 <use images/parametricintegration3.png>
 Package pdftex.def Info: images/parametricintegration3.png  used on input line 108.
 (pdftex.def)             Requested size: 70.46037pt x 64.90707pt.
 
 
-[123]
+[125]
 
-[124 <./images/parametricintegration3.png>])
+[126 <./images/parametricintegration3.png>])
 
-[125] (answers/ans_volumesofrevolution.tex
-
-[126]
-
-[127]
+[127] (answers/ans_volumesofrevolution.tex
 
 [128]
-<images/volrev20.png, id=548, 144.54pt x 60.225pt>
+
+[129]
+
+[130]
+<images/volrev20.png, id=554, 144.54pt x 60.225pt>
 File: images/volrev20.png Graphic file (type png)
 <use images/volrev20.png>
 Package pdftex.def Info: images/volrev20.png  used on input line 176.
 (pdftex.def)             Requested size: 144.53963pt x 60.22484pt.
 
 
-[129 <./images/volrev20.png>]) (answers/ans_arclength.tex
+[131 <./images/volrev20.png>]) (answers/ans_arclength.tex
 
-[130]
+[132]
 
-[131])
+[133])
 
-[132] (answers/ans_surfaceofrevolution.tex
+[134] (answers/ans_surfaceofrevolution.tex
 
-[133]
-
-[134]
-
-[135]) (answers/ans_differentialequations.tex
+[135]
 
 [136]
 
-[137]
+[137]) (answers/ans_differentialequations.tex
 
 [138]
 
 [139]
-<images/diffeqns.png, id=585, 81.30376pt x 70.01157pt>
+
+[140]
+
+[141]
+<images/diffeqns.png, id=591, 81.30376pt x 70.01157pt>
 File: images/diffeqns.png Graphic file (type png)
 <use images/diffeqns.png>
 Package pdftex.def Info: images/diffeqns.png  used on input line 264.
 (pdftex.def)             Requested size: 81.30354pt x 70.01138pt.
 
 
-[140 <./images/diffeqns.png>])
+[142 <./images/diffeqns.png>])
 
-[141] (answers/ans_integratingfactor.tex
-
-[142]
-
-[143]
+[143] (answers/ans_integratingfactor.tex
 
 [144]
 
@@ -998,17 +1003,21 @@ Package pdftex.def Info: images/diffeqns.png  used on input line 264.
 
 [146]
 
-[147])
+[147]
 
-[148] (answers/ans_mixingproblems.tex
+[148]
 
 [149])
 
-[150] (answers/ans_lhopital.tex
+[150] (answers/ans_mixingproblems.tex
 
 [151])
 
-[152] (main.aux)
+[152] (answers/ans_lhopital.tex
+
+[153])
+
+[154] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -1023,9 +1032,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,15n,65p,1288b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (152 pages, 1454871 bytes).
+Output written on main.pdf (154 pages, 1463855 bytes).
 PDF statistics:
- 704 PDF objects out of 1000 (max. 8388607)
+ 710 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  321 words of extra memory for PDF output out of 10000 (max. 10000000)
 

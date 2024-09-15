@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  6 AUG 2024 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  14 SEP 2024 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -254,7 +254,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-LaTeX Warning: Reference `Sum of roots' on page 1 undefined on input line 4.
+LaTeX Warning: Reference `parametric integration' on page 1 undefined on input line 4.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -291,7 +291,7 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  4682 strings out of 473919
- 73217 string characters out of 5727897
+ 73227 string characters out of 5727897
  1940908 words of memory out of 5000000
  27474 multiletter control sequences out of 15000+600000
  563319 words of font info for 56 fonts, out of 8000000 for 9000

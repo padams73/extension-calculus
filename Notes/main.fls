@@ -790,6 +790,10 @@ INPUT answers\ans_kingsrule.tex
 INPUT .\answers\ans_kingsrule.tex
 INPUT .\answers\ans_kingsrule.tex
 INPUT answers\ans_kingsrule.tex
+INPUT .\images\trigsuba8.png
+INPUT .\images\trigsuba8.png
+INPUT images\trigsuba8.png
+INPUT .\images\trigsuba8.png
 INPUT .\answers\ans_parametricintegration.tex
 INPUT .\answers\ans_parametricintegration.tex
 INPUT answers\ans_parametricintegration.tex
