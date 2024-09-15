@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1720819858.29929 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/mixingproblems.tex" "sections/mixingproblems.pdf" "mixingproblems" 1720819859.96187 0
-  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1719174748 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1726366593.94491 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/mixingproblems.tex" "sections/mixingproblems.pdf" "mixingproblems" 1726366595.27488 0
+  "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -68,9 +68,9 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/mixingproblems.tex" 1720819859 3513 4eaa26598a28143cb4d137f5e83780b4 ""
-  "main.tex" 1720818966 2037 c9692aeff8fa9353f4a290fa22fa7df3 ""
-  "sections/../main.tex" 1720818966 2037 c9692aeff8fa9353f4a290fa22fa7df3 ""
-  "sections/mixingproblems.aux" 1720819859 176 a4162d6ad521e717c2e329b9b654bfd3 "pdflatex"
+  "main.tex" 1726267932 2895 2d1b1033d69aa8071f1d901441c2668a ""
+  "sections/../main.tex" 1726267932 2895 2d1b1033d69aa8071f1d901441c2668a ""
+  "sections/mixingproblems.aux" 1726366594 176 a4162d6ad521e717c2e329b9b654bfd3 "pdflatex"
   "sections/mixingproblems.tex" 1720819859 3513 4eaa26598a28143cb4d137f5e83780b4 ""
   (generated)
   "sections/mixingproblems.aux"

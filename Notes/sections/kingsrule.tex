@@ -4,9 +4,9 @@
 
 
 \section{King's rule for integration}
-The King's rule for integration takes advantage of the fact that area is invariant under reflection and translation. By applying it we can solve many difficult integrals.
+The King rule for integration takes advantage of the fact that area is invariant under reflection and translation. By applying it we can solve many difficult integrals.
 
-The King's rule can be written as:
+The King rule can be written as:
 \begin{equation}\label{kings1}
     \int_{a}^{b} f(x)\,dx = \int_{a}^{b} f(a+b-x)\, dx
 \end{equation}
@@ -21,7 +21,7 @@ To see where (\ref{kings1}) comes from, consider the definite integral:
 
 \begin{figure}[h]
     \centering
-    \includegraphics{images/kingsrule1.png}
+    \includegraphics[width=0.4\linewidth]{images/kingsrule1.png}
 \end{figure}
 
 Firstly, let's reflect this over the y-axis. To do this, we replace {x} with {-x}, making the function $f(-x)$. Because the function is reflected in the y-axis, the upper and lower bounds on the definite integral change too. This gives us a new definite integral of:
@@ -29,7 +29,7 @@ Firstly, let's reflect this over the y-axis. To do this, we replace {x} with {-x
 
 \begin{figure}[h]
     \centering
-    \includegraphics{images/kingsrule2.png}
+    \includegraphics[width=0.4\linewidth]{images/kingsrule2.png}
 \end{figure}
 
 Next, we translate the region $a+b$ units to the right. To do this, we replace $x$ with $x-(a+b)$, making the function $f(-(x-(a+b)))$. If simplify this, the function becomes $f(a+b-x)$.
@@ -41,24 +41,24 @@ This gives us a definite integral of:
 
 \begin{figure}[h]
     \centering
-    \includegraphics{images/kingsrule3.png}
+    \includegraphics[width=0.4\linewidth]{images/kingsrule3.png}
 \end{figure}
 
 Since we have only reflected and translated, we know that the area of the region has not changed. In fact, we can see that the two areas will overlap with a vertical axis of symmetry at the midpoint between $a$ and $b$.
 
 \begin{figure}[h]
     \centering
-    \includegraphics{images/kingsrule4.png}
+    \includegraphics[width=0.4\linewidth]{images/kingsrule4.png}
 \end{figure}
 
-The second way we can apply the King's rule (in (\ref{kings2}) above), can be derived by splitting the original integral into two even halves and rewriting one:
+The second way we can apply the King rule (in (\ref{kings2}) above), can be derived by splitting the original integral into two even halves and rewriting one:
 \begin{align*}
     \int_{a}^{b} f(x)\,dx &= \frac{1}{2}\int_{a}^{b} f(x)\,dx + \frac{1}{2}\int_{a}^{b} f(x)\,dx \\
     &=\frac{1}{2}\int_{a}^{b} f(x)\,dx + \frac{1}{2}\int_{a}^{b} f(a+b-x)\, dx \\
     &= \frac{1}{2}\int_{a}^{b} \Bigl[f(x) + f(a+b-x)\Bigl]\, dx
 \end{align*}
 
-So why is the King's rule useful? 
+So why is the King rule useful? 
 
 Remember the following two identities based on the fact that cosine is the complement of sine:
 \begin{align*}
@@ -98,7 +98,7 @@ However, by using the second application of the King's rule the integral would g
 \label{Kings rule}
 (Answers - page {\pageref{Kings rule answers}})
 
-Use the King's Rule to evaluate the following definite integrals:
+Use the King Rule to evaluate the following definite integrals:
 
 \begin{enumerate}[itemsep=0.7cm]
     \item 

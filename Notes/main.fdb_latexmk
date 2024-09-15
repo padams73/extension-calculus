@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726366395.90718 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1726366400.46695 0
+["pdflatex"] 1726366699.98895 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1726366704.70995 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -163,9 +163,9 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1726366399 4983 475c219e2e0bd0b3e48e53753d1ffa83 "pdflatex"
+  "main.aux" 1726366704 4983 475c219e2e0bd0b3e48e53753d1ffa83 "pdflatex"
   "main.tex" 1726267932 2895 2d1b1033d69aa8071f1d901441c2668a ""
-  "main.toc" 1726366399 1685 46655d1a5e38cb6e528bf1994cd91ca5 "pdflatex"
+  "main.toc" 1726366704 1685 46655d1a5e38cb6e528bf1994cd91ca5 "pdflatex"
   "sections/arclength.tex" 1721684208 4778 f7b263e0c1be2cfab48e734c06d299ec ""
   "sections/binomialexpansion.tex" 1720067357 2139 46b389f5136d9e1e8bbd0c61a082175f ""
   "sections/camelprinciple.tex" 1720067900 1841 0fc21a05dede669265efa69b2b823b68 ""
@@ -178,7 +178,7 @@
   "sections/implicitdifferentiation.tex" 1722220046 4187 0cb71274e228b0734c9c58d5516d37bd ""
   "sections/integratingfactor.tex" 1724915259 3258 dd32ccb57aed500555895ccbbf5fe9c5 ""
   "sections/integrationbyparts.tex" 1720067789 2368 0e0780c4fdf6ebcc930748bed99e74f1 ""
-  "sections/kingsrule.tex" 1726298752 4644 62518999eebf62c73c07a8ccfed24f5e ""
+  "sections/kingsrule.tex" 1726366695 4718 bbfb050e5c33ae9a8ecdd836d344e6ff ""
   "sections/lhopital.tex" 1725677050 4272 84344c8f7dbb4d0861731c09dab77e25 ""
   "sections/mixingproblems.tex" 1720819859 3513 4eaa26598a28143cb4d137f5e83780b4 ""
   "sections/parametricintegration.tex" 1723339826 3512 5b03180f1591a1a3e3572882fba4a96f ""
