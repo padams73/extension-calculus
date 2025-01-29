@@ -128,6 +128,44 @@
     r=6; &n=\frac{15 \pm \sqrt{169}}{2}=\frac{15\pm 13}{2}=1,14
     \end{aligned}
     $
+
+    \item
+    \(k\frac{n!}{k!(n-k)!}=n\frac{(n-1)!}{(k-1)!((n-1)-(k-1))!} \)
+
+    Note the following:
+
+    \(n \times (n-1)! = n!\)
+
+    \(k! = k \times (k-1)! \)
+
+    Which means we can simplify the equation as follows:
+
+    \(k\frac{n!}{k(k-1)!(n-k)!}=\frac{n!}{(k-1)!(n-k)!} \)
+
+    \(k\frac{n!}{k(k-1)!(n-k)!}=\frac{n!}{(k-1)!(n-k)!} \)
+
+    \(\frac{n!}{(k-1)!(n-k)!}=\frac{n!}{(k-1)!(n-k)!} \)
+
+    \item 
+    Firstly, note that from Pascal's Triangle, the sum of the numbers in the $n^{th}$ row is $2^n$.
+
+    This means that $2^n = \bigl(^n_0\bigr)+\bigl(^n_1\bigr)+\bigl(^n_2\bigr)+\dots+\bigl(^n_n\bigr)$
+
+    This means the $2^{n+1}$ term can be written as $\bigl(^{n+1}_0\bigr)+\bigl(^{n+1}_1\bigr)+\bigl(^{n+1}_2\bigr)+\dots+\bigl(^{n+1}_n\bigr)+\bigl(^{n+1}_{n+1}\bigr)$
+
+    Since $\bigl(^{n+1}_0\bigr)=1$, we can write $2^{n+1}-1=\bigl(^{n+1}_1\bigr)+\bigl(^{n+1}_2\bigr)+\dots+\bigl(^{n+1}_n\bigr)+\bigl(^{n+1}_{n+1}\bigr)$
+
+    The left-hand side of the equation refers to the $n^{th}$ row of Pascal's Triangle whereas the right-hand side refers to the $(n+1)^{th}$ row. We can now use the proof from the previous question to rewrite the RHS in terms of the $n^{th}$ row.
+
+    We know that \(k\bigl(^n_k\bigr)=n\bigl(^{n-1}_{k-1}\bigr) \)
+
+    This can be rearranged to \(\bigl(^n_k\bigr)=\frac{n}{k}\bigl(^{n-1}_{k-1}\bigr) \), and since we want to link rows $n$ and $n+1$ we rewrite it as \(\bigl(^{n+1}_{k}\bigr)=\frac{n+1}{k}\bigl(^{n}_{k-1}\bigr) \)
+
+    Now, each term in the expansion of $2^{n+1}-1$ can be rewritten in terms of row $n$:
+
+    \(\frac{n+1}{1}\bigl(^n_0\bigr)+\frac{n+1}{2}\bigl(^n_1\bigr)+\frac{n+1}{3}\bigl(^n_2\bigr)+\dots+\frac{n+1}{n}\bigl(^n_{n-1}\bigr)+\frac{n+1}{n+1}\bigl(^n_n\bigr)\)
+
+    Returning to the original RHS, \(\frac{2^{n+1}-1}{n+1}\), we can divide out the $n+1$, giving us \(\bigl(^n_0\bigr)+\frac{1}{2}\bigl(^n_1\bigr)+\frac{1}{3}\bigl(^n_2\bigr)+\dots+\frac{1}{n}\bigl(^n_{n-1}\bigr)+\frac{1}{n+1}\bigl(^n_n\bigr)=LHS\)
 \end{enumerate}
 
 \end{document}

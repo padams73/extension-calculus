@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {13}Integration by parts - DI Method}{35}{}%
 \contentsline {section}{\numberline {14}The Camel Principle}{39}{}%
 \contentsline {section}{\numberline {15}Trig substitutions for integration}{41}{}%
-\contentsline {section}{\numberline {16}King's rule for integration}{45}{}%
+\contentsline {section}{\numberline {16}King rule for integration}{45}{}%
 \contentsline {section}{\numberline {17}Parametric integration}{49}{}%
 \contentsline {section}{\numberline {18}Volumes of revolution}{52}{}%
 \contentsline {section}{\numberline {19}Arc length}{61}{}%
