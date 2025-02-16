@@ -1,0 +1,110 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Differential equations}
+
+\subsection*{Questions}
+(Answers - {\pageref{Differential equations answers}})
+\label{Differential equations}
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    The population of a herd of zebra, $P$ thousands, in time $t$ years is thought to be governed by the differential equation:
+
+    \[\frac{dP}{dt}=\frac{1}{20}P(2P-1)\cos{t}\]
+
+    It is assumed that since $P$ is large it can be modelled as a continuous variable, and its
+    initial value is 8.
+
+    \begin{enumerate}[itemsep=0.5cm]
+        \item   
+        Solve the differential equation to show that 
+        \[P=\frac{8}{16-15e^{\frac{1}{20}\sin{t}}}\]
+
+       \item 
+       Find the maximum and minimum population of the herd.
+
+    \end{enumerate}
+
+    \item
+    Cars are attached to a giant wheel on a fairground ride, and they can be made to lower or rise in height as the wheel is turning around.
+
+    Let the height above ground of one such car be $h$ metres, and let $t$ be the time in seconds, since the ride starts.
+
+    It may be assumed that $h$ satisfies the differential equation:
+    \[\frac{dh}{dt}=\frac{3}{2}\sqrt{h}\sin{\Bigl(\frac{3t}{4}\Bigr)}\]
+
+    \begin{enumerate}[itemsep=0.5cm]
+        \item
+        Solve the differential equation to the condition $t=0$, $h=1$, to show:
+        \[\sqrt{h}=2-\cos{\Bigl(\frac{3t}{4}\Bigr)}\]
+
+        \item
+        Find the greatest height of the car above the ground.
+
+        \item
+        Find the value of $t$ when the car reaches a height of 8m above the ground \textit{for the third time} since the ride started.
+    \end{enumerate}
+
+    \item
+    An object is moving in such a way so that its coordinates relative to a fixed origin $O$ are given by:
+
+    \[x=4\cos{(t)}-3\sin{(t)}+1\]
+    \[y=3\cos{(t)}+4\sin{(t)}-1\]
+
+    Where $t$ is time in seconds.
+
+    Initially the object was at the point with coordinates $(5,2)$.
+
+    \begin{enumerate}[itemsep=0.5cm]
+        \item
+        Show that the motion of the particle is governed by the differential equation:
+        \[\frac{dy}{dx}=\frac{1-x}{1+y}\]
+
+        \item 
+        Find, in exact form, the possible values of the $y$ coordinate of the object when its $x$ coordinate is 2.
+    \end{enumerate}
+
+    \item 
+    A shop stays open for 8 hours every Sunday and its sales, \$$x$, $t$ hours after the shop opens are modelled as follows.
+
+    The rate at which the sales are made, is directly proportional to the time left until the shop closes and inversely proportional to the sales already made until that time.
+
+    Two hours after the shop opens it has made sales of \$336 and sales are made at the rate of \$72/hour.
+
+    \begin{enumerate}[itemsep=0.5cm]
+        \item 
+        Show clearly that:
+        \[x\frac{dx}{dt}=4032(8-t)\]
+
+        \item 
+        Solve the differential equation to show:
+        \[x^2=4032t(16-t)\]
+
+        \item 
+        Find, to the nearest \$, the Sunday sales of the shop according to this model.
+
+        \item
+        The shop opens at 9am. The shop owner knows that the shop is not profitable once the rate at which is makes sales drops under \$24 per hour.
+
+        By squaring the differential equation of part (a), find to the nearest minute what time the shop should close on Sundays.
+    \end{enumerate}
+
+    \item 
+    A large water tank is in the shape of a cuboid with a rectangular base measuring 10m by 5m, and a height of 5m.
+
+    Let $h$m be the height of the water in the tank and $t$ the time in hours.
+    
+    At a certain instant, water begins to pour into the tank at the constant rate of 50$m^3$ per hour and at the same time water begins to drain from a tap at the bottom of the tank at the rate of 10$h$ $m^3$ per hour.
+    
+    Show that it takes $5\ln{3}$ hours for the height of the water to rise from 2m to 4m.
+
+
+\end{enumerate}
+
+
+
+
+
+\end{document}

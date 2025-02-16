@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1738105806.37717 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1738105810.47127 0
+["pdflatex"] 1739143687.86616 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1739143693.69817 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -163,11 +163,11 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1738105809 4977 0267881bff7b62756b2e25b83d675c6d "pdflatex"
+  "main.aux" 1739143692 4977 0267881bff7b62756b2e25b83d675c6d "pdflatex"
   "main.tex" 1726267932 2895 2d1b1033d69aa8071f1d901441c2668a ""
-  "main.toc" 1738105809 1683 da5bea6c77a84718a515c271704d707b "pdflatex"
+  "main.toc" 1739143692 1683 da5bea6c77a84718a515c271704d707b "pdflatex"
   "sections/arclength.tex" 1721684208 4778 f7b263e0c1be2cfab48e734c06d299ec ""
-  "sections/binomialexpansion.tex" 1720067357 2139 46b389f5136d9e1e8bbd0c61a082175f ""
+  "sections/binomialexpansion.tex" 1739143683 2719 a7c2a97f84f053508f71f4b11141e4e7 ""
   "sections/camelprinciple.tex" 1720067900 1841 0fc21a05dede669265efa69b2b823b68 ""
   "sections/combinations.tex" 1738103715 4544 9598dae990262fb351aedba5074a1df1 ""
   "sections/differentialequations.tex" 1731560813 4033 c023957d4227b594e83289bed6ef58e4 ""

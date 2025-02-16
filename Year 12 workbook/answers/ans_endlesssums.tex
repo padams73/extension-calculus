@@ -1,0 +1,112 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\subsection*{Answers - Endless sums (page \pageref{Endless sums})}
+\label{Endless sums answers}
+\begin{enumerate}[itemsep=1cm]
+    \item 
+    Set $y=2\sqrt{2+y}$ so the expression is $2+y$
+
+    Now we can solve for $y$:
+
+    $y^2=4(2+y)=8+4y$
+
+    $y^2-4y-8=0$
+
+    $y=\frac{4 \pm \sqrt{48}}{2}=\frac{4\pm 4\sqrt{3}}{2}=2\pm 2\sqrt{3}$
+
+    Since we know the sum is clearly positive, $y=2+2\sqrt{3}$, meaning the value of the expression is $4+2\sqrt{3}$
+
+    \item 
+    Set $y=\frac{13}{5\sqrt{3}}\sqrt{4+y}$ so we just need to find the value of $y$.
+
+    $y^2=\frac{169}{75}(4+y)$
+
+    $y^2=\frac{169y}{75}+\frac{676}{75}$
+
+    $75y^2-169y-676=0$
+
+    $y=\frac{169\pm 481}{150}=\frac{650}{150}, \frac{-312}{150}$
+
+    Since the sum is clearly positive, we know that it value is $\frac{650}{150}=\frac{13}{3}$
+    
+    \item
+    Start by setting $y=\sqrt{6+y}$ and $z=\sqrt{90+z}$.
+
+    Now we can solve for each and then use these values to solve the original quadratic.
+
+    $y^2=6+y$
+
+    $y^2-y-6=0$
+
+    $y=3, -2$
+
+    Note: since the series is clearly positive, $y=3$.
+
+    $z^2=90+z$
+
+    $z^2-z-90=0$
+
+    $z=10, -9$
+
+    Again, since the series is clearly positive, $z=10$
+
+    Now we can rewrite the original quadratic as:
+
+    $x^2-3x-10=0$
+
+    $x=5, -2$
+
+
+    \item 
+    Start by setting $y=\sqrt{20+y}$ and $z=\sqrt{30+z}$.
+
+    Now we can solve for each and then use these values to solve the original quadratic.
+
+    $y^2=20+y$
+
+    $y^2-y-20=0$
+
+    $y=5, -4$
+
+    Since the series is clearly positive, $y=5$
+
+    $z^2=30+z$
+
+    $z^2-z-30=0$
+
+    $z=6, -5$
+
+    Again, since the series is clearly positive, $z=6$
+
+    Now we can rewrite the original quadratic as:
+
+    $x^2-5x-6=0$
+
+    $x=6, -1$
+
+    \item 
+    Every term from the second onwards has a common factor of $\frac{1}{\sqrt{2}}$. Factorising this out, we get:
+
+    $1+\frac{1}{\sqrt{2}}\Bigl(1+\frac{1}{\sqrt{4}}+\frac{1}{\sqrt{16}}+\frac{1}{\sqrt{64}}\Bigr)=1+\frac{1}{\sqrt{2}}\Bigl(1+\frac{1}{2}+\frac{1}{4}+\frac{1}{8}+\dots\Bigr)$
+
+    We know that the infinite sum of $1+\frac{1}{2}+\frac{1}{4}+\frac{1}{8}+\dots=2$
+
+    (This is from the formula for the sum to infinity of a geometric sequence with first term 1 and a common ratio of $\frac{1}{2} : S_\infty=\frac{1}{1-\frac{1}{2}}=2$)
+
+    Therefore, the value of the series is $1+\frac{2}{\sqrt{2}}$
+
+    \item 
+    Set $y=1+\frac{1}{y}$
+
+    $y^2=y+1$
+    
+    $y^2-y-1=0$
+
+    $y=\frac{1\pm \sqrt{5}}{2}$
+
+    Since the expression is clearly positive, the value is $\frac{1+\sqrt{5}}{2}$
+
+\end{enumerate}
+
+\end{document}

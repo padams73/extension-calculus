@@ -1,0 +1,171 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\subsection*{Answers - Combinations and permutations (page \pageref{Combinations and permuations})}
+\label{Combinations answers}
+\begin{enumerate}
+    \item
+    \(^{10}C_2=\frac{10!}{2!\times 8!}=\frac{10\times 9}{2}=45\)
+    \item 
+        \begin{enumerate}
+            \item 
+            \(5!=5\times 4\times 3\times 2\times 1=120\)
+            \item 
+            Visualise this with the girls effectively being a sixth member of the group. There are \(6!\) ways of arranging them.
+
+            Then, within the girls, there are \(3!\) ways of arranging them.
+
+            This means there are \(6! \times 3!=720\times 6=4320\) possible photos.
+        \end{enumerate}
+    \item 
+        \begin{enumerate}
+            \item 
+            \(6\times ^5C_2 \times ^3C_3 =6\times 10\times 1=60\)
+            \item 
+            \(^6C_2 \times ^4C_2 \times ^2C_2 = 15\times 6\times 1=90\)
+        \end{enumerate}
+    \item 
+    \( ^{20}C_3\times ^{30}C_2 = 1140\times 435=495,900 \)
+    \item 
+    2 candidates: \(^8C_2 = 28\)
+
+    1 candidate: \(^8C_1 = 8\)
+
+    0 candidates  = 1
+
+    Total = \(37\)
+    \item 
+    \(^{15}C_3 \times ^9C_1 \times ^7C_1 = 28,665\)
+    \item 
+    Consider the two situations: first, where all 6 people are from the same college. Second, where 4 are from the same college and 2 are from the other one.
+
+    6 from same college: \(^8C_6=28\)
+
+    4 from same college: \(^8C_4=70\)
+
+    Total is \(98\)
+
+    \item 
+    Break into 3 situations: 
+
+    \textbf{Situation 1}: all 3 sides are the same colour.
+
+    There are 5 colours, so there are 5 ways this can occur.
+
+    \textbf{Situation 2}: all 3 sides are different colours.
+
+    We are fitting 5 colours into 3 spots, therefore \(^5C_3=10\)
+
+    \textbf{Situation 3}: 2 sides have the same colour and one is different.
+
+    
+
+    \item 
+    \begin{align*}
+        \frac{p!}{q!(p-q)!}
+        &=\frac{p!}{r!(p-r)!}\\
+        \frac{1}{q!(p-q)!}
+        &=\frac{1}{r!(p-r)!}\\
+    \end{align*}
+    There are 2 solutions to consider here. The first gives us the solution \(q=r \),which we are told is not a solution.
+
+    \begin{align*}
+        \frac{r!}{(p-q)!}
+        &=\frac{q!}{(p-r)!}\\
+    \end{align*}
+    Here we can equate the numerators and the denominators, giving us \(r=q\).
+
+    The other way is to cross-multiply different terms:
+
+    \begin{align*}
+    \frac{r!}{q!}=\frac{(p-q)!}{(p-r)!}
+    \end{align*}
+    When we equate the numerators and denominators we get:
+
+    \(p-q=r\) and \(p-r=q\)
+
+    Both of which can be rearranged to give the solution \(p=q+r\)
+    \item 
+    $
+    \!
+    \begin{aligned}[t]
+    \frac{n!}{r!(n-r)!}
+    &=\frac{(n+1)!}{(r-1)!((n+1)-(r-1))!}\\
+    \frac{n!}{r!(n-r)!}
+    &=\frac{(n+1)!}{(r-1)!(n-r+2)!}\\
+    \frac{n!}{r!(n-r)!}
+    &=\frac{(n+1)n!}{(r-1)!(n-r+2)(n-r+1)(n-r)!}\\
+    \frac{1}{r!}
+    &=\frac{n+1}{(r-1)!(n-r+2)(n-r+1)}\\
+    \frac{(r-1)!}{r(r-1)!}
+    &=\frac{n+1}{(n-r+2)(n-r+1)}\\
+    \frac{1}{r}
+    &=\frac{n+1}{(n-r+2)(n-r+1)}\\
+    (n-r+2)(n-r+1)
+    &=r(n+1)\\
+    n^2 - rn + n -rn+r^2-r+2n-2r+2
+    &=rn+r\\
+    n^2-3rn+3n+r^2-4r+2
+    &=0\\
+    n^2+(3-3r)n+(r^2-4r+2)
+    &=0\\
+    n
+    &=\frac{3r-3 \pm \sqrt{(3-3r)^2-4(r^2-4r+2)}}{2}\\
+    n
+    &=\frac{3r-3 \pm \sqrt{5r^2-2r+1}}{2}
+    \end{aligned}
+    $
+
+    Now we try different values for r to see which gives an integer value for \(n\).
+    
+    $
+    \begin{aligned}
+    r=1; &n=1\\
+    r=2; &n=\frac{3 \pm \sqrt{17}}{2}\\
+    r=3; &n=\frac{6 \pm \sqrt{40}}{2}\\
+    r=4; &n=\frac{9 \pm \sqrt{73}}{2}\\
+    r=5; &n=\frac{12 \pm \sqrt{112}}{2}\\
+    r=6; &n=\frac{15 \pm \sqrt{169}}{2}=\frac{15\pm 13}{2}=1,14
+    \end{aligned}
+    $
+
+    \item
+    \(k\frac{n!}{k!(n-k)!}=n\frac{(n-1)!}{(k-1)!((n-1)-(k-1))!} \)
+
+    Note the following:
+
+    \(n \times (n-1)! = n!\)
+
+    \(k! = k \times (k-1)! \)
+
+    Which means we can simplify the equation as follows:
+
+    \(k\frac{n!}{k(k-1)!(n-k)!}=\frac{n!}{(k-1)!(n-k)!} \)
+
+    \(k\frac{n!}{k(k-1)!(n-k)!}=\frac{n!}{(k-1)!(n-k)!} \)
+
+    \(\frac{n!}{(k-1)!(n-k)!}=\frac{n!}{(k-1)!(n-k)!} \)
+
+    \item 
+    Firstly, note that from Pascal's Triangle, the sum of the numbers in the $n^{th}$ row is $2^n$.
+
+    This means that $2^n = \bigl(^n_0\bigr)+\bigl(^n_1\bigr)+\bigl(^n_2\bigr)+\dots+\bigl(^n_n\bigr)$
+
+    This means the $2^{n+1}$ term can be written as $\bigl(^{n+1}_0\bigr)+\bigl(^{n+1}_1\bigr)+\bigl(^{n+1}_2\bigr)+\dots+\bigl(^{n+1}_n\bigr)+\bigl(^{n+1}_{n+1}\bigr)$
+
+    Since $\bigl(^{n+1}_0\bigr)=1$, we can write $2^{n+1}-1=\bigl(^{n+1}_1\bigr)+\bigl(^{n+1}_2\bigr)+\dots+\bigl(^{n+1}_n\bigr)+\bigl(^{n+1}_{n+1}\bigr)$
+
+    The left-hand side of the equation refers to the $n^{th}$ row of Pascal's Triangle whereas the right-hand side refers to the $(n+1)^{th}$ row. We can now use the proof from the previous question to rewrite the RHS in terms of the $n^{th}$ row.
+
+    We know that \(k\bigl(^n_k\bigr)=n\bigl(^{n-1}_{k-1}\bigr) \)
+
+    This can be rearranged to \(\bigl(^n_k\bigr)=\frac{n}{k}\bigl(^{n-1}_{k-1}\bigr) \), and since we want to link rows $n$ and $n+1$ we rewrite it as \(\bigl(^{n+1}_{k}\bigr)=\frac{n+1}{k}\bigl(^{n}_{k-1}\bigr) \)
+
+    Now, each term in the expansion of $2^{n+1}-1$ can be rewritten in terms of row $n$:
+
+    \(\frac{n+1}{1}\bigl(^n_0\bigr)+\frac{n+1}{2}\bigl(^n_1\bigr)+\frac{n+1}{3}\bigl(^n_2\bigr)+\dots+\frac{n+1}{n}\bigl(^n_{n-1}\bigr)+\frac{n+1}{n+1}\bigl(^n_n\bigr)\)
+
+    Returning to the original RHS, \(\frac{2^{n+1}-1}{n+1}\), we can divide out the $n+1$, giving us \(\bigl(^n_0\bigr)+\frac{1}{2}\bigl(^n_1\bigr)+\frac{1}{3}\bigl(^n_2\bigr)+\dots+\frac{1}{n}\bigl(^n_{n-1}\bigr)+\frac{1}{n+1}\bigl(^n_n\bigr)=LHS\)
+\end{enumerate}
+
+\end{document}

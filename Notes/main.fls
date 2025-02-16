@@ -139,6 +139,7 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbo
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT .\sections\partialfractions.tex
 INPUT .\sections\partialfractions.tex
 INPUT sections\partialfractions.tex
@@ -171,7 +172,6 @@ INPUT sections\implicitdifferentiation.tex
 INPUT .\sections\implicitdifferentiation.tex
 INPUT .\sections\implicitdifferentiation.tex
 INPUT sections\implicitdifferentiation.tex
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT .\sections\sumofroots.tex
 INPUT .\sections\sumofroots.tex
 INPUT sections\sumofroots.tex
