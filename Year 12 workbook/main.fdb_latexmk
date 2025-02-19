@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1739745543.689 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex" "main.pdf" "main" 1739745546.16687 0
+["pdflatex"] 1739992842.69039 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex" "main.pdf" "main" 1739992845.16715 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -72,7 +72,7 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "answers/ans_binomialexpansion.tex" 1739143740 3676 54ba6581afd1e9dc6ad1695ddf4c1328 ""
+  "answers/ans_binomialexpansion.tex" 1739992838 4933 7dba3674a835a490561bec5e109d3140 ""
   "answers/ans_combinations.tex" 1738105803 5755 0d9e838779273304a48082e9c55a1d2d ""
   "answers/ans_differentialequations.tex" 1721086323 7603 bd027e690aff4bf1713a16a39b6c2562 ""
   "answers/ans_endlesssums.tex" 1720419803 2765 0bad3711eb563ff5256004a1a890b970 ""
@@ -93,9 +93,9 @@
   "images/exacttrigvalues2.png" 1722564212 2047 f6c7092d3e84d3e8839b395134e0220f ""
   "images/ratiotriangle1.png" 1722319509 4051 1467069359b37afab120e1250cee516d ""
   "images/ratiotriangle2.png" 1722319516 3798 8995fab5d1421ef2ccb5f965ca7736fd ""
-  "main.aux" 1739745545 2397 1f6067483956b20f2aab0e4e85d3c009 "pdflatex"
+  "main.aux" 1739992844 2397 e4a091977c19e569f8c2e4f60faf78f0 "pdflatex"
   "main.tex" 1739745542 1791 d1c00cb282a5c63f405318a4addee9fa ""
-  "main.toc" 1739745545 834 33b70ed0ff8e0bf357b630eb9e08b3e9 "pdflatex"
+  "main.toc" 1739992844 834 33b70ed0ff8e0bf357b630eb9e08b3e9 "pdflatex"
   "sections/binomialexpansion.tex" 1739143683 2719 a7c2a97f84f053508f71f4b11141e4e7 ""
   "sections/combinations.tex" 1738103715 4544 9598dae990262fb351aedba5074a1df1 ""
   "sections/differentialequations.tex" 1731560813 4033 c023957d4227b594e83289bed6ef58e4 ""
