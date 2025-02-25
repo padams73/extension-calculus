@@ -8,5 +8,6 @@
 \contentsline {section}{\numberline {8}Turning equations into quadratics}{22}{}%
 \contentsline {section}{\numberline {9}Endless sums}{24}{}%
 \contentsline {section}{\numberline {10}Telescoping Sums}{26}{}%
-\contentsline {section}{\numberline {11}Differential equations}{29}{}%
-\contentsline {section}{\numberline {12}Mixing problems}{31}{}%
+\contentsline {section}{\numberline {11}Log problems}{29}{}%
+\contentsline {section}{\numberline {12}Differential equations}{33}{}%
+\contentsline {section}{\numberline {13}Mixing problems}{35}{}%

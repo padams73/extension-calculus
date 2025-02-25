@@ -208,6 +208,12 @@ INPUT sections\telescopingsums.tex
 INPUT .\sections\telescopingsums.tex
 INPUT .\sections\telescopingsums.tex
 INPUT sections\telescopingsums.tex
+INPUT .\sections\logproblems.tex
+INPUT .\sections\logproblems.tex
+INPUT sections\logproblems.tex
+INPUT .\sections\logproblems.tex
+INPUT .\sections\logproblems.tex
+INPUT sections\logproblems.tex
 INPUT .\sections\differentialequations.tex
 INPUT .\sections\differentialequations.tex
 INPUT sections\differentialequations.tex
@@ -311,6 +317,12 @@ INPUT answers\ans_telescopingsums.tex
 INPUT .\answers\ans_telescopingsums.tex
 INPUT .\answers\ans_telescopingsums.tex
 INPUT answers\ans_telescopingsums.tex
+INPUT .\answers\ans_logproblems.tex
+INPUT .\answers\ans_logproblems.tex
+INPUT answers\ans_logproblems.tex
+INPUT .\answers\ans_logproblems.tex
+INPUT .\answers\ans_logproblems.tex
+INPUT answers\ans_logproblems.tex
 INPUT .\answers\ans_differentialequations.tex
 INPUT .\answers\ans_differentialequations.tex
 INPUT answers\ans_differentialequations.tex

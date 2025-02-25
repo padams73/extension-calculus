@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  20 FEB 2025 08:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  25 FEB 2025 13:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -341,17 +341,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--43
 
 [27])
 
-[28] (sections/differentialequations.tex
+[28] (sections/logproblems.tex
 
-[29])
+[29]
 
-[30] (sections/mixingproblems.tex
+[30]
 
-[31]
+[31])
 
-[32])
+[32] (sections/differentialequations.tex
 
-[33]
+[33])
+
+[34] (sections/mixingproblems.tex
+
+[35]
+
+[36])
+
+[37]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: letterpaper
@@ -386,27 +394,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--43
 
 
 
-[34
+[38
 
 ] (answers/ans_binomialexpansion.tex
-<images/Picture2.png, id=130, 199.74625pt x 36.63687pt>
+<images/Picture2.png, id=143, 199.74625pt x 36.63687pt>
 File: images/Picture2.png Graphic file (type png)
 <use images/Picture2.png>
 Package pdftex.def Info: images/Picture2.png  used on input line 58.
 (pdftex.def)             Requested size: 234.8775pt x 43.08296pt.
-<images/Picture3.png, id=131, 392.96812pt x 22.58438pt>
+<images/Picture3.png, id=144, 392.96812pt x 22.58438pt>
 File: images/Picture3.png Graphic file (type png)
 <use images/Picture3.png>
 Package pdftex.def Info: images/Picture3.png  used on input line 70.
 (pdftex.def)             Requested size: 234.8775pt x 13.49902pt.
-<images/Picture4.png, id=132, 360.34625pt x 19.57312pt>
+<images/Picture4.png, id=145, 360.34625pt x 19.57312pt>
 File: images/Picture4.png Graphic file (type png)
 <use images/Picture4.png>
 Package pdftex.def Info: images/Picture4.png  used on input line 82.
 (pdftex.def)             Requested size: 360.34537pt x 19.57306pt.
 
 
-[35
+[39
 
  <./images/Picture2.png> <./images/Picture3.png>]
 
@@ -416,20 +424,20 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 
 
 
-[36 <./images/Picture4.png>])
+[40 <./images/Picture4.png>])
 
-[37] (answers/ans_partialfractions.tex
-
-[38]
-
-[39])
-
-[40] (answers/ans_exacttrigvalues.tex
-
-[41]
+[41] (answers/ans_partialfractions.tex
 
 [42]
-<images/exacttrigvalues.png, id=161, 89.58469pt x 63.98906pt>
+
+[43])
+
+[44] (answers/ans_exacttrigvalues.tex
+
+[45]
+
+[46]
+<images/exacttrigvalues.png, id=174, 89.58469pt x 63.98906pt>
 File: images/exacttrigvalues.png Graphic file (type png)
 <use images/exacttrigvalues.png>
 Package pdftex.def Info: images/exacttrigvalues.png  used on input line 185.
@@ -440,80 +448,94 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[43]
-<images/exacttrigvalues2.png, id=166, 122.70844pt x 80.55093pt>
+[47]
+<images/exacttrigvalues2.png, id=178, 122.70844pt x 80.55093pt>
 File: images/exacttrigvalues2.png Graphic file (type png)
 <use images/exacttrigvalues2.png>
 Package pdftex.def Info: images/exacttrigvalues2.png  used on input line 227.
 (pdftex.def)             Requested size: 93.94957pt x 61.6741pt.
 )
 
-[44 <./images/exacttrigvalues.png> <./images/exacttrigvalues2.png>] (answers/ans_implicitdifferentiation.tex
+[48 <./images/exacttrigvalues.png> <./images/exacttrigvalues2.png>] (answers/ans_implicitdifferentiation.tex
 
-[45])
+[49])
 
-[46] (answers/ans_sumofroots.tex
+[50] (answers/ans_sumofroots.tex
 
-[47])
+[51])
 
-[48] (answers/ans_combinations.tex
+[52] (answers/ans_combinations.tex
 
-[49]
-
-[50])
-
-[51] (answers/ans_quadratics.tex
-
-[52])
-
-[53] (answers/ans_endlesssums.tex
+[53]
 
 [54])
 
-[55] (answers/ans_telescopingsums.tex
+[55] (answers/ans_quadratics.tex
 
 [56])
 
-[57] (answers/ans_differentialequations.tex
+[57] (answers/ans_endlesssums.tex
 
-[58]
+[58])
 
-[59]
+[59] (answers/ans_telescopingsums.tex
 
-[60]
+[60])
 
-[61]
-<images/diffeqns.png, id=226, 81.30376pt x 70.01157pt>
+[61] (answers/ans_logproblems.tex
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67])
+
+[68] (answers/ans_differentialequations.tex
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+<images/diffeqns.png, id=260, 81.30376pt x 70.01157pt>
 File: images/diffeqns.png Graphic file (type png)
 <use images/diffeqns.png>
 Package pdftex.def Info: images/diffeqns.png  used on input line 264.
 (pdftex.def)             Requested size: 81.30354pt x 70.01138pt.
 
 
-[62 <./images/diffeqns.png>])
+[73 <./images/diffeqns.png>])
 
-[63] (answers/ans_mixingproblems.tex
+[74] (answers/ans_mixingproblems.tex
 
-[64])
+[75])
 
-[65] (main.aux)
+[76] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4977 strings out of 473919
- 83403 string characters out of 5727897
+ 4995 strings out of 473919
+ 84114 string characters out of 5727897
  1959908 words of memory out of 5000000
- 27683 multiletter control sequences out of 15000+600000
+ 27695 multiletter control sequences out of 15000+600000
  567815 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,15n,65p,1299b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (65 pages, 493601 bytes).
+Output written on main.pdf (76 pages, 520499 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
+ 336 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

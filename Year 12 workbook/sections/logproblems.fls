@@ -1,13 +1,13 @@
 PWD c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook
 INPUT C:\Users\pad\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_telescopingsums.tex
-OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_telescopingsums.log
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\logproblems.tex
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\logproblems.log
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\..\main.tex
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\..\main.tex
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\..\main.tex
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\..\main.tex
 INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\main.tex
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -74,10 +74,10 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_telescopingsums.aux
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_telescopingsums.aux
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_telescopingsums.aux
-OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_telescopingsums.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\logproblems.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\logproblems.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\logproblems.aux
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\logproblems.aux
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -86,7 +86,7 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
@@ -111,15 +111,20 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_telescopingsums.pdf
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\logproblems.pdf
 INPUT C:\Users\pad\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_telescopingsums.aux
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\logproblems.aux
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb

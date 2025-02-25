@@ -1,0 +1,137 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Log problems}
+You should be familiar with all of the log rules:
+
+\(y=\log_b(x) \Longleftrightarrow x=b^y \)
+
+\(\log_b(xy)=\log_b(x)+\log_b(y) \)
+
+\(\log_b\bigl(\frac{x}{y}\bigr)=\log_b(x)-\log_b(y) \)
+
+\(\log_b(x^n)=n\log_b(x) \)
+
+\(\log_b(x)=\frac{\log_a(x)}{\log_a(b)} \)
+
+When faced with tricky problems involving logs, we use the above rules to manipulate the equations into something we can solve more easily.
+A common technique is to use the change of base formula to change a log term into a fraction with a different base. For example:
+
+\(\log_8(x)+\log_16(x)=1 \)
+
+Notice that both terms have bases which are powers of 2, therefore we will change the base to 2 for each term:
+
+\(\frac{\log_2(x)}{\log_2(8)}=\frac{\log_2(x)}{3} \)
+
+\(\frac{\log_2(x)}{\log_2(16)}=\frac{\log_2(x)}{4} \)
+
+Giving us an equation of: \(\frac{\log_2(x)}{3}+\frac{\log_2(x)}{4}=1\)
+
+We can then easily solve:
+
+\(4\log_2(x)+3\log_2(x)=12\)
+
+\(7\log_2(x)=12\)
+
+\(\log_2(x)=\frac{12}{7}\)
+
+\(x=2^{\frac{12}{7}}=3.28\)
+
+Another technique is to take the log of both sides to help us rearrange the equation into something easier to solve. For example:
+
+\(x^{\log_2(x)}=256x^2 \)
+
+If we take $\log_2$ of both sides, we get:
+
+\(\log_2(x^{\log_2(x)})=\log_2(256x^2)\)
+
+We can now move the power on the LHS out to the front, and also split the RHS into two terms.
+
+\(\log_2(x)\log_2(x)=\log_2(256)+\log_2(x^2)\)
+
+Simplifying:
+
+\((\log_2(x))^2=8+2\log_2(x)\)
+
+This is a quadratic where the subject is $\log_2(x)$, so if we do a u-substitution where $u=\log_2(x)$ we get:
+
+\(u^2-2u-8=0\)
+
+Solving, we have $u=-2, 4$.
+
+Now we just reverse our substitution to find the value(s) of x:
+
+\(\log_2(x)=-2 \rightarrow x=\frac{1}{4}\)
+
+\(\log_2(x)=4 \rightarrow x=16\)
+
+
+\pagebreak
+
+\subsection*{Questions}
+(Answers - page {\pageref*{Log problems answers}})
+\label{Log problems}
+
+\begin{enumerate}[itemsep=1cm]
+    \item Solve for x:
+    
+    \(x^{\log_3(x)}=81x^3\)
+    
+    \item Solve for x:
+    
+    \(\log_4(2^x + 48)=x-1\)
+
+    \item 
+    \(\log_x(y)+\log_y(x)=2 \)
+    Find the value of \(\frac{x}{y}+\frac{y}{x}\)
+
+    \item 
+    If $\sqrt{\log_a(b)}+\sqrt{\log_b(a)}=2$, then find the value of $\log_{ab}(a)-\log_{\frac{1}{ab}}(b)$
+
+    \item 
+    If $2^{3x-5}=3^{x+3}$ and $x=\log(864^{\log_{10}(y)})$, then find the value of $y^{\log_{10}\frac{8}{3}}$
+
+    \item 
+    Solve for x:
+
+    \(\log_7\bigl(\log_9(x^2+\sqrt{x+1}+8)\bigr)=0\)
+
+    \item 
+    If $\log_{16}(x)+\log_8(y)=11$ and $\log_8(x)+\log_{16}(y)=10$ then find the value of $\frac{y}{x^2}$
+
+    \item 
+    Solve for x:
+
+    \(\log_{\log_2(x)}(4)=\log_2(\log_4(x)) \)
+
+    \item 
+    Solve for x and y:
+
+    \(\log_4(x)+\log_9(y)=2\)
+
+    \(\log_x(2)+\log_y(3)=1\)
+
+    \item 
+    If $\log_5(4), \log_5(2^x+\frac{1}{2})$ and $\log_5(2^x-\frac{1}{4})$ are in arithmetic progression, find the value of $x$ and also find the common difference.
+
+    \item 
+    Solve the system:
+
+    \(\log_{10}(x^2+y^2)=1+\log_{10}(13)\)
+
+    \(\log_{10}(x+y)-\log_{10}(x-y)=3\log_{10}(2)\)
+
+    \item 
+    Evaluate the expression:
+
+    \(\frac{1}{1+\log_a(bc)}+\frac{1}{1+\log_b(ac)}+\frac{1}{1+\log_c(ab)} \)
+
+\end{enumerate}
+
+
+
+
+
+\end{document}
