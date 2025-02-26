@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740444825.28996 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex" "main.pdf" "main" 1740444826.4678 0
+["pdflatex"] 1740536558.29146 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex" "main.pdf" "main" 1740536560.8015 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -76,7 +76,7 @@
   "answers/ans_combinations.tex" 1738105803 5755 0d9e838779273304a48082e9c55a1d2d ""
   "answers/ans_differentialequations.tex" 1721086323 7603 bd027e690aff4bf1713a16a39b6c2562 ""
   "answers/ans_endlesssums.tex" 1720419803 2765 0bad3711eb563ff5256004a1a890b970 ""
-  "answers/ans_exacttrigvalues.tex" 1722564480 7023 aad419325c2a12bbc88454f66cb065b6 ""
+  "answers/ans_exacttrigvalues.tex" 1740536458 7387 1a26aa14b7b8ccad4817e53e66e7be38 ""
   "answers/ans_implicitdifferentiation.tex" 1720067463 2411 1777335f8133c942f7eb503e6e4cf79c ""
   "answers/ans_logproblems.tex" 1740444823 10498 d9558e358f7df6a60a7c637431dfcc21 ""
   "answers/ans_mixingproblems.tex" 1720820798 1652 0c1640844ce5e356357b492c3f2e56d6 ""
@@ -91,12 +91,13 @@
   "images/binomial.png" 1718948172 136683 d87c7fe4c39e9abc71dcc8f10c925e14 ""
   "images/diffeqns.png" 1721085726 14546 904e09b52ea373ebd19ac89731e2130e ""
   "images/exacttrigvalues.png" 1722563587 1780 666505fe0dbb6229a1f0126beb1e192d ""
+  "images/exacttrigvalues11.png" 1740536397 17678 a924e66ca184efa5c2c587993823aa62 ""
   "images/exacttrigvalues2.png" 1722564212 2047 f6c7092d3e84d3e8839b395134e0220f ""
   "images/ratiotriangle1.png" 1722319509 4051 1467069359b37afab120e1250cee516d ""
   "images/ratiotriangle2.png" 1722319516 3798 8995fab5d1421ef2ccb5f965ca7736fd ""
-  "main.aux" 1740444826 2585 b125d6e25bdd192b0f51738b1380ba13 "pdflatex"
+  "main.aux" 1740536560 2585 7e5ec65d6ea7621af162908634b59894 "pdflatex"
   "main.tex" 1739995138 1878 fa2a30344c0ea208f3fa2953dfe06f99 ""
-  "main.toc" 1740444826 895 2653aa5580b75948d4f19d3e8624b5bb "pdflatex"
+  "main.toc" 1740536560 895 2653aa5580b75948d4f19d3e8624b5bb "pdflatex"
   "sections/binomialexpansion.tex" 1739143683 2719 a7c2a97f84f053508f71f4b11141e4e7 ""
   "sections/combinations.tex" 1738103715 4544 9598dae990262fb351aedba5074a1df1 ""
   "sections/differentialequations.tex" 1731560813 4033 c023957d4227b594e83289bed6ef58e4 ""
