@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  31 JUL 2024 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  27 FEB 2025 15:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/exacttrigvalues.tex"
-(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/exacttrigvalues.tex
+**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/sections/exacttrigvalues.tex"
+(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/sections/exacttrigvalues.tex
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
@@ -12,7 +12,7 @@ Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
 Preamble taken from file `../main.tex'
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
-) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\main.tex (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\main.tex (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
@@ -183,7 +183,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 \l__pdf_internal_box=\box57
-) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\exacttrigvalues.aux)
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\exacttrigvalues.aux)
 \openout1 = `exacttrigvalues.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -282,7 +282,7 @@ LaTeX Warning: Reference `Exact trig values answers' on page 3 undefined on inpu
 
 
 
-[3] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\exacttrigvalues.aux)
+[3] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\exacttrigvalues.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -294,14 +294,14 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  4694 strings out of 473919
- 73314 string characters out of 5727897
+ 73468 string characters out of 5727897
  1936908 words of memory out of 5000000
  27485 multiletter control sequences out of 15000+600000
  564232 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,7n,82p,1308b,225s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,7n,82p,1319b,225s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\exacttrigvalues.pdf" (3 pages, 100720 bytes).
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\sections\exacttrigvalues.pdf" (3 pages, 100727 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

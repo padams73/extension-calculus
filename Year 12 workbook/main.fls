@@ -146,6 +146,12 @@ INPUT sections\partialfractions.tex
 INPUT .\sections\partialfractions.tex
 INPUT .\sections\partialfractions.tex
 INPUT sections\partialfractions.tex
+INPUT .\sections\trigidentities.tex
+INPUT .\sections\trigidentities.tex
+INPUT sections\trigidentities.tex
+INPUT .\sections\trigidentities.tex
+INPUT .\sections\trigidentities.tex
+INPUT sections\trigidentities.tex
 INPUT .\sections\exacttrigvalues.tex
 INPUT .\sections\exacttrigvalues.tex
 INPUT sections\exacttrigvalues.tex
@@ -261,6 +267,12 @@ INPUT answers\ans_partialfractions.tex
 INPUT .\answers\ans_partialfractions.tex
 INPUT .\answers\ans_partialfractions.tex
 INPUT answers\ans_partialfractions.tex
+INPUT .\answers\ans_trigidentities.tex
+INPUT .\answers\ans_trigidentities.tex
+INPUT answers\ans_trigidentities.tex
+INPUT .\answers\ans_trigidentities.tex
+INPUT .\answers\ans_trigidentities.tex
+INPUT answers\ans_trigidentities.tex
 INPUT .\answers\ans_exacttrigvalues.tex
 INPUT .\answers\ans_exacttrigvalues.tex
 INPUT answers\ans_exacttrigvalues.tex

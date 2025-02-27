@@ -1,13 +1,14 @@
 \contentsline {section}{\numberline {1}Binomial expansion}{3}{}%
 \contentsline {section}{\numberline {2}Partial fractions}{5}{}%
-\contentsline {section}{\numberline {3}Exact trig values}{10}{}%
-\contentsline {section}{\numberline {4}Implicit differentiation}{13}{}%
-\contentsline {section}{\numberline {5}Sum of roots of polynomials}{16}{}%
-\contentsline {section}{\numberline {6}Sum and difference of cubes}{18}{}%
-\contentsline {section}{\numberline {7}Combinations and permutations}{19}{}%
-\contentsline {section}{\numberline {8}Turning equations into quadratics}{22}{}%
-\contentsline {section}{\numberline {9}Endless sums}{24}{}%
-\contentsline {section}{\numberline {10}Telescoping Sums}{26}{}%
-\contentsline {section}{\numberline {11}Log problems}{29}{}%
-\contentsline {section}{\numberline {12}Differential equations}{33}{}%
-\contentsline {section}{\numberline {13}Mixing problems}{35}{}%
+\contentsline {section}{\numberline {3}Trigonometric identities}{10}{}%
+\contentsline {section}{\numberline {4}Exact trig values}{14}{}%
+\contentsline {section}{\numberline {5}Implicit differentiation}{17}{}%
+\contentsline {section}{\numberline {6}Sum of roots of polynomials}{20}{}%
+\contentsline {section}{\numberline {7}Sum and difference of cubes}{22}{}%
+\contentsline {section}{\numberline {8}Combinations and permutations}{23}{}%
+\contentsline {section}{\numberline {9}Turning equations into quadratics}{26}{}%
+\contentsline {section}{\numberline {10}Endless sums}{28}{}%
+\contentsline {section}{\numberline {11}Telescoping Sums}{30}{}%
+\contentsline {section}{\numberline {12}Log problems}{33}{}%
+\contentsline {section}{\numberline {13}Differential equations}{37}{}%
+\contentsline {section}{\numberline {14}Mixing problems}{39}{}%
