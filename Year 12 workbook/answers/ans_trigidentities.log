@@ -3,11 +3,16 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex"
-(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex
+**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/answers/ans_trigidentities.tex"
+(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/answers/ans_trigidentities.tex
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
-(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `../main.tex'
+(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\main.tex (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
@@ -153,9 +158,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthfirst=\dimen167
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
- (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
-Package: import 2020/04/01  v 6.2
-)) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
@@ -176,27 +179,27 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count286
-)) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)))) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 \l__pdf_internal_box=\box57
-) (main.aux)
-\openout1 = `main.aux'.
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_trigidentities.aux)
+\openout1 = `ans_trigidentities.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count288
@@ -250,308 +253,44 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+
+LaTeX Warning: Reference `Trig identities' on page 1 undefined on input line 6.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 [1
 
-{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
+{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-
-
-[2] (sections/binomialexpansion.tex
-<images/binomial.png, id=11, 359.67708pt x 361.35pt>
-File: images/binomial.png Graphic file (type png)
-<use images/binomial.png>
-Package pdftex.def Info: images/binomial.png  used on input line 10.
-(pdftex.def)             Requested size: 352.31625pt x 353.97171pt.
-
-
-[3 <./images/binomial.png>])
-
-[4] (sections/partialfractions.tex
-
-[5]
-
-[6]
-
-[7]
-
-[8])
-
-[9] (sections/trigidentities.tex
-
-[10]
-
-[11]
-
-[12])
-
-[13] (sections/exacttrigvalues.tex
-<images/ratiotriangle1.png, id=59, 103.13531pt x 106.14656pt>
-File: images/ratiotriangle1.png Graphic file (type png)
-<use images/ratiotriangle1.png>
-Package pdftex.def Info: images/ratiotriangle1.png  used on input line 13.
-(pdftex.def)             Requested size: 103.13504pt x 106.1463pt.
-<images/ratiotriangle2.png, id=60, 97.11281pt x 91.84312pt>
-File: images/ratiotriangle2.png Graphic file (type png)
-<use images/ratiotriangle2.png>
-Package pdftex.def Info: images/ratiotriangle2.png  used on input line 14.
-(pdftex.def)             Requested size: 97.11256pt x 91.84288pt.
-
-
-[14 <./images/ratiotriangle1.png> <./images/ratiotriangle2.png>]
-
-[15])
-
-[16] (sections/implicitdifferentiation.tex
-
-[17]
-
-[18]
-
-[19]) (sections/sumofroots.tex
-
-[20])
-
-[21] (sections/sumdifferenceofcubes.tex)
-
-[22] (sections/combinations.tex
-
-[23]
-
-[24])
-
-[25] (sections/quadratics.tex
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-
- []
-
-
-
-[26])
-
-[27] (sections/endlesssums.tex
-
-[28])
-
-[29] (sections/telescopingsums.tex
-
-[30]
-
-[31])
-
-[32] (sections/logproblems.tex
-
-[33]
-
-[34]
-
-[35])
-
-[36] (sections/differentialequations.tex
-
-[37])
-
-[38] (sections/mixingproblems.tex
-
-[39]
-
-[40])
-
-[41]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: letterpaper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(284.52756pt, 415.04506pt, 95.39737pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=415.04506pt
-* \oddsidemargin=19.8752pt
-* \evensidemargin=19.8752pt
-* \topmargin=175.25757pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=44.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
-
-[42
-
-] (answers/ans_binomialexpansion.tex
-<images/Picture2.png, id=155, 199.74625pt x 36.63687pt>
-File: images/Picture2.png Graphic file (type png)
-<use images/Picture2.png>
-Package pdftex.def Info: images/Picture2.png  used on input line 58.
-(pdftex.def)             Requested size: 234.8775pt x 43.08296pt.
-<images/Picture3.png, id=156, 392.96812pt x 22.58438pt>
-File: images/Picture3.png Graphic file (type png)
-<use images/Picture3.png>
-Package pdftex.def Info: images/Picture3.png  used on input line 70.
-(pdftex.def)             Requested size: 234.8775pt x 13.49902pt.
-<images/Picture4.png, id=157, 360.34625pt x 19.57312pt>
-File: images/Picture4.png Graphic file (type png)
-<use images/Picture4.png>
-Package pdftex.def Info: images/Picture4.png  used on input line 82.
-(pdftex.def)             Requested size: 360.34537pt x 19.57306pt.
-
-
-[43
-
- <./images/Picture2.png> <./images/Picture3.png>]
-
-Package amsmath Warning: Foreign command \atopwithdelims;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 100.
-
-
-
-[44 <./images/Picture4.png>])
-
-[45] (answers/ans_partialfractions.tex
-
-[46]
-
-[47])
-
-[48] (answers/ans_trigidentities.tex
-
-[49])
-
-[50] (answers/ans_exacttrigvalues.tex
-
-[51]
-
-[52]
-<images/exacttrigvalues11.png, id=193, 487.8225pt x 326.72063pt>
-File: images/exacttrigvalues11.png Graphic file (type png)
-<use images/exacttrigvalues11.png>
-Package pdftex.def Info: images/exacttrigvalues11.png  used on input line 148.
-(pdftex.def)             Requested size: 234.8775pt x 157.31267pt.
-
-
-[53 <./images/exacttrigvalues11.png>]
-<images/exacttrigvalues.png, id=198, 89.58469pt x 63.98906pt>
-File: images/exacttrigvalues.png Graphic file (type png)
-<use images/exacttrigvalues.png>
-Package pdftex.def Info: images/exacttrigvalues.png  used on input line 200.
-(pdftex.def)             Requested size: 70.46037pt x 50.33208pt.
-
-
-[54 <./images/exacttrigvalues.png>]
-<images/exacttrigvalues2.png, id=203, 122.70844pt x 80.55093pt>
-File: images/exacttrigvalues2.png Graphic file (type png)
-<use images/exacttrigvalues2.png>
-Package pdftex.def Info: images/exacttrigvalues2.png  used on input line 242.
-(pdftex.def)             Requested size: 93.94957pt x 61.6741pt.
-)
-
-[55 <./images/exacttrigvalues2.png>] (answers/ans_implicitdifferentiation.tex
-
-[56])
-
-[57] (answers/ans_sumofroots.tex
-
-[58])
-
-[59] (answers/ans_combinations.tex
-
-[60]
-
-[61])
-
-[62] (answers/ans_quadratics.tex
-
-[63])
-
-[64] (answers/ans_endlesssums.tex
-
-[65])
-
-[66] (answers/ans_telescopingsums.tex
-
-[67])
-
-[68] (answers/ans_logproblems.tex
-
-[69]
-
-[70]
-
-[71]
-
-[72]
-
-[73]
-
-[74])
-
-[75] (answers/ans_differentialequations.tex
-
-[76]
-
-[77]
-
-[78]
-
-[79]
-<images/diffeqns.png, id=285, 81.30376pt x 70.01157pt>
-File: images/diffeqns.png Graphic file (type png)
-<use images/diffeqns.png>
-Package pdftex.def Info: images/diffeqns.png  used on input line 264.
-(pdftex.def)             Requested size: 81.30354pt x 70.01138pt.
-
-
-[80 <./images/diffeqns.png>])
-
-[81] (answers/ans_mixingproblems.tex
-
-[82])
-
-[83] (main.aux)
+[2] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_trigidentities.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 5021 strings out of 473919
- 85140 string characters out of 5727897
- 1959908 words of memory out of 5000000
- 27714 multiletter control sequences out of 15000+600000
- 567815 words of font info for 73 fonts, out of 8000000 for 9000
+ 4669 strings out of 473919
+ 72829 string characters out of 5727897
+ 1942908 words of memory out of 5000000
+ 27461 multiletter control sequences out of 15000+600000
+ 563319 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,15n,65p,1299b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\pad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (83 pages, 546435 bytes).
+ 77i,5n,82p,1321b,226s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 12 workbook\answers\ans_trigidentities.pdf" (2 pages, 107986 bytes).
 PDF statistics:
- 360 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
