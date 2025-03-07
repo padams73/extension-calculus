@@ -1,0 +1,178 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Trigonometric identities}
+We can use combinations of the standard trigonometric identities given in the formula sheet to prove more complex identities.
+
+The most common identities you will use are below.
+
+Compound angle rules:
+
+\begin{equation*}
+    \begin{aligned}
+\sin{(A\pm B)}&=\sin{A}\cos{B}\pm \cos{A}\sin{B}\\
+\cos{(A\pm B)}&=\cos{A}\cos{B}\mp \sin{A}\sin{B}\\
+\tan{(A\pm B)}&=\frac{\tan{A}\pm \tan{B}}{1 \mp \tan{A}\tan{B}}
+\end{aligned}
+\end{equation*}
+
+Double angle rules:
+\begin{equation*}
+    \begin{aligned}
+\sin{(2A)}&=2\sin{A}\cos{A}\\
+\tan{(2A)}&=\frac{2\tan{A}}{1-\tan^2{A}}\\
+    \cos{(2A)}&=\cos^2{A}-\sin^2{A}\\
+    &=2\cos^2{A}-1\\
+    &=1-2\sin^2{A}
+\end{aligned}
+\end{equation*}
+
+Identities:
+
+\[\cos^2{\theta}+\sin^2{\theta}=1\]
+\[\tan^2{\theta}+1=\sec^2{\theta}\]
+\[\cot^2{\theta}+1=\csc^2{\theta}\]
+
+
+The best way to do this is to start on one side and transform it so that it is shown to be equivalent to the other side.
+ 
+In general, start with the more complex side, as it is easier to simplify something complex than it is to complicate something simple.
+
+E.g. prove that $\sin{\theta}(1+\tan{\theta})+\cos{\theta}(1+\cot{\theta}) \equiv \sec{\theta}+\csc{\theta}$
+
+Start with the LHS as it is more complicated.
+
+$\sin{\theta}(1+\tan{\theta})+\cos{\theta}(1+\cot{\theta})$
+
+Looking at the RHS, we can see that we need to get sec and cosec.
+
+We can change the first term by multiplying the $\sin{\theta}$ by $\sin{\theta}$ while dividing each of the terms in the bracket by $\sin{\theta}$.
+
+$\sin^2{\theta}\Bigl(\frac{1}{\sin{\theta}}+\frac{\tan{\theta}}{\sin{\theta}}\Bigr)=\sin^2{\theta}(\csc{\theta}+\sec{\theta})$
+
+We can repeat this for the second term, using $\cos{\theta}$ instead.
+
+$\cos^2{\theta}\Bigl(\frac{1}{\cos{\theta}}+\frac{\cot{\theta}}{\cos{\theta}}\Bigr)=\cos^2{\theta}(\sec{\theta}+\csc{\theta})$
+
+So the LHS now looks like this:
+
+\(\sin^2{\theta}(\csc{\theta}+\sec{\theta})+\cos^2{\theta}(\sec{\theta}+\csc{\theta})\)
+
+Factorising gives us:
+
+$(\sin^2{\theta}+\cos^2{\theta})(\sec{\theta}+\csc{\theta})$
+
+Using the Pythagorean identity of $\sin^2{\theta}+\cos^2{\theta}=1$, we get $\sec{\theta}+\csc{\theta}=RHS$, as required.
+
+\vspace{5mm}
+Another example:
+
+Show that $\tan{A}+\cot{A}=\frac{1}{\sin{A}\cos{A}}$
+
+Using $\tan{A}=\frac{\sin{A}}{\cos{A}}$ and $\cot{A}=\frac{1}{\tan{A}}$
+
+LHS = $\tan{A}+\cot{A}=\frac{\sin{A}}{\cos{A}}+\frac{\cos{A}}{\sin{A}}$
+
+$=\frac{\sin^2{A}+\cos^2{A}}{\sin{A}\cos{A}}$
+
+Since we know that $\sin^2{A}+\cos^2{A}=1$
+
+$=\frac{1}{\sin{A}\cos{A}}=RHS$, as required.
+
+\vspace{5mm}
+An example of working with both sides:
+
+Show that: $\frac{\sin{A}-\cos{B}}{\sin{B}-\cos{A}}=\frac{\cos{A}+\sin{B}}{\cos{B}+\sin{A}}$
+
+Multiplying the equation by $\cos{B}+\sin{A}$
+
+$\frac{\sin^2{A}-\cos^2{B}}{\sin{B}-\cos{A}}=\cos{A}+\sin{B}$
+
+Multiplying the equation by $\sin{B}-\cos{A}$
+
+$\sin^2{A}-\cos^2{B}=\sin^2{B}-\cos^{A}$
+
+Rearranging:
+
+$\sin^2{A}+\cos^{A}=\sin^2{B}+\cos^2{B}$
+
+$1=1$
+
+Since this is a true statement, we have shown the original equation is always true.
+
+\pagebreak
+
+\subsection*{Questions} 
+\label{Trig identities}
+(Answers - page {\pageref{Trig identities answers}})
+
+Easier questions:
+
+For each of the following, show that:
+\begin{enumerate}
+    \item $\frac{\sin{A}+\cos{A}}{\sin{A}-\cos{A}}=\frac{1+2\cos{A}\sin{A}}{1-2\cos^2{A}}$
+    
+    \item $\frac{\sin{2A}}{1+\cos{2A}}=\tan{A}$
+    
+    \item $\sin{2A}=\frac{2\tan{A}}{1+\tan^2{A}}$
+    
+    \item $\frac{\sin{2A}}{\sin{A}}-\frac{\cos{2A}}{\cos{A}}=\sec{A}$
+    
+    \item $(\sec{A}-\tan{A})^2=\frac{1-\sin{A}}{1+\sin{A}}$
+    
+    \item $\tan{A}=\sqrt{\frac{1-\cos{2A}}{1+\cos{2A}}}$
+
+    \item $\frac{\csc^2{A}-1}{\cos^2{A}}+\frac{1}{1-\sin^2{A}}=\sec^2{A}\csc^2{A}$
+    
+    \item $\frac{\cos{A}}{1+\sin{A}}=\frac{1-\sin{A}}{\cos{A}}$
+    
+    \item $2\csc{4A}+2\cot{4A}=\cot{A}-\tan{A}$
+    
+    \item $\frac{\sin{3A}}{\sin{2A}-\sin{A}}=2\cos{A}+1$
+    
+    \item $\frac{1+\cos{A}}{1-\cos{A}}=(\csc{A}+\cot{A})^2$
+    
+    \item $\cos{2A}=\frac{1-\tan^2{A}}{1+\tan^2{A}}$
+    
+    \item $\cos{3A}=4\cos^3{A}-3\cos{A}$
+    
+    \item $\cos{4A}=1-8\sin^2{A}\cos^2{A}$
+    
+    \item $\tan{3A}=\frac{3\tan{A}-\tan^3{A}}{1-3\tan^2{A}}$
+    
+    \item $\tan{4A}=\frac{4\tan{A}-4\tan^3{A}}{1-6\tan^2{A}+\tan^4{A}}$
+    
+    \item $4\sin^3{A}\cos{3A}+4\cos^3{A}\sin{3A}=3\sin{4A}$
+
+
+\end{enumerate}
+Harder problems (including old scholarship questions):
+\begin{enumerate}
+    \setcounter{enumi}{18}
+    \item $\frac{\csc{A}-\cot{A}}{\csc{A}+\cot{A}}+\frac{\csc{A}+\cot{A}}{\csc{A}-\cot{A}}\equiv 2+4\cot^2{A}$
+    
+    \item $\frac{1-\sin{A}}{1-\sec{A}}-\frac{1+\sin{A}}{1+\sec{A}}\equiv 2\cot{A}(\cos{A}-\csc{A})$
+    
+    \item $\frac{1+\cos{A}}{1-\cos{A}}\equiv (\csc{A}+\cot{A})^2$
+    
+    \item $\frac{\sin{(\pi-B)}-\sin{A}}{\cos{A}+\cos{(\pi - B)}}\equiv \frac{\cos{A}+\cos{B}}{\sin{B}+\sin{(\pi - A)}}$
+    
+    \item $\frac{\csc{A}-\sec{A}}{\csc{A}+\sec{A}}(\cot{A}-\tan{A})\equiv \sec{A}\csc{A}-2$
+    
+    \item $(\sec{A}-2\sin{A})(\csc{A}+2\cos{A})\sin{A}\cos{A}\equiv (\cos^2{A}-\sin^2{A})^2$
+    
+    \item 2018 Scholarship exam:
+    
+    $\frac{\cos{\theta}}{1+\sin{\theta}}-\frac{\sin{\theta}}{1+\cos{\theta}}=\frac{2(\cos{\theta}-\sin{\theta})}{1+\sin{\theta}+\cos{\theta}}$
+
+    \item 2017 Scholarship exam:
+    
+    $\cos{(5\theta)}=16\cos^5{\theta}-20\cos^3{\theta}+5\cos{\theta}$
+    
+\end{enumerate}
+
+
+
+\end{document}

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740536457.70941 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1740536463.62992 0
+["pdflatex"] 1741333841.20712 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1741333847.09006 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -123,9 +123,10 @@
   "answers/ans_sumofroots.tex" 1722411822 2450 f4fd704469566b737da636f5e1469988 ""
   "answers/ans_surfaceofrevolution.tex" 1719885415 3411 c2406fe30874e58b09b8ed80de7771da ""
   "answers/ans_telescopingsums.tex" 1722209043 4267 17d2f4a3544b4737f79b1e4645135a0c ""
+  "answers/ans_trigidentities.tex" 1741333561 11887 7ad746802e033693f17dc28267bef478 ""
   "answers/ans_trigsubs.tex" 1725703414 16711 614951cfa10d60510eb312a3affb28b6 ""
   "answers/ans_volumesofrevolution.tex" 1720067988 5275 d9fe8f687dfabc686fad4ba541a32716 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" 1740446568 3158 a0297d0b6ba0a33bc4da8e1a678c76b0 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" 1741333827 3251 d5a33cd33aecc8bd9b010e7f8a758b50 ""
   "images/Picture2.png" 1718948172 10675 aee2cbca80ee940a833d8ea443015ab4 ""
   "images/Picture3.png" 1718948172 9926 b1f7ae74afa4a2f5ca7807029947b0c0 ""
   "images/Picture4.png" 1718948172 5504 1af1dc44b152534e43b88df020fe30c3 ""
@@ -191,10 +192,10 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1740536462 5987 d6643802f4e84cf7e5b537f6e6737855 "pdflatex"
-  "main.out" 1740536462 3901 025b071feedfe72dda4da37ed87c4e1e "pdflatex"
-  "main.tex" 1740446568 3158 a0297d0b6ba0a33bc4da8e1a678c76b0 ""
-  "main.toc" 1740536462 1985 4ca0bc06b2e8f8d705ceb1c25246b705 "pdflatex"
+  "main.aux" 1741333846 6224 9586fa5598b60a4346beefc89a5168f6 "pdflatex"
+  "main.out" 1741333846 4069 e2d80841352cd8060f3e105471a9e679 "pdflatex"
+  "main.tex" 1741333827 3251 d5a33cd33aecc8bd9b010e7f8a758b50 ""
+  "main.toc" 1741333846 2068 0feccf4488705811e7fe0e128381ee68 "pdflatex"
   "sections/arclength.tex" 1721684208 4778 f7b263e0c1be2cfab48e734c06d299ec ""
   "sections/binomialexpansion.tex" 1740447730 2794 65886bdf5a04acfdc29f9fbcfdf90c80 ""
   "sections/camelprinciple.tex" 1720067900 1841 0fc21a05dede669265efa69b2b823b68 ""
@@ -218,6 +219,7 @@
   "sections/sumofroots.tex" 1720067549 1696 e40c57bdaf52aebf3e099074bf432193 ""
   "sections/surfaceofrevolution.tex" 1719885513 3570 29383a2fc7e387f12506788ff8f6a639 ""
   "sections/telescopingsums.tex" 1722198780 4733 d2d03cd6f54c7485d975f0555dea5299 ""
+  "sections/trigidentities.tex" 1741333571 5661 13f481553f0201d3d48866f481414257 ""
   "sections/trigsubstitution.tex" 1725702653 5397 0244890e3b7e5bdeb183cd1e28c9040b ""
   "sections/volumesofrevolution.tex" 1720068063 9080 8399ed417deb123bd80b6aae4669c117 ""
   (generated)
