@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740725090.9954 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/answers/ans_trigidentities.tex" "answers/ans_trigidentities.pdf" "ans_trigidentities" 1740725092.92534 0
+["pdflatex"] 1741333562.49212 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/answers/ans_trigidentities.tex" "answers/ans_trigidentities.pdf" "ans_trigidentities" 1741333564.16457 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -28,6 +28,7 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1247596667 32587 65067f817f408bc71a7312f3d9828a9b ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -67,9 +68,9 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "answers/../main.tex" 1740637433 1971 97684f4228965a9918f78af59c7b278f ""
-  "answers/ans_trigidentities.aux" 1740725092 80 37c0b005a802dbf35b3265174b9e9546 "pdflatex"
-  "answers/ans_trigidentities.tex" 1740725089 3371 aea0a28c8accf50d380f398b7d70e050 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/answers/ans_trigidentities.tex" 1740725089 3371 aea0a28c8accf50d380f398b7d70e050 ""
+  "answers/ans_trigidentities.aux" 1741333563 80 e5324c62118dc67232e7403036395247 "pdflatex"
+  "answers/ans_trigidentities.tex" 1741333561 11887 7ad746802e033693f17dc28267bef478 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/answers/ans_trigidentities.tex" 1741333561 11887 7ad746802e033693f17dc28267bef478 ""
   "main.tex" 1740637433 1971 97684f4228965a9918f78af59c7b278f ""
   (generated)
   "answers/ans_trigidentities.aux"

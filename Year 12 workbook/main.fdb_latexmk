@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740725095.7124 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex" "main.pdf" "main" 1740725098.92747 0
+["pdflatex"] 1741333575.62059 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex" "main.pdf" "main" 1741333578.14194 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1718842747 14064 03ea58f8a810c03d0a7228590c339e70 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
@@ -84,7 +84,7 @@
   "answers/ans_quadratics.tex" 1720067656 2522 00fa261347665ddb9a404d097ad7a487 ""
   "answers/ans_sumofroots.tex" 1722411822 2450 f4fd704469566b737da636f5e1469988 ""
   "answers/ans_telescopingsums.tex" 1722209043 4267 17d2f4a3544b4737f79b1e4645135a0c ""
-  "answers/ans_trigidentities.tex" 1740725089 3371 aea0a28c8accf50d380f398b7d70e050 ""
+  "answers/ans_trigidentities.tex" 1741333561 11887 7ad746802e033693f17dc28267bef478 ""
   "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 12 workbook/main.tex" 1740637433 1971 97684f4228965a9918f78af59c7b278f ""
   "images/Picture2.png" 1718948172 10675 aee2cbca80ee940a833d8ea443015ab4 ""
   "images/Picture3.png" 1718948172 9926 b1f7ae74afa4a2f5ca7807029947b0c0 ""
@@ -96,9 +96,9 @@
   "images/exacttrigvalues2.png" 1722564212 2047 f6c7092d3e84d3e8839b395134e0220f ""
   "images/ratiotriangle1.png" 1722319509 4051 1467069359b37afab120e1250cee516d ""
   "images/ratiotriangle2.png" 1722319516 3798 8995fab5d1421ef2ccb5f965ca7736fd ""
-  "main.aux" 1740725098 2791 95af07e0d5c2af0f3114f8289f17da7a "pdflatex"
+  "main.aux" 1741333577 2791 abc761e5daa2f543636878fa9f2be765 "pdflatex"
   "main.tex" 1740637433 1971 97684f4228965a9918f78af59c7b278f ""
-  "main.toc" 1740725098 968 704032afdc5a2479b0cbeb7a7792a979 "pdflatex"
+  "main.toc" 1741333577 968 704032afdc5a2479b0cbeb7a7792a979 "pdflatex"
   "sections/binomialexpansion.tex" 1739143683 2719 a7c2a97f84f053508f71f4b11141e4e7 ""
   "sections/combinations.tex" 1738103715 4544 9598dae990262fb351aedba5074a1df1 ""
   "sections/differentialequations.tex" 1731560813 4033 c023957d4227b594e83289bed6ef58e4 ""
@@ -112,7 +112,7 @@
   "sections/sumdifferenceofcubes.tex" 1722317330 953 d6422155d789c0da5cdc671c0ae3bc1b ""
   "sections/sumofroots.tex" 1720067549 1696 e40c57bdaf52aebf3e099074bf432193 ""
   "sections/telescopingsums.tex" 1722198780 4733 d2d03cd6f54c7485d975f0555dea5299 ""
-  "sections/trigidentities.tex" 1740636820 5720 9defaeeaf33dd9f81e1d289345480df4 ""
+  "sections/trigidentities.tex" 1741333571 5661 13f481553f0201d3d48866f481414257 ""
   (generated)
   "main.aux"
   "main.log"
