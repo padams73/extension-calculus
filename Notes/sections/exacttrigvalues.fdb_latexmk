@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740535825.87969 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/exacttrigvalues.tex" "sections/exacttrigvalues.pdf" "exacttrigvalues" 1740535828.12118 0
+["pdflatex"] 1743927847.68736 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/exacttrigvalues.tex" "sections/exacttrigvalues.pdf" "exacttrigvalues" 1743927849.42655 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -91,14 +91,14 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/exacttrigvalues.tex" 1740535821 3906 b4b8bb8e6f548a86edb91aa800b5e752 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/sections/exacttrigvalues.tex" 1743927846 3969 cb95696a04da7ebf9a027c235e3ba998 ""
   "images/ratiotriangle1.png" 1722319509 4051 1467069359b37afab120e1250cee516d ""
   "images/ratiotriangle2.png" 1722319516 3798 8995fab5d1421ef2ccb5f965ca7736fd ""
-  "main.tex" 1740446568 3158 a0297d0b6ba0a33bc4da8e1a678c76b0 ""
-  "sections/../main.tex" 1740446568 3158 a0297d0b6ba0a33bc4da8e1a678c76b0 ""
-  "sections/exacttrigvalues.aux" 1740535827 328 317fb8c85866630a3598d2acb866a871 "pdflatex"
-  "sections/exacttrigvalues.out" 1740535827 134 181403c07c1a701fdd9d0b42059bd707 "pdflatex"
-  "sections/exacttrigvalues.tex" 1740535821 3906 b4b8bb8e6f548a86edb91aa800b5e752 ""
+  "main.tex" 1741333827 3251 d5a33cd33aecc8bd9b010e7f8a758b50 ""
+  "sections/../main.tex" 1741333827 3251 d5a33cd33aecc8bd9b010e7f8a758b50 ""
+  "sections/exacttrigvalues.aux" 1743927849 328 317fb8c85866630a3598d2acb866a871 "pdflatex"
+  "sections/exacttrigvalues.out" 1743927849 134 181403c07c1a701fdd9d0b42059bd707 "pdflatex"
+  "sections/exacttrigvalues.tex" 1743927846 3969 cb95696a04da7ebf9a027c235e3ba998 ""
   (generated)
   "sections/exacttrigvalues.aux"
   "sections/exacttrigvalues.log"

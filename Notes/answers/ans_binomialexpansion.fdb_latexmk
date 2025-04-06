@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740447767.23418 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_binomialexpansion.tex" "answers/ans_binomialexpansion.pdf" "ans_binomialexpansion" 1740447768.22449 0
+["pdflatex"] 1743728211.61545 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_binomialexpansion.tex" "answers/ans_binomialexpansion.pdf" "ans_binomialexpansion" 1743728213.94367 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722472161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718841887 24263124 ea2ccb0378082cc3768712b0b38416aa ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -92,15 +92,15 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "answers/../main.tex" 1740446568 3158 a0297d0b6ba0a33bc4da8e1a678c76b0 ""
-  "answers/ans_binomialexpansion.aux" 1740447768 222 d18ab1369d0e642b0b7b33e74274f450 "pdflatex"
-  "answers/ans_binomialexpansion.out" 1740447767 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "answers/ans_binomialexpansion.tex" 1740447766 5031 66147ce1fd84262256ec1601a24e114d ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_binomialexpansion.tex" 1740447766 5031 66147ce1fd84262256ec1601a24e114d ""
+  "answers/../main.tex" 1741333827 3251 d5a33cd33aecc8bd9b010e7f8a758b50 ""
+  "answers/ans_binomialexpansion.aux" 1743728213 222 d18ab1369d0e642b0b7b33e74274f450 "pdflatex"
+  "answers/ans_binomialexpansion.out" 1743728213 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "answers/ans_binomialexpansion.tex" 1743728209 5013 aecaa435e8ab247ac80e61aca3090aa8 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_binomialexpansion.tex" 1743728209 5013 aecaa435e8ab247ac80e61aca3090aa8 ""
   "images/Picture2.png" 1718948172 10675 aee2cbca80ee940a833d8ea443015ab4 ""
   "images/Picture3.png" 1718948172 9926 b1f7ae74afa4a2f5ca7807029947b0c0 ""
   "images/Picture4.png" 1718948172 5504 1af1dc44b152534e43b88df020fe30c3 ""
-  "main.tex" 1740446568 3158 a0297d0b6ba0a33bc4da8e1a678c76b0 ""
+  "main.tex" 1741333827 3251 d5a33cd33aecc8bd9b010e7f8a758b50 ""
   (generated)
   "answers/ans_binomialexpansion.aux"
   "answers/ans_binomialexpansion.log"

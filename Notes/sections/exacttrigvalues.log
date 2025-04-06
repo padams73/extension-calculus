@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  26 FEB 2025 15:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  6 APR 2025 20:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -393,7 +393,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [2]
 
-LaTeX Warning: Reference `Exact trig values answers' on page 3 undefined on input line 90.
+LaTeX Warning: Reference `Exact trig values answers' on page 3 undefined on input line 88.
 
 
 
@@ -410,17 +410,20 @@ Package rerunfilecheck Info: File `exacttrigvalues.out' has not changed.
 (rerunfilecheck)             Checksum: 181403C07C1A701FDD9D0B42059BD707;134.
  ) 
 Here is how much of TeX's memory you used:
- 11142 strings out of 473919
- 174354 string characters out of 5727897
+ 11144 strings out of 473919
+ 174383 string characters out of 5727897
  1941908 words of memory out of 5000000
  33825 multiletter control sequences out of 15000+600000
  564232 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,7n,99p,1308b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{exacttriganswers} has been referenced but does not exist, replaced by a fixed one
+
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\exacttrigvalues.pdf" (3 pages, 103539 bytes).
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\exacttrigvalues.pdf" (3 pages, 103999 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  19 words of extra memory for PDF output out of 10000 (max. 10000000)
 

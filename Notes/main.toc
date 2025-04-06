@@ -21,6 +21,6 @@
 \contentsline {section}{\numberline {21}Arc length}{69}{section.21}%
 \contentsline {section}{\numberline {22}Surface of revolution}{73}{section.22}%
 \contentsline {section}{\numberline {23}Differential equations}{77}{section.23}%
-\contentsline {section}{\numberline {24}Integrating factor method}{79}{section.24}%
-\contentsline {section}{\numberline {25}Mixing problems}{82}{section.25}%
-\contentsline {section}{\numberline {26}Evaluating limits}{85}{section.26}%
+\contentsline {section}{\numberline {24}Integrating factor method}{80}{section.24}%
+\contentsline {section}{\numberline {25}Mixing problems}{83}{section.25}%
+\contentsline {section}{\numberline {26}Evaluating limits}{86}{section.26}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  25 FEB 2025 14:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  4 APR 2025 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -372,28 +372,28 @@ Package hyperref Info: Link coloring ON on input line 3.
 
 LaTeX Warning: Reference `Binomial Expansion' on page 1 undefined on input line 4.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <images/Picture2.png, id=4, 199.74625pt x 36.63687pt>
 File: images/Picture2.png Graphic file (type png)
 <use images/Picture2.png>
-Package pdftex.def Info: images/Picture2.png  used on input line 59.
+Package pdftex.def Info: images/Picture2.png  used on input line 58.
 (pdftex.def)             Requested size: 234.8775pt x 43.08296pt.
 <images/Picture3.png, id=6, 392.96812pt x 22.58438pt>
 File: images/Picture3.png Graphic file (type png)
 <use images/Picture3.png>
-Package pdftex.def Info: images/Picture3.png  used on input line 71.
+Package pdftex.def Info: images/Picture3.png  used on input line 70.
 (pdftex.def)             Requested size: 234.8775pt x 13.49902pt.
 <images/Picture4.png, id=7, 360.34625pt x 19.57312pt>
 File: images/Picture4.png Graphic file (type png)
 <use images/Picture4.png>
-Package pdftex.def Info: images/Picture4.png  used on input line 83.
+Package pdftex.def Info: images/Picture4.png  used on input line 82.
 (pdftex.def)             Requested size: 360.34537pt x 19.57306pt.
 
 
@@ -403,7 +403,7 @@ Package pdftex.def Info: images/Picture4.png  used on input line 83.
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 101.
+(amsmath)                 on input line 100.
 
 
 
@@ -424,7 +424,7 @@ Package rerunfilecheck Info: File `ans_binomialexpansion.out' has not changed.
 Here is how much of TeX's memory you used:
  11140 strings out of 473919
  174471 string characters out of 5727897
- 1950908 words of memory out of 5000000
+ 1951908 words of memory out of 5000000
  33824 multiletter control sequences out of 15000+600000
  563319 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -433,7 +433,7 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{binomialexpansionlink} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_binomialexpansion.pdf" (3 pages, 144085 bytes).
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_binomialexpansion.pdf" (3 pages, 143829 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
