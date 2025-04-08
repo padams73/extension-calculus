@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  6 APR 2025 20:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  7 APR 2025 20:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -413,12 +413,12 @@ Package pdftex.def Info: images/binomial.png  used on input line 10.
 [13])
 
 [14] (sections/exacttrigvalues.tex
-<images/ratiotriangle1.png, id=262, 103.13531pt x 106.14656pt>
+<images/ratiotriangle1.png, id=263, 103.13531pt x 106.14656pt>
 File: images/ratiotriangle1.png Graphic file (type png)
 <use images/ratiotriangle1.png>
 Package pdftex.def Info: images/ratiotriangle1.png  used on input line 13.
 (pdftex.def)             Requested size: 103.13504pt x 106.1463pt.
-<images/ratiotriangle2.png, id=263, 97.11281pt x 91.84312pt>
+<images/ratiotriangle2.png, id=264, 97.11281pt x 91.84312pt>
 File: images/ratiotriangle2.png Graphic file (type png)
 <use images/ratiotriangle2.png>
 Package pdftex.def Info: images/ratiotriangle2.png  used on input line 14.
@@ -485,7 +485,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--43
 [41]
 
 [42]) (sections/dimethod.tex
-<images/dimethod1.png, id=489, 149.05687pt x 113.42375pt>
+<images/dimethod1.png, id=502, 149.05687pt x 113.42375pt>
 File: images/dimethod1.png Graphic file (type png)
 <use images/dimethod1.png>
 Package pdftex.def Info: images/dimethod1.png  used on input line 39.
@@ -493,12 +493,12 @@ Package pdftex.def Info: images/dimethod1.png  used on input line 39.
 
 
 [43 <./images/dimethod1.png>]
-<images/dimethod2.png, id=496, 101.62968pt x 59.47218pt>
+<images/dimethod2.png, id=509, 101.62968pt x 59.47218pt>
 File: images/dimethod2.png Graphic file (type png)
 <use images/dimethod2.png>
 Package pdftex.def Info: images/dimethod2.png  used on input line 65.
 (pdftex.def)             Requested size: 101.62943pt x 59.47203pt.
-<images/dimethod3.png, id=497, 113.67468pt x 58.71938pt>
+<images/dimethod3.png, id=510, 113.67468pt x 58.71938pt>
 File: images/dimethod3.png Graphic file (type png)
 <use images/dimethod3.png>
 Package pdftex.def Info: images/dimethod3.png  used on input line 91.
@@ -518,22 +518,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [47])
 
 [48] (sections/trigsubstitution.tex
-<images/trigsub1.png, id=538, 87.32625pt x 62.48344pt>
+<images/trigsub1.png, id=551, 87.32625pt x 62.48344pt>
 File: images/trigsub1.png Graphic file (type png)
 <use images/trigsub1.png>
 Package pdftex.def Info: images/trigsub1.png  used on input line 16.
 (pdftex.def)             Requested size: 87.32603pt x 62.48328pt.
-<images/trigsub2.png, id=539, 91.84312pt x 70.76437pt>
+<images/trigsub2.png, id=552, 91.84312pt x 70.76437pt>
 File: images/trigsub2.png Graphic file (type png)
 <use images/trigsub2.png>
 Package pdftex.def Info: images/trigsub2.png  used on input line 27.
 (pdftex.def)             Requested size: 91.84288pt x 70.76419pt.
-<images/trigsub3.png, id=540, 123.46124pt x 66.2475pt>
+<images/trigsub3.png, id=553, 123.46124pt x 66.2475pt>
 File: images/trigsub3.png Graphic file (type png)
 <use images/trigsub3.png>
 Package pdftex.def Info: images/trigsub3.png  used on input line 38.
 (pdftex.def)             Requested size: 123.46092pt x 66.24733pt.
-<images/trigsub4.png, id=541, 109.91063pt x 49.68562pt>
+<images/trigsub4.png, id=554, 109.91063pt x 49.68562pt>
 File: images/trigsub4.png Graphic file (type png)
 <use images/trigsub4.png>
 Package pdftex.def Info: images/trigsub4.png  used on input line 54.
@@ -541,7 +541,7 @@ Package pdftex.def Info: images/trigsub4.png  used on input line 54.
 
 
 [49 <./images/trigsub1.png> <./images/trigsub2.png> <./images/trigsub3.png>]
-<images/trigsub5.png, id=553, 70.76437pt x 55.70813pt>
+<images/trigsub5.png, id=566, 70.76437pt x 55.70813pt>
 File: images/trigsub5.png Graphic file (type png)
 <use images/trigsub5.png>
 Package pdftex.def Info: images/trigsub5.png  used on input line 95.
@@ -553,12 +553,12 @@ Package pdftex.def Info: images/trigsub5.png  used on input line 95.
 [51 <./images/trigsub5.png>]
 
 [52]) (sections/kingsrule.tex
-<images/kingsrule1.png, id=582, 256.45813pt x 134.5025pt>
+<images/kingsrule1.png, id=598, 256.45813pt x 134.5025pt>
 File: images/kingsrule1.png Graphic file (type png)
 <use images/kingsrule1.png>
 Package pdftex.def Info: images/kingsrule1.png  used on input line 24.
 (pdftex.def)             Requested size: 187.89914pt x 98.5472pt.
-<images/kingsrule2.png, id=583, 254.9525pt x 125.46875pt>
+<images/kingsrule2.png, id=599, 254.9525pt x 125.46875pt>
 File: images/kingsrule2.png Graphic file (type png)
 <use images/kingsrule2.png>
 Package pdftex.def Info: images/kingsrule2.png  used on input line 32.
@@ -566,12 +566,12 @@ Package pdftex.def Info: images/kingsrule2.png  used on input line 32.
 
 
 [53 <./images/kingsrule1.png> <./images/kingsrule2.png>]
-<images/kingsrule3.png, id=592, 270.00874pt x 126.97438pt>
+<images/kingsrule3.png, id=608, 270.00874pt x 126.97438pt>
 File: images/kingsrule3.png Graphic file (type png)
 <use images/kingsrule3.png>
 Package pdftex.def Info: images/kingsrule3.png  used on input line 44.
 (pdftex.def)             Requested size: 187.89914pt x 88.3622pt.
-<images/kingsrule4.png, id=593, 251.94125pt x 131.49126pt>
+<images/kingsrule4.png, id=609, 251.94125pt x 131.49126pt>
 File: images/kingsrule4.png Graphic file (type png)
 <use images/kingsrule4.png>
 Package pdftex.def Info: images/kingsrule4.png  used on input line 51.
@@ -585,7 +585,7 @@ Package pdftex.def Info: images/kingsrule4.png  used on input line 51.
 [56]) (sections/parametricintegration.tex
 
 [57]
-<images/parametricintegration.png, id=620, 326.88792pt x 275.0275pt>
+<images/parametricintegration.png, id=638, 326.88792pt x 275.0275pt>
 File: images/parametricintegration.png Graphic file (type png)
 <use images/parametricintegration.png>
 Package pdftex.def Info: images/parametricintegration.png  used on input line 73.
@@ -593,7 +593,7 @@ Package pdftex.def Info: images/parametricintegration.png  used on input line 73
 
 
 [58 <./images/parametricintegration.png>]
-<images/parametricintegration2.png, id=631, 209.78375pt x 206.7725pt>
+<images/parametricintegration2.png, id=651, 209.78375pt x 206.7725pt>
 File: images/parametricintegration2.png Graphic file (type png)
 <use images/parametricintegration2.png>
 Package pdftex.def Info: images/parametricintegration2.png  used on input line 82.
@@ -601,17 +601,17 @@ Package pdftex.def Info: images/parametricintegration2.png  used on input line 8
 
 
 [59 <./images/parametricintegration2.png>]) (sections/volumesofrevolution.tex
-<images/volrev1.png, id=638, 407.27156pt x 235.63031pt>
+<images/volrev1.png, id=658, 407.27156pt x 235.63031pt>
 File: images/volrev1.png Graphic file (type png)
 <use images/volrev1.png>
 Package pdftex.def Info: images/volrev1.png  used on input line 17.
 (pdftex.def)             Requested size: 234.8775pt x 135.88905pt.
-<images/volrev2.png, id=639, 785.93625pt x 179.67125pt>
+<images/volrev2.png, id=659, 785.93625pt x 179.67125pt>
 File: images/volrev2.png Graphic file (type png)
 <use images/volrev2.png>
 Package pdftex.def Info: images/volrev2.png  used on input line 27.
 (pdftex.def)             Requested size: 352.31625pt x 80.54425pt.
-<images/volrev3.png, id=640, 254.45062pt x 174.6525pt>
+<images/volrev3.png, id=660, 254.45062pt x 174.6525pt>
 File: images/volrev3.png Graphic file (type png)
 <use images/volrev3.png>
 Package pdftex.def Info: images/volrev3.png  used on input line 36.
@@ -619,12 +619,12 @@ Package pdftex.def Info: images/volrev3.png  used on input line 36.
 
 
 [60 <./images/volrev1.png> <./images/volrev2.png>]
-<images/volrev4.png, id=647, 233.37187pt x 188.20313pt>
+<images/volrev4.png, id=667, 233.37187pt x 188.20313pt>
 File: images/volrev4.png Graphic file (type png)
 <use images/volrev4.png>
 Package pdftex.def Info: images/volrev4.png  used on input line 50.
 (pdftex.def)             Requested size: 234.8775pt x 189.42601pt.
-<images/volrev5.png, id=648, 86.57344pt x 85.82062pt>
+<images/volrev5.png, id=668, 86.57344pt x 85.82062pt>
 File: images/volrev5.png Graphic file (type png)
 <use images/volrev5.png>
 Package pdftex.def Info: images/volrev5.png  used on input line 62.
@@ -632,7 +632,7 @@ Package pdftex.def Info: images/volrev5.png  used on input line 62.
 
 
 [61 <./images/volrev3.png> <./images/volrev4.png>]
-<images/volrev6.png, id=656, 103.88812pt x 135.50626pt>
+<images/volrev6.png, id=676, 103.88812pt x 135.50626pt>
 File: images/volrev6.png Graphic file (type png)
 <use images/volrev6.png>
 Package pdftex.def Info: images/volrev6.png  used on input line 73.
@@ -640,7 +640,7 @@ Package pdftex.def Info: images/volrev6.png  used on input line 73.
 
 
 [62 <./images/volrev5.png> <./images/volrev6.png>]
-<images/volrev7.png, id=663, 122.95938pt x 158.5925pt>
+<images/volrev7.png, id=683, 122.95938pt x 158.5925pt>
 File: images/volrev7.png Graphic file (type png)
 <use images/volrev7.png>
 Package pdftex.def Info: images/volrev7.png  used on input line 92.
@@ -648,22 +648,22 @@ Package pdftex.def Info: images/volrev7.png  used on input line 92.
 
 
 [63 <./images/volrev7.png>]
-<images/volrev8.png, id=669, 154.32657pt x 113.67468pt>
+<images/volrev8.png, id=690, 154.32657pt x 113.67468pt>
 File: images/volrev8.png Graphic file (type png)
 <use images/volrev8.png>
 Package pdftex.def Info: images/volrev8.png  used on input line 124.
 (pdftex.def)             Requested size: 154.32617pt x 113.6744pt.
-<images/volrev9.png, id=670, 179.16937pt x 161.10187pt>
+<images/volrev9.png, id=691, 179.16937pt x 161.10187pt>
 File: images/volrev9.png Graphic file (type png)
 <use images/volrev9.png>
 Package pdftex.def Info: images/volrev9.png  used on input line 132.
 (pdftex.def)             Requested size: 140.92793pt x 126.72334pt.
-<images/volrev11.png, id=671, 316.93407pt x 138.5175pt>
+<images/volrev11.png, id=692, 316.93407pt x 138.5175pt>
 File: images/volrev11.png Graphic file (type png)
 <use images/volrev11.png>
 Package pdftex.def Info: images/volrev11.png  used on input line 141.
 (pdftex.def)             Requested size: 187.89914pt x 82.12407pt.
-<images/volrev10.png, id=672, 174.6525pt x 145.29282pt>
+<images/volrev10.png, id=693, 174.6525pt x 145.29282pt>
 File: images/volrev10.png Graphic file (type png)
 <use images/volrev10.png>
 Package pdftex.def Info: images/volrev10.png  used on input line 150.
@@ -671,12 +671,12 @@ Package pdftex.def Info: images/volrev10.png  used on input line 150.
 
 
 [64 <./images/volrev8.png> <./images/volrev9.png> <./images/volrev11.png>]
-<images/volrev12.png, id=683, 224.33812pt x 135.50626pt>
+<images/volrev12.png, id=706, 224.33812pt x 135.50626pt>
 File: images/volrev12.png Graphic file (type png)
 <use images/volrev12.png>
 Package pdftex.def Info: images/volrev12.png  used on input line 160.
 (pdftex.def)             Requested size: 224.33757pt x 135.5059pt.
-<images/volrev13.png, id=684, 178.704pt x 136.656pt>
+<images/volrev13.png, id=707, 178.704pt x 136.656pt>
 File: images/volrev13.png Graphic file (type png)
 <use images/volrev13.png>
 Package pdftex.def Info: images/volrev13.png  used on input line 171.
@@ -685,7 +685,7 @@ Package pdftex.def Info: images/volrev13.png  used on input line 171.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/volrev14.png, id=685, 239.39438pt x 167.12437pt>
+<images/volrev14.png, id=708, 239.39438pt x 167.12437pt>
 File: images/volrev14.png Graphic file (type png)
 <use images/volrev14.png>
 Package pdftex.def Info: images/volrev14.png  used on input line 179.
@@ -696,7 +696,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 [65 <./images/volrev10.png> <./images/volrev12.png>]
-<images/volrev15.png, id=698, 204.01219pt x 149.05687pt>
+<images/volrev15.png, id=721, 204.01219pt x 149.05687pt>
 File: images/volrev15.png Graphic file (type png)
 <use images/volrev15.png>
 Package pdftex.def Info: images/volrev15.png  used on input line 189.
@@ -704,17 +704,17 @@ Package pdftex.def Info: images/volrev15.png  used on input line 189.
 
 
 [66 <./images/volrev13.png> <./images/volrev14.png> <./images/volrev15.png>]
-<images/volrev16.png, id=707, 185.19188pt x 110.66344pt>
+<images/volrev16.png, id=730, 185.19188pt x 110.66344pt>
 File: images/volrev16.png Graphic file (type png)
 <use images/volrev16.png>
 Package pdftex.def Info: images/volrev16.png  used on input line 198.
 (pdftex.def)             Requested size: 185.1914pt x 110.66315pt.
-<images/volrev17.png, id=708, 217.7955pt x 89.0235pt>
+<images/volrev17.png, id=731, 217.7955pt x 89.0235pt>
 File: images/volrev17.png Graphic file (type png)
 <use images/volrev17.png>
 Package pdftex.def Info: images/volrev17.png  used on input line 208.
 (pdftex.def)             Requested size: 217.79497pt x 89.02327pt.
-<images/volrev18.png, id=709, 261.22594pt x 79.79813pt>
+<images/volrev18.png, id=732, 261.22594pt x 79.79813pt>
 File: images/volrev18.png Graphic file (type png)
 <use images/volrev18.png>
 Package pdftex.def Info: images/volrev18.png  used on input line 215.
@@ -722,7 +722,7 @@ Package pdftex.def Info: images/volrev18.png  used on input line 215.
 
 
 [67 <./images/volrev16.png> <./images/volrev17.png> <./images/volrev18.png>]
-<images/volrev19.png, id=722, 112.92188pt x 101.62968pt>
+<images/volrev19.png, id=745, 112.92188pt x 101.62968pt>
 File: images/volrev19.png Graphic file (type png)
 <use images/volrev19.png>
 Package pdftex.def Info: images/volrev19.png  used on input line 232.
@@ -730,12 +730,12 @@ Package pdftex.def Info: images/volrev19.png  used on input line 232.
 
 
 [68 <./images/volrev19.png>]) (sections/arclength.tex
-<images/arclength1.png, id=729, 197.23688pt x 118.94438pt>
+<images/arclength1.png, id=752, 197.23688pt x 118.94438pt>
 File: images/arclength1.png Graphic file (type png)
 <use images/arclength1.png>
 Package pdftex.def Info: images/arclength1.png  used on input line 15.
 (pdftex.def)             Requested size: 140.92793pt x 84.9865pt.
-<images/arclength5.png, id=730, 545.03625pt x 467.24562pt>
+<images/arclength5.png, id=753, 545.03625pt x 467.24562pt>
 File: images/arclength5.png Graphic file (type png)
 <use images/arclength5.png>
 Package pdftex.def Info: images/arclength5.png  used on input line 22.
@@ -743,7 +743,7 @@ Package pdftex.def Info: images/arclength5.png  used on input line 22.
 
 
 [69 <./images/arclength1.png> <./images/arclength5.png>]
-<images/arclength3.png, id=737, 91.09032pt x 62.48344pt>
+<images/arclength3.png, id=760, 91.09032pt x 62.48344pt>
 File: images/arclength3.png Graphic file (type png)
 <use images/arclength3.png>
 Package pdftex.def Info: images/arclength3.png  used on input line 38.
@@ -751,7 +751,7 @@ Package pdftex.def Info: images/arclength3.png  used on input line 38.
 
 
 [70 <./images/arclength3.png>]
-<images/arclength4.png, id=743, 186.6975pt x 149.8097pt>
+<images/arclength4.png, id=766, 186.6975pt x 149.8097pt>
 File: images/arclength4.png Graphic file (type png)
 <use images/arclength4.png>
 Package pdftex.def Info: images/arclength4.png  used on input line 70.
@@ -761,7 +761,7 @@ Package pdftex.def Info: images/arclength4.png  used on input line 70.
 [71 <./images/arclength4.png>])
 
 [72] (sections/surfaceofrevolution.tex
-<images/surfacerev1.png, id=762, 157.33781pt x 144.54pt>
+<images/surfacerev1.png, id=785, 157.33781pt x 144.54pt>
 File: images/surfacerev1.png Graphic file (type png)
 <use images/surfacerev1.png>
 Package pdftex.def Info: images/surfacerev1.png  used on input line 15.
@@ -769,7 +769,7 @@ Package pdftex.def Info: images/surfacerev1.png  used on input line 15.
 
 
 [73 <./images/surfacerev1.png>]
-<images/surfacerev2.png, id=769, 206.27063pt x 112.16907pt>
+<images/surfacerev2.png, id=792, 206.27063pt x 112.16907pt>
 File: images/surfacerev2.png Graphic file (type png)
 <use images/surfacerev2.png>
 Package pdftex.def Info: images/surfacerev2.png  used on input line 24.
@@ -842,17 +842,17 @@ Package pdftex.def Info: images/surfacerev2.png  used on input line 24.
 [89
 
 ] (answers/ans_binomialexpansion.tex
-<images/Picture2.png, id=898, 199.74625pt x 36.63687pt>
+<images/Picture2.png, id=926, 199.74625pt x 36.63687pt>
 File: images/Picture2.png Graphic file (type png)
 <use images/Picture2.png>
 Package pdftex.def Info: images/Picture2.png  used on input line 58.
 (pdftex.def)             Requested size: 234.8775pt x 43.08296pt.
-<images/Picture3.png, id=899, 392.96812pt x 22.58438pt>
+<images/Picture3.png, id=927, 392.96812pt x 22.58438pt>
 File: images/Picture3.png Graphic file (type png)
 <use images/Picture3.png>
 Package pdftex.def Info: images/Picture3.png  used on input line 70.
 (pdftex.def)             Requested size: 234.8775pt x 13.49902pt.
-<images/Picture4.png, id=900, 360.34625pt x 19.57312pt>
+<images/Picture4.png, id=928, 360.34625pt x 19.57312pt>
 File: images/Picture4.png Graphic file (type png)
 <use images/Picture4.png>
 Package pdftex.def Info: images/Picture4.png  used on input line 82.
@@ -896,7 +896,7 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 [103]
 
 [104]
-<images/exacttrigvalues11.png, id=1028, 487.8225pt x 326.72063pt>
+<images/exacttrigvalues11.png, id=1058, 487.8225pt x 326.72063pt>
 File: images/exacttrigvalues11.png Graphic file (type png)
 <use images/exacttrigvalues11.png>
 Package pdftex.def Info: images/exacttrigvalues11.png  used on input line 149.
@@ -904,7 +904,7 @@ Package pdftex.def Info: images/exacttrigvalues11.png  used on input line 149.
 
 
 [105 <./images/exacttrigvalues11.png>]
-<images/exacttrigvalues.png, id=1035, 89.58469pt x 63.98906pt>
+<images/exacttrigvalues.png, id=1065, 89.58469pt x 63.98906pt>
 File: images/exacttrigvalues.png Graphic file (type png)
 <use images/exacttrigvalues.png>
 Package pdftex.def Info: images/exacttrigvalues.png  used on input line 201.
@@ -912,7 +912,7 @@ Package pdftex.def Info: images/exacttrigvalues.png  used on input line 201.
 
 
 [106 <./images/exacttrigvalues.png>]
-<images/exacttrigvalues2.png, id=1042, 122.70844pt x 80.55093pt>
+<images/exacttrigvalues2.png, id=1072, 122.70844pt x 80.55093pt>
 File: images/exacttrigvalues2.png Graphic file (type png)
 <use images/exacttrigvalues2.png>
 Package pdftex.def Info: images/exacttrigvalues2.png  used on input line 243.
@@ -980,7 +980,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--42
 [131])
 
 [132] (answers/ans_dimethod.tex
-<images/di_a1.png, id=1240, 184.18813pt x 124.96687pt>
+<images/di_a1.png, id=1274, 184.18813pt x 124.96687pt>
 File: images/di_a1.png Graphic file (type png)
 <use images/di_a1.png>
 Package pdftex.def Info: images/di_a1.png  used on input line 12.
@@ -994,49 +994,49 @@ Package pdftex.def Info: images/di_a1.png  used on input line 12.
 [135])
 
 [136] (answers/ans_trigsubs.tex
-<images/trigsuba1.png, id=1274, 68.50594pt x 60.97781pt>
+<images/trigsuba1.png, id=1309, 68.50594pt x 60.97781pt>
 File: images/trigsuba1.png Graphic file (type png)
 <use images/trigsuba1.png>
-Package pdftex.def Info: images/trigsuba1.png  used on input line 10.
+Package pdftex.def Info: images/trigsuba1.png  used on input line 11.
 (pdftex.def)             Requested size: 68.50577pt x 60.97765pt.
-<images/trigsuba2.png, id=1275, 82.80937pt x 67.75313pt>
+<images/trigsuba2.png, id=1310, 82.80937pt x 67.75313pt>
 File: images/trigsuba2.png Graphic file (type png)
 <use images/trigsuba2.png>
-Package pdftex.def Info: images/trigsuba2.png  used on input line 41.
+Package pdftex.def Info: images/trigsuba2.png  used on input line 42.
 (pdftex.def)             Requested size: 82.80916pt x 67.75294pt.
 
 
 [137 <./images/trigsuba1.png> <./images/trigsuba2.png>]
-<images/trigsuba3.png, id=1284, 87.32625pt x 76.78688pt>
+<images/trigsuba3.png, id=1319, 87.32625pt x 76.78688pt>
 File: images/trigsuba3.png Graphic file (type png)
 <use images/trigsuba3.png>
-Package pdftex.def Info: images/trigsuba3.png  used on input line 77.
+Package pdftex.def Info: images/trigsuba3.png  used on input line 78.
 (pdftex.def)             Requested size: 87.32603pt x 76.78668pt.
-<images/trigsuba4.png, id=1285, 72.27pt x 60.97781pt>
+<images/trigsuba4.png, id=1320, 72.27pt x 60.97781pt>
 File: images/trigsuba4.png Graphic file (type png)
 <use images/trigsuba4.png>
-Package pdftex.def Info: images/trigsuba4.png  used on input line 119.
+Package pdftex.def Info: images/trigsuba4.png  used on input line 120.
 (pdftex.def)             Requested size: 72.2698pt x 60.97765pt.
 
 
 [138 <./images/trigsuba3.png>]
-<images/trigsuba5.png, id=1292, 120.45pt x 67.75313pt>
+<images/trigsuba5.png, id=1327, 120.45pt x 67.75313pt>
 File: images/trigsuba5.png Graphic file (type png)
 <use images/trigsuba5.png>
-Package pdftex.def Info: images/trigsuba5.png  used on input line 151.
+Package pdftex.def Info: images/trigsuba5.png  used on input line 152.
 (pdftex.def)             Requested size: 120.44969pt x 67.75294pt.
 
 
 [139 <./images/trigsuba4.png> <./images/trigsuba5.png>]
-<images/trigsuba6.png, id=1302, 115.18031pt x 63.98906pt>
+<images/trigsuba6.png, id=1337, 115.18031pt x 63.98906pt>
 File: images/trigsuba6.png Graphic file (type png)
 <use images/trigsuba6.png>
-Package pdftex.def Info: images/trigsuba6.png  used on input line 181.
+Package pdftex.def Info: images/trigsuba6.png  used on input line 182.
 (pdftex.def)             Requested size: 115.18001pt x 63.98889pt.
-<images/trigsuba7.png, id=1303, 75.28125pt x 63.23625pt>
+<images/trigsuba7.png, id=1338, 75.28125pt x 63.23625pt>
 File: images/trigsuba7.png Graphic file (type png)
 <use images/trigsuba7.png>
-Package pdftex.def Info: images/trigsuba7.png  used on input line 220.
+Package pdftex.def Info: images/trigsuba7.png  used on input line 221.
 (pdftex.def)             Requested size: 75.28105pt x 63.23608pt.
 
 
@@ -1045,36 +1045,36 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 [140 <./images/trigsuba6.png>]
-<images/trigsuba8.png, id=1310, 63.23625pt x 48.18pt>
+<images/trigsuba8.png, id=1345, 63.23625pt x 48.18pt>
 File: images/trigsuba8.png Graphic file (type png)
 <use images/trigsuba8.png>
-Package pdftex.def Info: images/trigsuba8.png  used on input line 252.
+Package pdftex.def Info: images/trigsuba8.png  used on input line 253.
 (pdftex.def)             Requested size: 63.23608pt x 48.17986pt.
 
 
 [141 <./images/trigsuba7.png> <./images/trigsuba8.png>]
-<images/trigsuba9.png, id=1319, 91.84312pt x 63.98906pt>
+<images/trigsuba9.png, id=1354, 91.84312pt x 63.98906pt>
 File: images/trigsuba9.png Graphic file (type png)
 <use images/trigsuba9.png>
-Package pdftex.def Info: images/trigsuba9.png  used on input line 287.
+Package pdftex.def Info: images/trigsuba9.png  used on input line 288.
 (pdftex.def)             Requested size: 91.84288pt x 63.98889pt.
-<images/trigsuba10.png, id=1320, 136.25906pt x 78.2925pt>
+<images/trigsuba10.png, id=1355, 136.25906pt x 78.2925pt>
 File: images/trigsuba10.png Graphic file (type png)
 <use images/trigsuba10.png>
-Package pdftex.def Info: images/trigsuba10.png  used on input line 318.
+Package pdftex.def Info: images/trigsuba10.png  used on input line 319.
 (pdftex.def)             Requested size: 136.25871pt x 78.2923pt.
 
 
 [142 <./images/trigsuba9.png> <./images/trigsuba10.png>]
-<images/trigsub10a.png, id=1329, 187.19937pt x 102.88437pt>
+<images/trigsub10a.png, id=1364, 187.19937pt x 102.88437pt>
 File: images/trigsub10a.png Graphic file (type png)
 <use images/trigsub10a.png>
-Package pdftex.def Info: images/trigsub10a.png  used on input line 354.
+Package pdftex.def Info: images/trigsub10a.png  used on input line 355.
 (pdftex.def)             Requested size: 187.19891pt x 102.88411pt.
-<images/trigsuba11.png, id=1330, 141.52875pt x 83.5622pt>
+<images/trigsuba11.png, id=1365, 141.52875pt x 83.5622pt>
 File: images/trigsuba11.png Graphic file (type png)
 <use images/trigsuba11.png>
-Package pdftex.def Info: images/trigsuba11.png  used on input line 376.
+Package pdftex.def Info: images/trigsuba11.png  used on input line 377.
 (pdftex.def)             Requested size: 141.5284pt x 83.56198pt.
 
 
@@ -1085,17 +1085,17 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [143 <./images/trigsub10a.png>]
 
 [144 <./images/trigsuba11.png>]
-<images/trigsuba12.png, id=1343, 149.05687pt x 103.88812pt>
+<images/trigsuba12.png, id=1378, 149.05687pt x 103.88812pt>
 File: images/trigsuba12.png Graphic file (type png)
 <use images/trigsuba12.png>
-Package pdftex.def Info: images/trigsuba12.png  used on input line 435.
+Package pdftex.def Info: images/trigsuba12.png  used on input line 436.
 (pdftex.def)             Requested size: 149.0565pt x 103.88786pt.
 
 
 [145 <./images/trigsuba12.png>]) (answers/ans_kingsrule.tex
 File: images/trigsuba8.png Graphic file (type png)
 <use images/trigsuba8.png>
-Package pdftex.def Info: images/trigsuba8.png  used on input line 48.
+Package pdftex.def Info: images/trigsuba8.png  used on input line 49.
 (pdftex.def)             Requested size: 63.23608pt x 48.17986pt.
 
 
@@ -1106,10 +1106,10 @@ Package pdftex.def Info: images/trigsuba8.png  used on input line 48.
 [148]) (answers/ans_parametricintegration.tex
 
 [149]
-<images/parametricintegration3.png, id=1374, 120.95187pt x 111.41624pt>
+<images/parametricintegration3.png, id=1412, 120.95187pt x 111.41624pt>
 File: images/parametricintegration3.png Graphic file (type png)
 <use images/parametricintegration3.png>
-Package pdftex.def Info: images/parametricintegration3.png  used on input line 108.
+Package pdftex.def Info: images/parametricintegration3.png  used on input line 109.
 (pdftex.def)             Requested size: 70.46037pt x 64.90707pt.
 
 
@@ -1124,7 +1124,7 @@ Package pdftex.def Info: images/parametricintegration3.png  used on input line 1
 [154]
 
 [155]
-<images/volrev20.png, id=1420, 144.54pt x 60.225pt>
+<images/volrev20.png, id=1459, 144.54pt x 60.225pt>
 File: images/volrev20.png Graphic file (type png)
 <use images/volrev20.png>
 Package pdftex.def Info: images/volrev20.png  used on input line 176.
@@ -1152,7 +1152,7 @@ Package pdftex.def Info: images/volrev20.png  used on input line 176.
 [165]
 
 [166]
-<images/diffeqns.png, id=1501, 81.30376pt x 70.01157pt>
+<images/diffeqns.png, id=1542, 81.30376pt x 70.01157pt>
 File: images/diffeqns.png Graphic file (type png)
 <use images/diffeqns.png>
 Package pdftex.def Info: images/diffeqns.png  used on input line 265.
@@ -1192,17 +1192,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E2D80841352CD8060F3E105471A9E679;4069.
  ) 
 Here is how much of TeX's memory you used:
- 12849 strings out of 473919
- 211513 string characters out of 5727897
+ 12873 strings out of 473919
+ 211940 string characters out of 5727897
  1959908 words of memory out of 5000000
  34619 multiletter control sequences out of 15000+600000
  567815 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,79p,1288b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (179 pages, 1648009 bytes).
+Output written on main.pdf (179 pages, 1655058 bytes).
 PDF statistics:
- 1805 PDF objects out of 2073 (max. 8388607)
- 707 named destinations out of 1000 (max. 500000)
+ 1854 PDF objects out of 2073 (max. 8388607)
+ 731 named destinations out of 1000 (max. 500000)
  534 words of extra memory for PDF output out of 10000 (max. 10000000)
 

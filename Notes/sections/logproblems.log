@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  21 MAR 2025 12:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  7 APR 2025 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -381,7 +381,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-LaTeX Warning: Reference `Log problems answers' on page 2 undefined on input line 74.
+LaTeX Warning: Reference `Log problems answers' on page 2 undefined on input line 73.
 
 
 
@@ -400,17 +400,20 @@ Package rerunfilecheck Info: File `logproblems.out' has not changed.
 (rerunfilecheck)             Checksum: 82EE9E4DF72E1129DB8D2F5599FB57E0;106.
  ) 
 Here is how much of TeX's memory you used:
- 11124 strings out of 473919
- 173723 string characters out of 5727897
+ 11126 strings out of 473919
+ 173756 string characters out of 5727897
  1943908 words of memory out of 5000000
  33808 multiletter control sequences out of 15000+600000
  564232 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,6n,99p,1304b,569s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,6n,99p,1304b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{logproblemsanswers} has been referenced but does not exist, replaced by a fixed one
+
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\logproblems.pdf" (3 pages, 118622 bytes).
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\logproblems.pdf" (3 pages, 119088 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
