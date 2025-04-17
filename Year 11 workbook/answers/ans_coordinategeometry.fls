@@ -1,7 +1,14 @@
 PWD c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook
 INPUT C:\Users\pad\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.tex
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.log
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\..\main.tex
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\..\main.tex
 INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\main.tex
-OUTPUT main.log
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -51,8 +58,6 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.sty
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
@@ -116,10 +121,10 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.aux
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.aux
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -136,19 +141,26 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cf
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
-OUTPUT main.pdf
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.pdf
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
@@ -163,103 +175,14 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbo
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\pad\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\main.toc
-INPUT .\main.toc
-INPUT main.toc
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT main.toc
-INPUT .\sections\nonrighttrig.tex
-INPUT .\sections\nonrighttrig.tex
-INPUT sections\nonrighttrig.tex
-INPUT .\sections\nonrighttrig.tex
-INPUT .\sections\nonrighttrig.tex
-INPUT sections\nonrighttrig.tex
-INPUT .\images\nonrighttrig.png
-INPUT .\images\nonrighttrig.png
-INPUT images\nonrighttrig.png
-INPUT .\images\nonrighttrig.png
-INPUT .\images\nonrighttrig.png
-INPUT .\images\nonrighttrig.png
-INPUT .\images\nonrighttrig.png
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\sections\coordinategeometry.tex
-INPUT .\sections\coordinategeometry.tex
-INPUT sections\coordinategeometry.tex
-INPUT .\sections\coordinategeometry.tex
-INPUT .\sections\coordinategeometry.tex
-INPUT sections\coordinategeometry.tex
-INPUT .\sections\sequences.tex
-INPUT .\sections\sequences.tex
-INPUT sections\sequences.tex
-INPUT .\sections\sequences.tex
-INPUT .\sections\sequences.tex
-INPUT sections\sequences.tex
-INPUT .\sections\networks.tex
-INPUT .\sections\networks.tex
-INPUT sections\networks.tex
-INPUT .\sections\networks.tex
-INPUT .\sections\networks.tex
-INPUT sections\networks.tex
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT .\answers\ans_nonrighttrig.tex
-INPUT .\answers\ans_nonrighttrig.tex
-INPUT answers\ans_nonrighttrig.tex
-INPUT .\answers\ans_nonrighttrig.tex
-INPUT .\answers\ans_nonrighttrig.tex
-INPUT answers\ans_nonrighttrig.tex
-INPUT .\answers\ans_coordinategeometry.tex
-INPUT .\answers\ans_coordinategeometry.tex
-INPUT answers\ans_coordinategeometry.tex
-INPUT .\answers\ans_coordinategeometry.tex
-INPUT .\answers\ans_coordinategeometry.tex
-INPUT answers\ans_coordinategeometry.tex
-INPUT .\answers\ans_sequences.tex
-INPUT .\answers\ans_sequences.tex
-INPUT answers\ans_sequences.tex
-INPUT .\answers\ans_sequences.tex
-INPUT .\answers\ans_sequences.tex
-INPUT answers\ans_sequences.tex
-INPUT .\answers\ans_networks.tex
-INPUT .\answers\ans_networks.tex
-INPUT answers\ans_networks.tex
-INPUT .\answers\ans_networks.tex
-INPUT .\answers\ans_networks.tex
-INPUT answers\ans_networks.tex
-INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\answers\ans_coordinategeometry.out
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb

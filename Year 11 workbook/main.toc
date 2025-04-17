@@ -1,2 +1,4 @@
 \contentsline {section}{\numberline {1}Non right-angle trigonometry}{3}{section.1}%
 \contentsline {section}{\numberline {2}Coordinate geometry}{5}{section.2}%
+\contentsline {section}{\numberline {3}Sequences and series}{7}{section.3}%
+\contentsline {section}{\numberline {4}Networks}{9}{section.4}%
