@@ -201,6 +201,12 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbo
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\sections\coordinategeometry.tex
+INPUT .\sections\coordinategeometry.tex
+INPUT sections\coordinategeometry.tex
+INPUT .\sections\coordinategeometry.tex
+INPUT .\sections\coordinategeometry.tex
+INPUT sections\coordinategeometry.tex
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT .\answers\ans_nonrighttrig.tex
 INPUT .\answers\ans_nonrighttrig.tex
@@ -208,6 +214,12 @@ INPUT answers\ans_nonrighttrig.tex
 INPUT .\answers\ans_nonrighttrig.tex
 INPUT .\answers\ans_nonrighttrig.tex
 INPUT answers\ans_nonrighttrig.tex
+INPUT .\answers\ans_coordinategeometry.tex
+INPUT .\answers\ans_coordinategeometry.tex
+INPUT answers\ans_coordinategeometry.tex
+INPUT .\answers\ans_coordinategeometry.tex
+INPUT .\answers\ans_coordinategeometry.tex
+INPUT answers\ans_coordinategeometry.tex
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out

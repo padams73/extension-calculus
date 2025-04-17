@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1744850628.42564 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 11 workbook/main.tex" "main.pdf" "main" 1744850629.83937 0
+["pdflatex"] 1744923782.88297 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 11 workbook/main.tex" "main.pdf" "main" 1744923784.27339 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744849400 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744837749 13147245 502c8fc61b326b8ccde5b1b211477aad ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -90,14 +90,16 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1736608268 48766 87a17a4ef312a39cd43896e34a679a56 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
+  "answers/ans_coordinategeometry.tex" 1744923750 380 59905b19c534a46bc406a835f683ac7a ""
   "answers/ans_nonrighttrig.tex" 1744014892 386 37d0fca14237fe87e22d6077f8e9edc1 ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 11 workbook/main.tex" 1744850076 975 2d13d73dcd2dfea6c6e52d27d120435b ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 11 workbook/main.tex" 1744923780 1076 1856f1358c325f4fe38d997906d92956 ""
   "images/nonrighttrig.png" 1744850250 13984 b44882d3d72a6ed23f4fcdfd00e2e3a7 ""
-  "main.aux" 1744850629 389 f8ed6057f84b437502d7628613a8570a "pdflatex"
-  "main.out" 1744850629 189 32bf55e0ab13206fd435b548c2c7f5b8 "pdflatex"
-  "main.tex" 1744850076 975 2d13d73dcd2dfea6c6e52d27d120435b ""
-  "main.toc" 1744850629 84 dc39f4de73464fb0896b4ef24f486d89 "pdflatex"
-  "sections/nonrighttrig.tex" 1744850624 889 05e452bbf4941b4d818b923f64b81d34 ""
+  "main.aux" 1744923784 609 6c4bb851020a436648c5c89a954b11b9 "pdflatex"
+  "main.out" 1744923784 330 66c4d4d2259cda00a974e120aa8321fa "pdflatex"
+  "main.tex" 1744923780 1076 1856f1358c325f4fe38d997906d92956 ""
+  "main.toc" 1744923784 159 9afc7ba24fb35f4e121b4f6d9f716d91 "pdflatex"
+  "sections/coordinategeometry.tex" 1744923655 622 9e71e08debdcde438a13e67c8bdb80d2 ""
+  "sections/nonrighttrig.tex" 1744850686 889 05e452bbf4941b4d818b923f64b81d34 ""
   (generated)
   "main.aux"
   "main.log"
