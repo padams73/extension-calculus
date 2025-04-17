@@ -3,11 +3,16 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 11 workbook/main.tex"
-(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 11 workbook/main.tex
+**"c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 11 workbook/sections/nonrighttrig.tex"
+(c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Year 11 workbook/sections/nonrighttrig.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
-(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `../main.tex'
+(C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\main.tex (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
@@ -153,9 +158,7 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthfirst=\dimen172
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
- (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
-Package: import 2020/04/01  v 6.2
-)) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
@@ -275,30 +278,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 21.
- (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)) (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count301
-) (main.aux)
-\openout1 = `main.aux'.
+) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\sections\nonrighttrig.aux)
+\openout1 = `nonrighttrig.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count302
@@ -359,99 +362,60 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 28.
- (main.out) (main.out)
+Package hyperref Info: Link coloring ON on input line 3.
+ (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\sections\nonrighttrig.out) (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\sections\nonrighttrig.out)
 \@outlinefile=\write3
-\openout3 = `main.out'.
+\openout3 = `nonrighttrig.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+<images/nonrighttrig.png, id=7, 161.60374pt x 129.48375pt>
+File: images/nonrighttrig.png Graphic file (type png)
+<use images/nonrighttrig.png>
+Package pdftex.def Info: images/nonrighttrig.png  used on input line 8.
+(pdftex.def)             Requested size: 113.81102pt x 91.18922pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 [1
 
-{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
+{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/nonrighttrig.png>]
+
+LaTeX Warning: Reference `Non right trig answers' on page 2 undefined on input line 24.
 
 
 
-[2] (sections/nonrighttrig.tex
-<images/nonrighttrig.png, id=20, 161.60374pt x 129.48375pt>
-File: images/nonrighttrig.png Graphic file (type png)
-<use images/nonrighttrig.png>
-Package pdftex.def Info: images/nonrighttrig.png  used on input line 8.
-(pdftex.def)             Requested size: 113.81102pt x 91.18922pt.
-
-
-[3 <./images/nonrighttrig.png>])
-
-[4]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: letterpaper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(284.52756pt, 415.04506pt, 95.39737pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=415.04506pt
-* \oddsidemargin=19.8752pt
-* \evensidemargin=19.8752pt
-* \topmargin=175.25757pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=44.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
-
-[5
-
-] (answers/ans_nonrighttrig.tex)
-
-[6
-
-] (main.aux)
+[2] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\sections\nonrighttrig.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `nonrighttrig.out' has not changed.
 (rerunfilecheck)             Checksum: 32BF55E0AB13206FD435B548C2C7F5B8;189.
  ) 
 Here is how much of TeX's memory you used:
- 11137 strings out of 469959
- 173433 string characters out of 5470802
- 561349 words of memory out of 5000000
- 37749 multiletter control sequences out of 15000+600000
- 635887 words of font info for 75 fonts, out of 8000000 for 9000
+ 11108 strings out of 469959
+ 173770 string characters out of 5470802
+ 563578 words of memory out of 5000000
+ 37736 multiletter control sequences out of 15000+600000
+ 632988 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,1299b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (6 pages, 107995 bytes).
+ 95i,5n,99p,1316b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{nonrighttriganswers} has been referenced but does not exist, replaced by a fixed one
+
+<C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Year 11 workbook\sections\nonrighttrig.pdf" (2 pages, 90447 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
  14 words of extra memory for PDF output out of 10000 (max. 10000000)
 

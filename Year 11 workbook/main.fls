@@ -176,7 +176,13 @@ INPUT sections\nonrighttrig.tex
 INPUT .\sections\nonrighttrig.tex
 INPUT .\sections\nonrighttrig.tex
 INPUT sections\nonrighttrig.tex
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\images\nonrighttrig.png
+INPUT .\images\nonrighttrig.png
+INPUT images\nonrighttrig.png
+INPUT .\images\nonrighttrig.png
+INPUT .\images\nonrighttrig.png
+INPUT .\images\nonrighttrig.png
+INPUT .\images\nonrighttrig.png
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -194,6 +200,7 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbo
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT .\answers\ans_nonrighttrig.tex
 INPUT .\answers\ans_nonrighttrig.tex
