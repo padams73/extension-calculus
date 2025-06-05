@@ -24,3 +24,4 @@
 \contentsline {section}{\numberline {24}Integrating factor method}{80}{section.24}%
 \contentsline {section}{\numberline {25}Mixing problems}{83}{section.25}%
 \contentsline {section}{\numberline {26}Evaluating limits}{86}{section.26}%
+\contentsline {section}{\numberline {27}Taylor series}{89}{section.27}%

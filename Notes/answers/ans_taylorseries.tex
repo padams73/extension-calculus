@@ -1,0 +1,57 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+\hypertarget{taylorseriesanswers}{\subsection*{Answers - Taylor series (\hyperlink{taylorserieslink} {page \pageref{taylor series}})}}
+
+\label{Taylor series answers}
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    Derive the first two terms of the Taylor series to approximate the sine function about zero.
+
+    $f(x) = \sin{(x)} \rightarrow f(0)=0$
+
+    $f'(x) = \cos{(x)} \rightarrow f'(0)=1$
+
+    $f''(x) = -\sin{(x)} \rightarrow f''(0)=0$
+    
+    $f^{(3)}(x) = -\cos{(x)} \rightarrow f^{(3)}(x)=-1$
+
+    $p(0) = f(0) \rightarrow c_0 = 0$
+
+    $p'(0) = f'(0) \rightarrow c_1 = 1 \therefore c_1 = 1$
+
+    $p''(0) = f''(0) \rightarrow 2c_2 = 0 \therefore c_2 = 0$
+
+    $p^{(3)}(0) = f^{(3)}(0) \rightarrow 6c_3 = -1 \therefore c_3 = -\frac{1}{6}$
+
+    This gives the first two terms as $p(x) = x - \frac{x^3}{6}$
+
+    \item 
+    Derive the next two terms of this series, then generalise this as a sum.
+
+    The derivatives of $f(x)$ rotate around, so we know that:
+    \begin{itemize}
+        \item     $p^{(4)}(0)=0$, so $c_4 = 0$
+        \item     $p^{(5)}(0)=1$, so $c_5 = \frac{1}{5!}$
+        \item      $p^{(6)}(0)=0$, so $c_6 = 0$
+        \item       $p^{(7)}(0)=-1$, so $c_7 = -\frac{1}{7!}$  
+    \end{itemize}
+
+    This gives our polynomial as $p(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \dots$
+
+    Generalising as a sum we get:
+    $\sum_{n=0}^{\infty} \frac{(-1)^n x^{(2n+1)}}{(2n+1)!}$
+
+    \item
+    Derive the Taylor series for the function $f(x)=e^x$, finding the first four terms and generalising.
+
+    \item
+    Substitute $x=i\theta$ into the Taylor series for $e^x$, finding the first six terms. Split these into the real and imaginary terms. What do you notice?
+    
+
+\end{enumerate}
+
+
+
+
+\end{document}
