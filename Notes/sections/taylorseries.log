@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.17)  8 JUN 2025 11:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.17)  8 JUN 2025 17:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -367,70 +367,66 @@ Package hyperref Info: Link coloring ON on input line 3.
 \@outlinefile=\write3
 \openout3 = `taylorseries.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (C:\Users\pad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <images/taylorseries1.png, id=7, 467.24562pt x 129.98563pt>
 File: images/taylorseries1.png Graphic file (type png)
 <use images/taylorseries1.png>
-Package pdftex.def Info: images/taylorseries1.png  used on input line 21.
-(pdftex.def)             Requested size: 352.31625pt x 98.01656pt.
+Package pdftex.def Info: images/taylorseries1.png  used on input line 22.
+(pdftex.def)             Requested size: 234.8775pt x 65.34172pt.
 <images/taylorseries2.png, id=9, 467.24562pt x 137.01187pt>
 File: images/taylorseries2.png Graphic file (type png)
 <use images/taylorseries2.png>
-Package pdftex.def Info: images/taylorseries2.png  used on input line 40.
-(pdftex.def)             Requested size: 352.31625pt x 103.31476pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+Package pdftex.def Info: images/taylorseries2.png  used on input line 39.
+(pdftex.def)             Requested size: 234.8775pt x 68.87372pt.
 
 
 [1
 
-{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/taylorseries1.png>]
-<images/taylorseries3a.png, id=26, 429.605pt x 149.55875pt>
+{C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/taylorseries1.png> <./images/taylorseries2.png>]
+<images/taylorseries3a.png, id=27, 429.605pt x 149.55875pt>
 File: images/taylorseries3a.png Graphic file (type png)
 <use images/taylorseries3a.png>
-Package pdftex.def Info: images/taylorseries3a.png  used on input line 58.
-(pdftex.def)             Requested size: 352.31625pt x 122.65494pt.
-<images/taylorseries3.png, id=27, 467.24562pt x 134.00063pt>
+Package pdftex.def Info: images/taylorseries3a.png  used on input line 57.
+(pdftex.def)             Requested size: 234.8775pt x 81.7692pt.
+<images/taylorseries3.png, id=28, 467.24562pt x 134.00063pt>
 File: images/taylorseries3.png Graphic file (type png)
 <use images/taylorseries3.png>
-Package pdftex.def Info: images/taylorseries3.png  used on input line 73.
-(pdftex.def)             Requested size: 352.31625pt x 101.04408pt.
+Package pdftex.def Info: images/taylorseries3.png  used on input line 72.
+(pdftex.def)             Requested size: 234.8775pt x 67.36pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[2 <./images/taylorseries2.png> <./images/taylorseries3a.png>]
-<images/taylorseries4.png, id=35, 473.26813pt x 137.51375pt>
+[2 <./images/taylorseries3a.png> <./images/taylorseries3.png>]
+<images/taylorseries4.png, id=36, 473.26813pt x 137.51375pt>
 File: images/taylorseries4.png Graphic file (type png)
 <use images/taylorseries4.png>
-Package pdftex.def Info: images/taylorseries4.png  used on input line 105.
-(pdftex.def)             Requested size: 352.31625pt x 102.37337pt.
+Package pdftex.def Info: images/taylorseries4.png  used on input line 104.
+(pdftex.def)             Requested size: 234.8775pt x 68.24472pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[3 <./images/taylorseries4.png>]
+
+[4]
+<images/taylorseries10.png, id=46, 464.23438pt x 179.16937pt>
+File: images/taylorseries10.png Graphic file (type png)
+<use images/taylorseries10.png>
+Package pdftex.def Info: images/taylorseries10.png  used on input line 155.
+(pdftex.def)             Requested size: 234.8775pt x 90.65068pt.
+
+
+[5 <./images/taylorseries10.png>]
+
+LaTeX Warning: Reference `Taylor series answers' on page 6 undefined on input line 160.
 
 
 
-[3 <./images/taylorseries3.png>]
-
-[4 <./images/taylorseries4.png>]
-
-LaTeX Warning: Reference `Taylor series answers' on page 5 undefined on input line 134.
-
-
-
-[5] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\taylorseries.aux)
+[6] (c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\taylorseries.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
@@ -443,20 +439,20 @@ Package rerunfilecheck Info: File `taylorseries.out' has not changed.
 (rerunfilecheck)             Checksum: B79CA1DCC17163D8CF364EE5CCCE5433;111.
  ) 
 Here is how much of TeX's memory you used:
- 11155 strings out of 469959
- 174768 string characters out of 5470802
- 569489 words of memory out of 5000000
- 37780 multiletter control sequences out of 15000+600000
+ 11164 strings out of 469959
+ 175003 string characters out of 5470802
+ 570489 words of memory out of 5000000
+ 37787 multiletter control sequences out of 15000+600000
  635636 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,7n,99p,1305b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,7n,99p,1305b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{taylorseriesanswers} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\taylorseries.pdf" (5 pages, 325193 bytes).
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\taylorseries.pdf" (6 pages, 366196 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 39 words of extra memory for PDF output out of 10000 (max. 10000000)
 

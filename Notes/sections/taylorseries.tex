@@ -6,22 +6,21 @@ Taylor series enable us to approximate functions using polynomials. Polynomials 
 
 Using Taylor series we can approximate complicated functions at particular points with great accuracy.
 
-The general form of a Taylor series is:
-\[p(x)=c_0 + c_1x + c_2x^2 + c_3x^3 + \dots\]
+The general form of a Taylor series about $x=a$ is:
+\[p(x)=c_0 + c_1(x-a) + c_2(x-a)^2 + c_3(x-a)^3 + \dots\]
 
 Or more specifically:
-\[p(x)=\sum\limits_{n=0}^\infty c_nx^n\]
+\[p(x)=\sum\limits_{n=0}^\infty c_n(x-a)^n\]
 
+When we say "about \textit{a}" we mean that the approximation will be most accurate at that point as it is the centre of our approximating polynomial, and will get gradually less accurate the further away we get from \textit{a}.
 
 \subsection*{Approximating $f(x)=\cos{(x)}$ with a quadratic}
 To give an example, let's consider approximating the cosine function about zero with a quadratic.
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.75\textwidth]{images/taylorseries1.png}
+    \includegraphics[width=0.5\textwidth]{images/taylorseries1.png}
 \end{figure}
-
-When we say "about zero" we mean that the approximation will be most accurate at that point as it is the centre of our approximating polynomial, and will get gradually less accurate the further away we get from zero.
 
 \textit{Note: a Taylor series about zero is also known as a Maclaurin series.}
 
@@ -37,7 +36,7 @@ Our polynomial is currently $p(x) = 1$, giving a great approximation at $x=0$ bu
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.75\textwidth]{images/taylorseries2.png}
+    \includegraphics[width=0.5\textwidth]{images/taylorseries2.png}
 \end{figure}
 
 Next, we need to make sure that our approximating polynomial has the same gradient as cosine when $x=0$. We differentiate each function and substitute in $x=0$.
@@ -55,7 +54,7 @@ Finally, we have a quadratic so we want to make sure that the shape of the curve
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.75\textwidth]{images/taylorseries3a.png}
+    \includegraphics[width=0.5\textwidth]{images/taylorseries3a.png}
 \end{figure}
 
 At the point $x=0$ the cosine graph is concave down. To get the same shape we take the second derivatives:
@@ -70,7 +69,7 @@ You can see below that this gives a reasonable approximation for cosine near $x=
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.75\textwidth]{images/taylorseries3.png}
+    \includegraphics[width=0.5\textwidth]{images/taylorseries3.png}
 \end{figure}
 
 Remember, we derived a Taylor series about $x=0$ (also known as a Maclaurin series), so our approximation will always be more accurate closer to $x=0$.
@@ -102,7 +101,7 @@ Looking at the third and fourth derivatives, we get:
 So our polynomial approximating cosine would now be $p(x) = 1 - \frac{x^2}{2} + \frac{x^4}{24}$, giving us a good approximation for as far out as just over 1.5 radians.
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.75\textwidth]{images/taylorseries4.png}
+    \includegraphics[width=0.5\textwidth]{images/taylorseries4.png}
 \end{figure}
 
 \subsection*{Improving approximations}
@@ -128,6 +127,33 @@ This means that our polynomial could be:
 More specifically, we can write this as:
 \[p(x) = \sum_{n=0}^{\infty} \frac{(-1)^{n}x^{2n}}{(2n)!}\]
 
+\subsection*{Generalising the terms of a Taylor series}
+You may have noticed that each term is calculated the same way, so we can generalise this.
+
+If we consider the constant as the \textit{zero} term, the coefficient of the $n^{th}$ term can be found be taking the value of the $n^{th}$ derivative at the point we are forming the Taylor series about, and dividing it by $n!$.
+
+In other words:
+\[t_n = \frac{f^{(n)}(x)}{n!}\times x^n\]
+
+Which means our Taylor series can be written as a sum:
+\[p(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(x)}{n!}\times x^n\]
+
+As an example, we can find the Taylor series for $f(x)=\ln{2x+3}$ about $x=0$:
+
+First, find and evaluate the first few derivatives:
+\[f'(x) = \frac{2}{2x+3}\]
+\[f''(x) = -\frac{4}{(2x+3)^2}\]
+\[f^{(3)}(x) = \frac{16}{(2x+3)^3}\]
+\[f^{(4)}(x) = -\frac{96}{(2x+3)^4}\]
+\[f^{(5)}(x) = \frac{768}{(2x+3)^5} \]
+
+Using our generalisation and substituting in $x=0$, we can form the series:
+\[f(x) = \ln{|2x+3|} = \ln{3} + \frac{2x}{3} - \frac{4x^2}{18} + \frac{16x^3}{162} - \frac{96x^4}{1944} + \frac{768x^5}{29160} - \dots\]
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{images/taylorseries10.png}
+\end{figure}
 
 \pagebreak
 \hypertarget{taylorserieslink}{\subsection*{Questions}}
@@ -147,6 +173,9 @@ More specifically, we can write this as:
     \item
     Substitute $x=i\theta$ into the Taylor series for $e^x$ to show that $z=\cos{(\theta)}+i \sin{(\theta)}$ can also be written as $z=e^{i \theta}$.
 
-    
+    \item
+    Find the Taylor series for the function $f(x) = 2x e^{-6x}$ about $x = 1$. Remember to use $x-1$ in the series, not just $x$.
+
+
 \end{enumerate}
 \end{document}
