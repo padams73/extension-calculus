@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749115014.60245 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_taylorseries.tex" "answers/ans_taylorseries.pdf" "ans_taylorseries" 1749115015.98873 0
+["pdflatex"] 1749338354.18882 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_taylorseries.tex" "answers/ans_taylorseries.pdf" "ans_taylorseries" 1749338355.61892 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746150610 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1746150626 14064 553bc5e9a46b0cde6823bfa66db0fc12 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744837749 13147245 502c8fc61b326b8ccde5b1b211477aad ""
@@ -96,10 +96,10 @@
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pad/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "answers/../main.tex" 1749103651 3340 3a9ff002dd9ecc515b925e77bb400d54 ""
-  "answers/ans_taylorseries.aux" 1749115015 217 f3308de1d26b34b40a8cb651035e792f "pdflatex"
-  "answers/ans_taylorseries.out" 1749115015 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "answers/ans_taylorseries.tex" 1749115013 1893 75a6da7d6370d3be45fe2c45ec302e1f ""
-  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_taylorseries.tex" 1749115013 1893 75a6da7d6370d3be45fe2c45ec302e1f ""
+  "answers/ans_taylorseries.aux" 1749338355 217 2a102357b0a3981a1ac9ec4631a83ff4 "pdflatex"
+  "answers/ans_taylorseries.out" 1749338355 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "answers/ans_taylorseries.tex" 1749338353 3944 d643570d94c4b92b1964e30f81d95200 ""
+  "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/answers/ans_taylorseries.tex" 1749338353 3944 d643570d94c4b92b1964e30f81d95200 ""
   "main.tex" 1749103651 3340 3a9ff002dd9ecc515b925e77bb400d54 ""
   (generated)
   "answers/ans_taylorseries.aux"
