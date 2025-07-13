@@ -1,14 +1,14 @@
-PWD c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections
+PWD c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes
 INPUT C:\Users\pad\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.tex
-OUTPUT volumesofrevolution.log
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.log
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT ..\main.tex
-INPUT ..\main.tex
-INPUT ..\main.tex
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\..\main.tex
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\..\main.tex
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\main.tex
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -121,10 +121,10 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\volumesofrevolution.aux
-INPUT .\volumesofrevolution.aux
-INPUT volumesofrevolution.aux
-OUTPUT volumesofrevolution.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.aux
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.aux
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -141,8 +141,14 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cf
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-OUTPUT volumesofrevolution.out
-OUTPUT volumesofrevolution.pdf
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.pdf
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
+OUTPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -168,14 +174,146 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
+INPUT .\images\volrev1.png
+INPUT .\images\volrev1.png
+INPUT .\images\volrev1.png
+INPUT .\images\volrev1.png
+INPUT .\images\volrev1.png
+INPUT .\images\volrev1.png
+INPUT .\images\volrev1.png
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\images\volrev2.png
+INPUT .\images\volrev2.png
+INPUT .\images\volrev2.png
+INPUT .\images\volrev2.png
+INPUT .\images\volrev2.png
+INPUT .\images\volrev2.png
+INPUT .\images\volrev2.png
+INPUT .\images\volrev3.png
+INPUT .\images\volrev3.png
+INPUT .\images\volrev3.png
+INPUT .\images\volrev3.png
+INPUT .\images\volrev3.png
+INPUT .\images\volrev3.png
+INPUT .\images\volrev3.png
 INPUT C:\Users\pad\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\images\volrev4.png
+INPUT .\images\volrev4.png
+INPUT .\images\volrev4.png
+INPUT .\images\volrev4.png
+INPUT .\images\volrev4.png
+INPUT .\images\volrev4.png
+INPUT .\images\volrev4.png
+INPUT .\images\volrev5.png
+INPUT .\images\volrev5.png
+INPUT .\images\volrev5.png
+INPUT .\images\volrev5.png
+INPUT .\images\volrev5.png
+INPUT .\images\volrev5.png
+INPUT .\images\volrev5.png
+INPUT .\images\volrev6.png
+INPUT .\images\volrev6.png
+INPUT .\images\volrev6.png
+INPUT .\images\volrev6.png
+INPUT .\images\volrev6.png
+INPUT .\images\volrev6.png
+INPUT .\images\volrev6.png
+INPUT .\images\volrev7.png
+INPUT .\images\volrev7.png
+INPUT .\images\volrev7.png
+INPUT .\images\volrev7.png
+INPUT .\images\volrev7.png
+INPUT .\images\volrev7.png
+INPUT .\images\volrev7.png
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT volumesofrevolution.aux
-INPUT .\volumesofrevolution.out
-INPUT .\volumesofrevolution.out
+INPUT .\images\volrev8.png
+INPUT .\images\volrev8.png
+INPUT .\images\volrev8.png
+INPUT .\images\volrev8.png
+INPUT .\images\volrev8.png
+INPUT .\images\volrev8.png
+INPUT .\images\volrev8.png
+INPUT .\images\volrev9.png
+INPUT .\images\volrev9.png
+INPUT .\images\volrev9.png
+INPUT .\images\volrev9.png
+INPUT .\images\volrev9.png
+INPUT .\images\volrev9.png
+INPUT .\images\volrev9.png
+INPUT .\images\volrev11.png
+INPUT .\images\volrev11.png
+INPUT .\images\volrev11.png
+INPUT .\images\volrev11.png
+INPUT .\images\volrev11.png
+INPUT .\images\volrev11.png
+INPUT .\images\volrev11.png
+INPUT .\images\volrev10.png
+INPUT .\images\volrev10.png
+INPUT .\images\volrev10.png
+INPUT .\images\volrev10.png
+INPUT .\images\volrev10.png
+INPUT .\images\volrev10.png
+INPUT .\images\volrev10.png
+INPUT .\images\volrev12.png
+INPUT .\images\volrev12.png
+INPUT .\images\volrev12.png
+INPUT .\images\volrev12.png
+INPUT .\images\volrev12.png
+INPUT .\images\volrev12.png
+INPUT .\images\volrev12.png
+INPUT .\images\volrev13.png
+INPUT .\images\volrev13.png
+INPUT .\images\volrev13.png
+INPUT .\images\volrev13.png
+INPUT .\images\volrev13.png
+INPUT .\images\volrev13.png
+INPUT .\images\volrev13.png
+INPUT .\images\volrev14.png
+INPUT .\images\volrev14.png
+INPUT .\images\volrev14.png
+INPUT .\images\volrev14.png
+INPUT .\images\volrev14.png
+INPUT .\images\volrev14.png
+INPUT .\images\volrev14.png
+INPUT .\images\volrev15.png
+INPUT .\images\volrev15.png
+INPUT .\images\volrev15.png
+INPUT .\images\volrev15.png
+INPUT .\images\volrev15.png
+INPUT .\images\volrev15.png
+INPUT .\images\volrev15.png
+INPUT .\images\volrev16.png
+INPUT .\images\volrev16.png
+INPUT .\images\volrev16.png
+INPUT .\images\volrev16.png
+INPUT .\images\volrev16.png
+INPUT .\images\volrev16.png
+INPUT .\images\volrev16.png
+INPUT .\images\volrev17.png
+INPUT .\images\volrev17.png
+INPUT .\images\volrev17.png
+INPUT .\images\volrev17.png
+INPUT .\images\volrev17.png
+INPUT .\images\volrev17.png
+INPUT .\images\volrev17.png
+INPUT .\images\volrev18.png
+INPUT .\images\volrev18.png
+INPUT .\images\volrev18.png
+INPUT .\images\volrev18.png
+INPUT .\images\volrev18.png
+INPUT .\images\volrev18.png
+INPUT .\images\volrev18.png
+INPUT .\images\volrev19.png
+INPUT .\images\volrev19.png
+INPUT .\images\volrev19.png
+INPUT .\images\volrev19.png
+INPUT .\images\volrev19.png
+INPUT .\images\volrev19.png
+INPUT .\images\volrev19.png
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.aux
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
+INPUT c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\volumesofrevolution.out
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
@@ -194,5 +332,3 @@ INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
-INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb

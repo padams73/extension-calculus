@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.17)  26 JUN 2025 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.17)  13 JUL 2025 20:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -675,27 +675,20 @@ File: images/volrev12.png Graphic file (type png)
 <use images/volrev12.png>
 Package pdftex.def Info: images/volrev12.png  used on input line 160.
 (pdftex.def)             Requested size: 224.33757pt x 135.5059pt.
-<images/volrev13.png, id=716, 178.704pt x 136.656pt>
+
+
+[65 <./images/volrev10.png> <./images/volrev12.png>]
+<images/volrev13.png, id=726, 178.704pt x 136.656pt>
 File: images/volrev13.png Graphic file (type png)
 <use images/volrev13.png>
 Package pdftex.def Info: images/volrev13.png  used on input line 171.
 (pdftex.def)             Requested size: 178.70355pt x 136.65567pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/volrev14.png, id=717, 239.39438pt x 167.12437pt>
+<images/volrev14.png, id=727, 239.39438pt x 167.12437pt>
 File: images/volrev14.png Graphic file (type png)
 <use images/volrev14.png>
 Package pdftex.def Info: images/volrev14.png  used on input line 179.
 (pdftex.def)             Requested size: 140.92793pt x 98.3832pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[65 <./images/volrev10.png> <./images/volrev12.png>]
-<images/volrev15.png, id=730, 204.01219pt x 149.05687pt>
+<images/volrev15.png, id=728, 204.01219pt x 149.05687pt>
 File: images/volrev15.png Graphic file (type png)
 <use images/volrev15.png>
 Package pdftex.def Info: images/volrev15.png  used on input line 189.
@@ -1265,7 +1258,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,15n,79p,1288b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (189 pages, 1903412 bytes).
+Output written on main.pdf (189 pages, 1903476 bytes).
 PDF statistics:
  1943 PDF objects out of 2073 (max. 8388607)
  762 named destinations out of 1000 (max. 500000)
