@@ -1,0 +1,199 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+\hypertarget{functionalequationsanswers}{\subsection*{Answers - Functional equations (\hyperlink{functionalequationslink}{page \pageref{Functional equations}})}}
+
+\label{Functional equations answers}
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    Substitute $x=2$ first:
+
+    $f(2)+f(-1)=2$
+
+    Next, substitute $x=-1$
+
+    $f(-1)+f\bigl(\frac{1}{2}\bigr)=-1$
+
+    Substitute $x=\frac{1}{2}$
+
+    $f\bigl(\frac{1}{2}\bigr)+f(2)=\frac{1}{2}$
+
+    Equation 1 minus equation 2, plus equation 3 gives us:
+
+    $2f(2)=\frac{7}{2}$
+
+    $f(2)=\frac{7}{4}$
+
+    \item
+    Note we can rewrite $f\bigl(\frac{x+3}{x-3}\bigr)=\frac{(x+3)^2}{12x}$
+
+    Make the substitution $t=\frac{x+3}{x-3}$
+
+    $tx-3t=x+3$
+
+    $tx-x=3t+3$
+
+    $x=\frac{3t+3}{t-1}$
+
+    This creates a new equation to solve:
+
+    $f(t)=\frac{\bigl(\frac{3t+3}{t-1}+3\bigr)^2}{12\frac{3t+3}{t-1}}$
+
+    $f(t)=\frac{\bigl(\frac{3t+3}{t-1}+\frac{3t-3}{t-1}\bigr)^2}{\frac{36t+36}{t-1}}$
+
+    $f(t)=\frac{\bigl(\frac{6t}{t-1}\bigr)^2}{\frac{36t+36}{t-1}}$
+
+    $f(t)=\frac{36t^2}{(t-1)^2}\times \frac{t-1}{36t+36}$
+
+    $f(t)=\frac{t^2}{t-1}\times \frac{1}{t+1}$
+
+    $f(t)=\frac{t^2}{t^2-1}$
+
+    Finally, if the function holds for $t$, it holds for $x$, therefore:
+
+    $f(x)=\frac{x^2}{x^2-1}$
+
+    \item
+    Make the substitution $t=\frac{x}{x-1}$
+
+    $tx-t=x$
+
+    $tx-x=t$
+
+    $x=\frac{t}{t-1}$
+
+    Giving us a new equation to solve:
+
+    $f(t)=2f\bigl(\frac{t}{t-1}\bigr)+\bigl(\frac{t}{t-1}\bigr)^2$
+
+    Since it holds for $t$, it holds for $x$, meaning we now have two equations that we can solve simultaneously:
+
+    $(1): f(x)=2f\bigl(\frac{x}{x-1}\bigr)+\bigl(\frac{x}{x-1}\bigr)^2$
+
+    $(2): f\bigl(\frac{x}{x-1}\bigr)=2f(x)+x^2$
+
+    Double equation 2 and substitute into equation 1:
+
+    $f(x)=4f(x)+2x^2+\bigl(\frac{x}{x-1}\bigr)^2$
+
+    $3f(x)=-2x^2 - \bigl(\frac{x}{x-1}\bigr)^2$
+
+    $3f(x)=\frac{-2x^2(x-1)^2}{(x-1)^2}-\frac{x^2}{(x-1)^2}$
+
+    $3f(x)=\frac{-2x^2(x^2-2x+1)}{(x-1)^2}-\frac{x^2}{(x-1)^2}$
+
+    $3f(x)=\frac{-2x^4+4x^3-3x^2}{(x-1)^2}$
+
+    $f(x)=\frac{-2x^4+4x^3-3x^2}{3(x-1)^2}$
+
+    \item
+    If $f\bigl(\frac{x}{x-1}\bigr)=\frac{1}{x}$, find $f(\sin x)$
+
+    Make the substitution $t=\frac{x}{x-1}$
+
+    $tx-t=x$
+
+    $tx-x=t$
+
+    $x=\frac{t}{t-1}$
+
+    $f(t)=\frac{1}{\frac{t}{t-1}}=\frac{t-1}{t}$
+
+    Replacing $t$ with $x$ and expanding the fraction into two terms:
+
+    $f(x)=1-\frac{1}{x}$
+
+    $f(\sin x)=1-\frac{1}{\sin x} = 1 - \csc x$
+
+    \item
+    Make the substitution $t=\frac{2x-1}{x-3}$
+
+    $tx-3t=2x-1$
+
+    $tx-2x=3t-1$
+
+    $x=\frac{3t-1}{t-2}$
+
+    The new function is $f(t)=\Bigl(\frac{3t-1}{t-2}\Bigr)^2$
+
+    Therefore, $f(x)=\Bigl(\frac{3x-1}{x-2}\Bigr)^2$
+
+    \item
+    Find $f(x)$ if $f\Bigl(\frac{x-3}{x+1}\Bigr)+f\Bigl(\frac{x+3}{1-x}\Bigr)=x$
+
+    Start with substitution $a=\frac{x-3}{x+1}$
+
+    $x=\frac{a+3}{1-a}$
+
+    So the equation is $f(a)+f\Bigl(\frac{\frac{a+3}{1-a}+3}{1-\frac{a+3}{1-a}}\Bigr)=\frac{a+3}{1-a}$
+
+    $f(a)+f\Bigl(\frac{\frac{6-2a}{1-a}}{\frac{-2-2a}{1-a}}\Bigr)=\frac{a+3}{1-a}$
+
+    $f(a)+f\Bigl(\frac{6-2a}{-2-2a}\Bigr)=\frac{a+3}{1-a}$
+
+    $f(a)+f\Bigl(\frac{a-3}{a+1}\Bigr)=\frac{a+3}{1-a}$
+
+    Now we do a second substitution $b=\frac{x+3}{1-x}$
+
+    $x=\frac{b-3}{b+1}$
+
+    So the equation becomes $f\Bigl(\frac{\frac{b-3}{b+1}-3}{\frac{b-3}{b+1}+1}\Bigr)+f(b)=\frac{b-3}{b+1}$
+
+    $f\Bigl(\frac{\frac{-2b-6}{b+1}}{\frac{2b-2}{b+1}}\Bigr)+f(b)=\frac{b-3}{b+1}$
+
+    $f\Bigl(\frac{b+3}{1-b}\Bigr)+f(b)=\frac{b-3}{b+1}$
+
+    For the two new equations we have created, since they hold for $a$ and $b$ respectively, we can substitute $x$ in for each to form two equations we can solve simultaneously.
+
+    \[
+    f(x)+f\Bigl(\frac{x-3}{x+1}\Bigr)=\frac{x+3}{1-x} \tag{1} 
+    \]
+    \[
+    f\Bigl(\frac{x+3}{1-x}\Bigr)+f(x)=\frac{x-3}{x+1} \tag{2}
+    \]
+
+    Adding the two equations together:
+    $f(x)+f\Bigl(\frac{x-3}{x+1}\Bigr)+f\Bigl(\frac{x+3}{1-x}\Bigr)+f(x)=\frac{x+3}{1-x}+\frac{x-3}{x+1}$
+
+    From the original problem, we know that $f\Bigl(\frac{x-3}{x+1}\Bigr)+f\Bigl(\frac{x+3}{1-x}\Bigr)=x$, therefore we can simplify the equation:
+
+    $2f(x)+x=\frac{x+3}{1-x}+\frac{x-3}{x+1}$
+
+    $2f(x)=\frac{x+3}{1-x}+\frac{x-3}{x+1}-x$
+
+    $2f(x)=\frac{(x+3)(x+1)}{1-x^2}+\frac{(x-3)(1-x)}{1-x^2}-\frac{x(1-x^2)}{1-x^2}$
+
+    $2f(x)=\frac{x^2+4x+3-x^2+4x-3-x+x^3}{1-x^2}$
+
+    $2f(x)=\frac{x^3+7x}{1-x^2}$
+
+    $f(x)=\frac{x^3+7x}{2-2x^2}$
+
+    $x \neq 1, -1$
+
+    \item
+    Use the substitution $t=1-x$, meaning $x=1-t$
+
+    This changes the equation to $f(t)=f(2-t)$
+
+    By the definition of an odd function, we know that $f(t)=-f(t-2)$
+
+    This means that $f(2025)=-f(2023)$ and $f(2024)=-f(2022)$, and so on.
+
+    Examining the final few terms, we have:
+
+    $...+f(2015)+f(2016)+f(2017)+f(2018)+f(2019)+f(2020)+f(2021)+f(2022)+f(2023)+f(2024)+f(2025)$
+
+    Which is the same as:
+
+    $...+f(2015)-f(2014)-f(2015)+f(2018)+f(2019)-f(2018)-f(2019)+f(2022)+f(2023)-f(2022)-f(2025)$
+
+    We can see that every four (2022 to 2025) cancel out. Since 2025 is one more than a multiple of 4, everything will cancel out except for $f(1)$, which gives an answer of 2025.
+\end{enumerate}
+
+
+
+
+
+\end{document}

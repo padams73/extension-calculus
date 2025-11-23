@@ -688,6 +688,12 @@ INPUT .\images\taylorseries10.png
 INPUT .\images\taylorseries10.png
 INPUT .\images\taylorseries10.png
 INPUT .\images\taylorseries10.png
+INPUT .\sections\functionalequations.tex
+INPUT .\sections\functionalequations.tex
+INPUT sections\functionalequations.tex
+INPUT .\sections\functionalequations.tex
+INPUT .\sections\functionalequations.tex
+INPUT sections\functionalequations.tex
 INPUT C:\Users\pad\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT .\answers\ans_binomialexpansion.tex
 INPUT .\answers\ans_binomialexpansion.tex
@@ -1010,6 +1016,12 @@ INPUT answers\ans_taylorseries.tex
 INPUT .\answers\ans_taylorseries.tex
 INPUT .\answers\ans_taylorseries.tex
 INPUT answers\ans_taylorseries.tex
+INPUT .\answers\ans_functionalequations.tex
+INPUT .\answers\ans_functionalequations.tex
+INPUT answers\ans_functionalequations.tex
+INPUT .\answers\ans_functionalequations.tex
+INPUT .\answers\ans_functionalequations.tex
+INPUT answers\ans_functionalequations.tex
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out

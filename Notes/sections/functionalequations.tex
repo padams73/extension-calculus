@@ -1,0 +1,176 @@
+\documentclass[../main.tex]{subfiles}
+\graphicspath{{\subfix{../images/}}}
+\begin{document}
+
+
+\section{Functional equations}
+A functional equation is an equation in which one or more functions appear as unknowns. Because we don't have variables as usual, we need to use different techniques to solve them.
+
+A functional equation provides some information about a function (or multiple functions). For example, $f(x) - f(y) = x - y$ is a functional equation. Since functions are outputs, we know that the difference in outputs is equal to the difference in inputs. In this example, $f(x)=x$ satisfies the equation, and more generally $f(x)=x + c$.
+
+\subsection*{Functional equations - substitution}
+One of the first approaches to solving fractional equations is to substitute values or expressions into them. By doing this we can see how the function might behave, and also we may get a good equation out of it that we can use. Substituting in simple values like $-1, 0, 1, -x, \frac{1}{x}$ can help you make progress.
+
+\textbf{Example 1}
+
+If $f(x+3)=x^2 + 8x + 16$, what is $f(x)$?
+
+In this case, we could make the substitution $y=x+3$, which means that $x=y-3$, giving us:
+
+$f(y)=(y-3)^2 +8(y-3) + 16$
+
+$f(y)=y^2-6y+9 +8y-24+16$
+
+$f(y)=y^2 + 2y +1$
+
+Now, to get $f(x)$ we just substitute $y$ with $x$, therefore:
+
+$f(x)=x^2+2x+1$
+
+\textbf{Example 2}
+
+Find all functions that satisfy $f(x) + 3f(\frac{1}{x})=x^2$.
+
+If we make the substitution $x=\frac{1}{x}$, we get $f(\frac{1}{x})+3f(x)=\frac{1}{x^2}$
+
+This gives us a new equation, which we can now compare with the original equation. If we treat $f(x)$ and $f(\frac{1}{x})$ as variables we can solve simultaneously for $f(x)$.
+
+$f(x) + 3f(\frac{1}{x})=x^2$
+
+$f(\frac{1}{x})+3f(x)=\frac{1}{x^2}$
+
+$3 \times$ equation 2 minus equation 1 gives us:
+
+$8f(x) = \frac{3}{x^2}-x^2$
+
+$f(x)=-\frac{x^2}{8}+\frac{3}{8x^2}$
+
+
+\textbf{Example}
+
+Find the value of $f(2)$ if $f(x)+f\Bigl(\frac{1}{1-x}\Bigr)=1+\frac{1}{x(1-x)}$
+
+In this case we would try substituting $x=2$ first:
+
+$f(2)+f(-1)=\frac{1}{2}$
+
+Notice that the second term now has $-1$ in it. So we substitute $x=-1$ next:
+
+Substitute $x=-1$: $f(-1)+f(\frac{1}{2})=\frac{1}{2}$
+
+Since we now see $f\bigl(\frac{1}{2}\bigr)$, we substitute $x=\frac{1}{2}$ next:
+
+$f(\frac{1}{2})+f(2)=5$
+
+This has returned us back to $f(2)$, therefore we now have three equations that we can solve simultaneously. Treating $f(2), f(-1), f\bigl(\frac{1}{2}\bigr)$ as variables:
+
+$f(2)+f(-1)=\frac{1}{2} \\
+f(-1)+f(\frac{1}{2})=\frac{1}{2} \\
+f(\frac{1}{2})+f(2)=5
+$
+
+(1) - (2) + (3) gives us:
+
+$2f(2)=5 \\
+f(2) = \frac{5}{2}$
+
+\subsection*{Cyclic functions}
+Notice that two of the examples above involved substitutions that created a set of equations we could solve simultaneously. This happens when a function is cyclic.
+
+A function is cyclic with order \textit{n} if for all \textit{x}, $f \Bigl(f \bigl(\dots f(x) \dots \bigr) \Bigr)=x$, where $f$ occurs \textit{n} times.
+
+In the example above, $f(x)=\frac{1}{x}$ is a cyclic function with order of 2 since $f \bigl(f(x)\bigr)=x$. i.e. $\frac{1}{\frac{1}{x}}=x$.
+
+$f(x)=1-x$ is also cyclical with order 2 since $f\bigl(f(x)\bigr)=1-(1-x)=x$.
+
+\textbf{Example}
+
+Find all functions that satisfy $f(x)+2f(1-x)=x^3$
+
+Since we know $f(1-x)$ is cyclical with order of 2, if we substitute $x=1-x$ we will form a second equation that we combine with the original, solving simultaneously to find $f(x)$.
+
+$f(1-x)+2f(1-(1-x))=(1-x)^3$
+
+$f(1-x)+2f(x)=1-3x+3x^2-x^3$
+
+$2 \times$ the new equation minus the original gives us:
+
+$3f(x)=2-6x+6x^2-3x^3$
+
+If you can't spot whether a function is cyclic, or what its order might be, you can substitute in some simple values. Plug in a simple value like $-1, 0, 1$, etc, and see what comes out. Since this value is in $f$, we then substitute this in as well, repeating until we get back to the original value. All going well, the number of steps required gives us the order of the function.
+
+\textbf{One last example}
+
+Find $f(x)$ if $f\bigl(\frac{x+2}{x-2}\bigl)=\frac{x^2+4x+4}{8x}$
+
+Note we can rewrite it as $f\bigl(\frac{x+2}{x-2}\bigr)=\frac{(x+2)^2}{8x}$
+
+    Make the substitution $t=\frac{x+2}{x-2}$
+
+    $tx-2t=x+2$
+
+    $tx-x=2t+2$
+
+    $x=\frac{2t+2}{t-1}$
+
+    This creates a new equation to solve:
+
+    $f(t)=\frac{\bigl(\frac{2t+2}{t-1}+2\bigr)^2}{8\frac{2t+2}{t-1}}$
+
+    $f(t)=\frac{\bigl(\frac{2t+2}{t-1}+\frac{2t-2}{t-1}\bigr)^2}{\frac{16t+16}{t-1}}$
+
+    $f(t)=\frac{\bigl(\frac{4t}{t-1}\bigr)^2}{\frac{16t+16}{t-1}}$
+
+    $f(t)=\frac{16t^2}{(t-1)^2}\times \frac{t-1}{16t+16}$
+
+    $f(t)=\frac{t^2}{t-1}\times \frac{1}{t+1}$
+
+    $f(t)=\frac{t^2}{t^2-1}$
+
+    Finally, if the function holds for $t$, it holds for $x$, therefore:
+
+    $f(x)=\frac{x^2}{x^2-1}$
+
+
+\pagebreak
+\hypertarget{functionalequationslink}{\subsection*{Questions}}
+\hyperlink{functionalequationsanswers}{(Answers - page {\pageref*{Functional equations answers}})}
+
+\label{Functional equations}
+\begin{enumerate}[itemsep=0.7cm]
+    \item 
+    If $f(x)+f\bigl(\frac{1}{1-x}\bigr)=x$, find the value of $f(2)$. $(x\neq 0, 1)$
+
+    \item
+    Find $f(x)$ if $f\bigl(\frac{x+3}{x-3}\bigr)=\frac{x^2+6x+9}{12x}$
+
+    \item
+    Find the function that satisfies $f\bigl(\frac{x}{x-1}\bigr)=2f(x)+x^2$   
+
+    \item
+    If $f\bigl(\frac{x}{x-1}\bigr)=\frac{1}{x}$, find $f(\sin x)$
+
+    \item
+    Find $f(x)$ if $f\Bigl(\frac{2x-1}{x-3}\Bigr)=x^2$
+
+    \item
+    Find $f(x)$ if $f\Bigl(\frac{x-3}{x+1}\Bigr)+f\Bigl(\frac{x+3}{1-x}\Bigr)=x$
+
+    \item
+    (2025 Scholarship exam)
+
+    A function $f$ is said to be \textbf{odd} if $f(-x)=-f(x)$ for all $x$ in its domain.
+
+    Examples of odd functions include $f(x)=x^3$ and $f(x)=\sin(x)$.
+
+    Consider an \textbf{odd} function $f$ that satisfies the equation $f(1-x)=f(1+x)$ for all real numbers.
+
+    Given that $f(1)=2025$, find the value of $f(1)+f(2)+$\dots$+f(2025)$.
+
+\end{enumerate}
+
+
+
+
+
+\end{document}
