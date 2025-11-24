@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763880920.13489 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1763880924.96097 0
+["pdflatex"] 1763951658.67285 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1763951663.37562 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746150610 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1746150626 14064 553bc5e9a46b0cde6823bfa66db0fc12 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744837749 13147245 502c8fc61b326b8ccde5b1b211477aad ""
@@ -110,7 +110,7 @@
   "answers/ans_endlesssums.tex" 1743927212 2830 b737cf25c3f669000fde70a304f0f62e ""
   "answers/ans_eulersformula.tex" 1743927691 2968 125b87c7f3a3bb400ab7a79e4e73af20 ""
   "answers/ans_exacttrigvalues.tex" 1743927781 7448 4906df95553fdc46c8ab46d9e3ac3224 ""
-  "answers/ans_functionalequations.tex" 1763880916 5466 e831042dd0de7e43e41b659d40204279 ""
+  "answers/ans_functionalequations.tex" 1763951655 5982 134d7778d4f738c63f6baf5fca7c7f7e ""
   "answers/ans_implicitdifferentiation.tex" 1743928033 2477 4d2d8bab266c99ee745a37499bdbd3a3 ""
   "answers/ans_integratingfactor.tex" 1743928306 9235 7d799661847533f18906882b0ccd46e2 ""
   "answers/ans_integrationbyparts.tex" 1749543990 3719 61dc9939cf9fa09795aa21a08108f6ee ""
@@ -200,10 +200,10 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1763880924 6679 c522d313faa5a70ef0209db56ad6e463 "pdflatex"
-  "main.out" 1763880924 4330 bc6650d09a457d3d49bbf703dc370b64 "pdflatex"
+  "main.aux" 1763951662 6679 64d490f7c4c6f00508d5ec340847e824 "pdflatex"
+  "main.out" 1763951662 4330 bc6650d09a457d3d49bbf703dc370b64 "pdflatex"
   "main.tex" 1762977466 3443 fce2145801bb3d8e69c8f2df6bbeeea9 ""
-  "main.toc" 1763880924 2219 7ef486d3f4c4de246766b546c4df450a "pdflatex"
+  "main.toc" 1763951662 2219 7ef486d3f4c4de246766b546c4df450a "pdflatex"
   "sections/arclength.tex" 1743926924 4843 bd1db57fc9e76a75f0116352dc9571db ""
   "sections/binomialexpansion.tex" 1740447730 2794 65886bdf5a04acfdc29f9fbcfdf90c80 ""
   "sections/camelprinciple.tex" 1750062448 2113 a5c3ef2a59179a7074a0cd5f50a595f4 ""
@@ -213,7 +213,7 @@
   "sections/endlesssums.tex" 1743927162 1743 3acf087dd22b765a1d278b7eb0c9e041 ""
   "sections/eulersformula.tex" 1743927640 2728 3da8f95a95d4f644abe772096208eef4 ""
   "sections/exacttrigvalues.tex" 1743927846 3969 cb95696a04da7ebf9a027c235e3ba998 ""
-  "sections/functionalequations.tex" 1763880435 6082 e0b909beddde5c8b8de028cbca506fb7 ""
+  "sections/functionalequations.tex" 1763951164 6163 07150ff6026a0d4b8d06857ac597c992 ""
   "sections/implicitdifferentiation.tex" 1743928013 4252 b9b08c55149380469f8373f5c70e3c68 ""
   "sections/integratingfactor.tex" 1743928255 3339 2b5cd926055698f810327c75468d70d1 ""
   "sections/integrationbyparts.tex" 1743928731 2447 8e2d59c7d71341c3d73c21792fbfb189 ""

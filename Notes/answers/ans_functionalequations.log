@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.17)  23 NOV 2025 19:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.17)  24 NOV 2025 15:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -401,8 +401,8 @@ Package rerunfilecheck Info: File `ans_functionalequations.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11100 strings out of 469959
- 173599 string characters out of 5470802
+ 11101 strings out of 469959
+ 173605 string characters out of 5470802
  577530 words of memory out of 5000000
  37724 multiletter control sequences out of 15000+600000
  632075 words of font info for 60 fonts, out of 8000000 for 9000
@@ -412,9 +412,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{functionalequationslink} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_functionalequations.pdf" (4 pages, 128023 bytes).
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\answers\ans_functionalequations.pdf" (4 pages, 128910 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
+ 94 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
