@@ -1,4 +1,4 @@
-The resources in this repository have been designed to support my teaching of extension maths to junior (years 9 and 10) and senior (years 12 and 13) classes.
+The resources in this repository have been designed to support my teaching of extension maths to junior (years 9 and 10) and senior (years 12 and 13) classes. Please note, this resource is a live document as I am constantly updating/editing/fixing documents.
 
 The Junior Maths folder contains Word documents with many of my notes and activities written up.
 
