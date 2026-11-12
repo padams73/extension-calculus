@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.17)  12 NOV 2026 15:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.17)  12 NOV 2026 16:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -397,8 +397,8 @@ Package rerunfilecheck Info: File `sumdifferenceofcubes.out' has not changed.
 (rerunfilecheck)             Checksum: 1EE0E18034E6D897264CD7BEA6CFC00A;190.
  ) 
 Here is how much of TeX's memory you used:
- 11105 strings out of 469959
- 173671 string characters out of 5470802
+ 11111 strings out of 469959
+ 173710 string characters out of 5470802
  567526 words of memory out of 5000000
  37732 multiletter control sequences out of 15000+600000
  632988 words of font info for 63 fonts, out of 8000000 for 9000
@@ -408,9 +408,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{sumdifferenceofcubesanswers} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\sumdifferenceofcubes.pdf" (2 pages, 93322 bytes).
+Output written on "c:\Users\pad\OneDrive - St Andrews College\Documents\Maths\13 Extension calculus\Latex\Notes\sections\sumdifferenceofcubes.pdf" (2 pages, 94138 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

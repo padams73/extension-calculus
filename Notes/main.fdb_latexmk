@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1794450123.77899 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1794450129.749 0
+["pdflatex"] 1794453992.13385 "c:/Users/pad/OneDrive - St Andrews College/Documents/Maths/13 Extension calculus/Latex/Notes/main.tex" "main.pdf" "main" 1794454000.54453 0
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1787524175 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1746150626 14064 553bc5e9a46b0cde6823bfa66db0fc12 ""
   "C:/Users/pad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744837749 13147245 502c8fc61b326b8ccde5b1b211477aad ""
@@ -121,7 +121,7 @@
   "answers/ans_parametricintegration.tex" 1750910788 6132 7e06c90b1899b171eac4c3f451ed3020 ""
   "answers/ans_partialfractions.tex" 1744013366 3808 ee5082d1ceb758434efa254a06d1f7de ""
   "answers/ans_quadratics.tex" 1794448809 2562 be9d6c498ecf9ee82e89d2eebff1b09b ""
-  "answers/ans_sumdifferenceofcubes.tex" 1794450108 1515 768e2d304ecc259b1c01408ea3f60b0c ""
+  "answers/ans_sumdifferenceofcubes.tex" 1794453986 1955 d45d2c0323988d69fd2ecf8436ad3b65 ""
   "answers/ans_sumofroots.tex" 1744013571 2512 50aa354ad41f1bc9d81e0f86af95218a ""
   "answers/ans_surfaceofrevolution.tex" 1752466120 3492 646c9cc84cb06204887270fb6a00f474 ""
   "answers/ans_taylorseries.tex" 1749359348 4792 846ae8bbd8be9828740ff9d9128d574d ""
@@ -201,10 +201,10 @@
   "images/volrev7.png" 1719278008 13498 1ac89a549f7c5332b6cbdf50905a4b8c ""
   "images/volrev8.png" 1719294687 4825 6e6e1216b748c8fdb1570d499b56476a ""
   "images/volrev9.png" 1719294697 4824 20a0387b4bcd2bec76d9379eba671dcd ""
-  "main.aux" 1794450129 6818 89a43bebec6bb75d5f72183dbadcbdec "pdflatex"
-  "main.out" 1794450129 4330 bc6650d09a457d3d49bbf703dc370b64 "pdflatex"
+  "main.aux" 1794453999 6818 bb398d58b104544d5feb185c16614857 "pdflatex"
+  "main.out" 1794453999 4330 bc6650d09a457d3d49bbf703dc370b64 "pdflatex"
   "main.tex" 1794448971 3497 a6d1760396c7a1fafd9815e0dbe10829 ""
-  "main.toc" 1794450129 2219 8a97b3e7f956ef2788b81a5e819bd84a "pdflatex"
+  "main.toc" 1794453999 2219 8a97b3e7f956ef2788b81a5e819bd84a "pdflatex"
   "sections/arclength.tex" 1743926924 4843 bd1db57fc9e76a75f0116352dc9571db ""
   "sections/binomialexpansion.tex" 1740447730 2794 65886bdf5a04acfdc29f9fbcfdf90c80 ""
   "sections/camelprinciple.tex" 1750062448 2113 a5c3ef2a59179a7074a0cd5f50a595f4 ""
@@ -225,7 +225,7 @@
   "sections/parametricintegration.tex" 1744013095 3597 e00b2d904a8d3ba54ae14d9b3340a5ee ""
   "sections/partialfractions.tex" 1744013335 4700 4f2a913cf690428baef8e94b38fa3cdb ""
   "sections/quadratics.tex" 1744013429 1582 d900833fdb6b1975686cd72e9d865d06 ""
-  "sections/sumdifferenceofcubes.tex" 1794449553 1670 2311d910ccec88f7e52933cba09b3d97 ""
+  "sections/sumdifferenceofcubes.tex" 1794453447 1920 e83363af303c8ea2d23df44dd21029a9 ""
   "sections/sumofroots.tex" 1744013540 1757 e26019af27cca6d6655a44c6db9a0623 ""
   "sections/surfaceofrevolution.tex" 1744013660 3651 51a9bac8c0a84d8fb45c5202b9a5cb4e ""
   "sections/taylorseries.tex" 1749718151 8019 d1424cd005504a209538c78e4b530287 ""
