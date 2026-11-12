@@ -5,24 +5,24 @@
 \contentsline {section}{\numberline {5}Implicit differentiation}{18}{section.5}%
 \contentsline {section}{\numberline {6}Sum of roots of polynomials}{21}{section.6}%
 \contentsline {section}{\numberline {7}Sum and difference of cubes}{23}{section.7}%
-\contentsline {section}{\numberline {8}Combinations and permutations}{24}{section.8}%
-\contentsline {section}{\numberline {9}Turning equations into quadratics}{27}{section.9}%
-\contentsline {section}{\numberline {10}Endless sums}{29}{section.10}%
-\contentsline {section}{\numberline {11}Telescoping Sums}{31}{section.11}%
-\contentsline {section}{\numberline {12}Log problems}{34}{section.12}%
-\contentsline {section}{\numberline {13}Euler's Formula}{38}{section.13}%
-\contentsline {section}{\numberline {14}Integration by parts}{40}{section.14}%
-\contentsline {section}{\numberline {15}Integration by parts - DI Method}{43}{section.15}%
-\contentsline {section}{\numberline {16}The Camel Principle}{47}{section.16}%
-\contentsline {section}{\numberline {17}Trig substitutions for integration}{49}{section.17}%
-\contentsline {section}{\numberline {18}King rule for integration}{53}{section.18}%
-\contentsline {section}{\numberline {19}Parametric integration}{57}{section.19}%
-\contentsline {section}{\numberline {20}Volumes of revolution}{60}{section.20}%
-\contentsline {section}{\numberline {21}Arc length}{69}{section.21}%
-\contentsline {section}{\numberline {22}Surface of revolution}{73}{section.22}%
-\contentsline {section}{\numberline {23}Differential equations}{77}{section.23}%
-\contentsline {section}{\numberline {24}Integrating factor method}{80}{section.24}%
-\contentsline {section}{\numberline {25}Mixing problems}{83}{section.25}%
-\contentsline {section}{\numberline {26}Evaluating limits}{86}{section.26}%
-\contentsline {section}{\numberline {27}Taylor series}{89}{section.27}%
-\contentsline {section}{\numberline {28}Functional equations}{95}{section.28}%
+\contentsline {section}{\numberline {8}Combinations and permutations}{25}{section.8}%
+\contentsline {section}{\numberline {9}Turning equations into quadratics}{28}{section.9}%
+\contentsline {section}{\numberline {10}Endless sums}{30}{section.10}%
+\contentsline {section}{\numberline {11}Telescoping Sums}{32}{section.11}%
+\contentsline {section}{\numberline {12}Log problems}{35}{section.12}%
+\contentsline {section}{\numberline {13}Euler's Formula}{39}{section.13}%
+\contentsline {section}{\numberline {14}Integration by parts}{41}{section.14}%
+\contentsline {section}{\numberline {15}Integration by parts - DI Method}{44}{section.15}%
+\contentsline {section}{\numberline {16}The Camel Principle}{48}{section.16}%
+\contentsline {section}{\numberline {17}Trig substitutions for integration}{50}{section.17}%
+\contentsline {section}{\numberline {18}King rule for integration}{54}{section.18}%
+\contentsline {section}{\numberline {19}Parametric integration}{58}{section.19}%
+\contentsline {section}{\numberline {20}Volumes of revolution}{61}{section.20}%
+\contentsline {section}{\numberline {21}Arc length}{70}{section.21}%
+\contentsline {section}{\numberline {22}Surface of revolution}{74}{section.22}%
+\contentsline {section}{\numberline {23}Differential equations}{78}{section.23}%
+\contentsline {section}{\numberline {24}Integrating factor method}{81}{section.24}%
+\contentsline {section}{\numberline {25}Mixing problems}{84}{section.25}%
+\contentsline {section}{\numberline {26}Evaluating limits}{87}{section.26}%
+\contentsline {section}{\numberline {27}Taylor series}{90}{section.27}%
+\contentsline {section}{\numberline {28}Functional equations}{96}{section.28}%
